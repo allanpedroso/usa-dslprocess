@@ -40,6 +40,7 @@
     <resourceDescriptors xmi:id="_UIYh4O_OEempq9lRTeTUpA" id="-eJwVqwL2Dg4oWPRnoHqPBg" uri="guidances/supportingmaterials/planning_phase_bmpn.xmi"/>
     <resourceDescriptors xmi:id="_cTTU4O_OEempq9lRTeTUpA" id="-ivISK_x8uM8UoWbAJj4aQQ" uri="guidances/supportingmaterials/analysis_phase_bpmn.xmi"/>
     <resourceDescriptors xmi:id="_jK4QsO_OEempq9lRTeTUpA" id="-v44BDq-xuOWViX_sqYxO2g" uri="guidances/supportingmaterials/reporting_phase_bpmn.xmi"/>
+    <resourceDescriptors xmi:id="_F9mkMACjEeq8gf0zHw0ddA" id="-AhGPT6KdhcgYgHvZJyj2Dw" uri="guidances/supportingmaterials/pear_phases_view_bpmn.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_EJQ_4D3vEem07NBMeZObjA" name="Usa" guid="_EJQ_4D3vEem07NBMeZObjA">
     <ownedRules xmi:id="_treisLlJEemt5oQZSu_gkA" name="wpState" guid="_treisLlJEemt5oQZSu_gkA" body="Template"/>
@@ -72,7 +73,7 @@
             <methodElementProperty xmi:id="_Dz3rkEBIEem9iaQSvThyxA" name="me_edited" value="true"/>
             <presentation xmi:id="-aDnUZ-CSjUKmhF3oj2D29g" href="uma://-aDnUZ-CSjUKmhF3oj2D29g#-aDnUZ-CSjUKmhF3oj2D29g"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_EdYioEBIEem9iaQSvThyxA" name="5_-_evaluation_method_hci" guid="_EdYioEBIEem9iaQSvThyxA" presentationName="S05 - Evaluation Method (HCI)" tasks="__xW7kEBLEem9iaQSvThyxA _xIIrkEBPEem9iaQSvThyxA __nJS0EBPEem9iaQSvThyxA _EhhFoEBREem9iaQSvThyxA _QbIX8EBREem9iaQSvThyxA _5S0o0EZUEemUh_IZAUpcPQ _AA2nEEZVEemUh_IZAUpcPQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_EdYioEBIEem9iaQSvThyxA" name="5_-_evaluation_method_hci" guid="_EdYioEBIEem9iaQSvThyxA" presentationName="S05 - Evaluation Method (HCI)" briefDescription="The evaluation methods defined on Usa-DSL can be, for example, user observation evaluation, usability testing, inspection evaluation, or heuristic evaluation. The user observation evaluation must be applied when the study intention is to obtain the end users opinion about the DSL usability aspects. The inspection evaluation aims to verify the relevance of the language on the usability specialist level." tasks="__xW7kEBLEem9iaQSvThyxA _xIIrkEBPEem9iaQSvThyxA __nJS0EBPEem9iaQSvThyxA _EhhFoEBREem9iaQSvThyxA _QbIX8EBREem9iaQSvThyxA _5S0o0EZUEemUh_IZAUpcPQ _AA2nEEZVEemUh_IZAUpcPQ">
             <methodElementProperty xmi:id="_KO51UEBIEem9iaQSvThyxA" name="me_edited" value="true"/>
             <presentation xmi:id="-NT5CE8J9koh49NQDkz3aMg" href="uma://-NT5CE8J9koh49NQDkz3aMg#-NT5CE8J9koh49NQDkz3aMg"/>
           </contentElements>
@@ -80,7 +81,7 @@
             <methodElementProperty xmi:id="_WeG9IEBIEem9iaQSvThyxA" name="me_edited" value="true"/>
             <presentation xmi:id="-e8fh-wzlwfst69jse7YmSA" href="uma://-e8fh-wzlwfst69jse7YmSA#-e8fh-wzlwfst69jse7YmSA"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_czkDUEBIEem9iaQSvThyxA" name="8_-_evaluation_instructions" guid="_czkDUEBIEem9iaQSvThyxA" presentationName="S08 - Evaluation Instructions" tasks="_ZTmmwEBMEem9iaQSvThyxA _N8GUQEBSEem9iaQSvThyxA _WSKAQEBSEem9iaQSvThyxA _e7nwcEBSEem9iaQSvThyxA _bunHkEZVEemUh_IZAUpcPQ _jxYrMEZVEemUh_IZAUpcPQ _s3qTMEZVEemUh_IZAUpcPQ _2DTjYEZVEemUh_IZAUpcPQ _8fXn4EZVEemUh_IZAUpcPQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Discipline" xmi:id="_czkDUEBIEem9iaQSvThyxA" name="8_-_evaluation_instructions" guid="_czkDUEBIEem9iaQSvThyxA" presentationName="S08 - Evaluation Instructions" briefDescription="According to Wohlin et al. [Wohlin:2012], the evaluation instructions can be composed of use manual, instruments or task to be performed. These instruments must be distributed and used when executing an empirical method. They are used, for example, to clarify the participants of the evaluation on what will be evaluated and when the evaluation will take place. &#xD;&#xA;" tasks="_ZTmmwEBMEem9iaQSvThyxA _N8GUQEBSEem9iaQSvThyxA _WSKAQEBSEem9iaQSvThyxA _e7nwcEBSEem9iaQSvThyxA _bunHkEZVEemUh_IZAUpcPQ _jxYrMEZVEemUh_IZAUpcPQ _s3qTMEZVEemUh_IZAUpcPQ _2DTjYEZVEemUh_IZAUpcPQ _8fXn4EZVEemUh_IZAUpcPQ">
             <methodElementProperty xmi:id="_m0OP8EBIEem9iaQSvThyxA" name="me_edited" value="true"/>
             <presentation xmi:id="-UFHe6R71YEniH-ZtX29xlw" href="uma://-UFHe6R71YEniH-ZtX29xlw#-UFHe6R71YEniH-ZtX29xlw"/>
           </contentElements>
@@ -194,10 +195,10 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_N17-sEBOEem9iaQSvThyxA" name="e1b_-_apply_profile_questionnaire" guid="_N17-sEBOEem9iaQSvThyxA" presentationName="E1b - Apply Profile Questionnaire" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw" mandatoryInput="_i746MEBNEem9iaQSvThyxA" additionallyPerformedBy="_HRn0sJkEEem0F4XTj1vc6A _l0Pd8JkOEem_6v8W7dTdTg _HzcKgJkTEemQRPuA_hcMlw _HGD2MJkKEem_6v8W7dTdTg">
             <methodElementProperty xmi:id="_fNv_EEBOEem9iaQSvThyxA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hT-rwEBOEem9iaQSvThyxA" name="e2a_-_introduce_consent_term" guid="_hT-rwEBOEem9iaQSvThyxA" presentationName="E2a - introduce Consent Term" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw" mandatoryInput="_7Z7msL0uEem59LbFCI02WA" additionallyPerformedBy="_HRn0sJkEEem0F4XTj1vc6A _l0Pd8JkOEem_6v8W7dTdTg _HzcKgJkTEemQRPuA_hcMlw _HGD2MJkKEem_6v8W7dTdTg _12ilcIC7EemnnqC6BupxKw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_hT-rwEBOEem9iaQSvThyxA" name="e2a_-_introduce_consent_term" guid="_hT-rwEBOEem9iaQSvThyxA" presentationName="E2a - Introduce Consent Term" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw" mandatoryInput="_7Z7msL0uEem59LbFCI02WA" additionallyPerformedBy="_HRn0sJkEEem0F4XTj1vc6A _l0Pd8JkOEem_6v8W7dTdTg _HzcKgJkTEemQRPuA_hcMlw _HGD2MJkKEem_6v8W7dTdTg _12ilcIC7EemnnqC6BupxKw">
             <methodElementProperty xmi:id="_u5SD0EBOEem9iaQSvThyxA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wLB_kEBOEem9iaQSvThyxA" name="e2b_-_introduce_tcud" guid="_wLB_kEBOEem9iaQSvThyxA" presentationName="E2b - Introduce Data Acces Agreement" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw" mandatoryInput="_CuwKEL0tEem59LbFCI02WA" additionallyPerformedBy="_HRn0sJkEEem0F4XTj1vc6A _l0Pd8JkOEem_6v8W7dTdTg _HzcKgJkTEemQRPuA_hcMlw _12ilcIC7EemnnqC6BupxKw _HGD2MJkKEem_6v8W7dTdTg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_wLB_kEBOEem9iaQSvThyxA" name="e2b_-_introduce_data_acces_agreement" guid="_wLB_kEBOEem9iaQSvThyxA" presentationName="E2b - Introduce Data Acces Agreement" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw" mandatoryInput="_CuwKEL0tEem59LbFCI02WA" additionallyPerformedBy="_HRn0sJkEEem0F4XTj1vc6A _l0Pd8JkOEem_6v8W7dTdTg _HzcKgJkTEemQRPuA_hcMlw _12ilcIC7EemnnqC6BupxKw _HGD2MJkKEem_6v8W7dTdTg">
             <methodElementProperty xmi:id="_2_TIsEBOEem9iaQSvThyxA" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_KRRIoEBPEem9iaQSvThyxA" name="e4a_-_develop_the_evaluation_study_protocol" guid="_KRRIoEBPEem9iaQSvThyxA" presentationName="E4a - Develop the Evaluation Study Protocol" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw">
@@ -209,7 +210,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_k6xW0EBPEem9iaQSvThyxA" name="e4c_-_conducted_the_evaluation_protocol" guid="_k6xW0EBPEem9iaQSvThyxA" presentationName="E4c - Conducted the Evaluation Protocol" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw">
             <methodElementProperty xmi:id="_7jKgAEBPEem9iaQSvThyxA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xIIrkEBPEem9iaQSvThyxA" name="e5a_-_organize_the_instruments_and_equipaments_for_evaluation" guid="_xIIrkEBPEem9iaQSvThyxA" presentationName="E5a - Organize the Instruments and Equipaments for Evaluation" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_xIIrkEBPEem9iaQSvThyxA" name="e5a_-_organize_the_instruments_and_equipaments_for_evaluation" guid="_xIIrkEBPEem9iaQSvThyxA" presentationName="E5a - Organize the Instruments and Equipments for Evaluation" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw">
             <methodElementProperty xmi:id="_7iRvMEBPEem9iaQSvThyxA" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="__nJS0EBPEem9iaQSvThyxA" name="e5b_-_check_the_availability_of_participants" guid="__nJS0EBPEem9iaQSvThyxA" presentationName="E5b - Check the availability of Participants" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw" additionallyPerformedBy="_HRn0sJkEEem0F4XTj1vc6A _l0Pd8JkOEem_6v8W7dTdTg _HzcKgJkTEemQRPuA_hcMlw _12ilcIC7EemnnqC6BupxKw _HGD2MJkKEem_6v8W7dTdTg">
@@ -287,7 +288,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_rN0u8EZSEemUh_IZAUpcPQ" name="r1a_-_report_the_classification_of_the_subjects" guid="_rN0u8EZSEemUh_IZAUpcPQ" presentationName="R1a - Reporting the classification of the subjects" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw" mandatoryInput="_i746MEBNEem9iaQSvThyxA">
             <methodElementProperty xmi:id="_yhMO4EZSEemUh_IZAUpcPQ" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_zXVzwEZSEemUh_IZAUpcPQ" name="r1b_-_report_the_characterization_of_participantes_in_the_evaluation" guid="_zXVzwEZSEemUh_IZAUpcPQ" presentationName="R1b - Report the characterization of participantes in the evaluation" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw" mandatoryInput="_nVp7AM9AEemzZO9mUfbClQ">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_zXVzwEZSEemUh_IZAUpcPQ" name="r1b_-_report_the_characterization_of_participantes_in_the_evaluation" guid="_zXVzwEZSEemUh_IZAUpcPQ" presentationName="R1b - Report the Characterization of Participants in the Evaluation" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw" mandatoryInput="_nVp7AM9AEemzZO9mUfbClQ">
             <methodElementProperty xmi:id="_E7b8oEZTEemUh_IZAUpcPQ" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_H5JD4EZTEemUh_IZAUpcPQ" name="r1c_-_report_total_number_of_participants_who_performed_the_evaluation" guid="_H5JD4EZTEemUh_IZAUpcPQ" presentationName="R1c - Report total number of participants who performed the evaluation" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw" mandatoryInput="_nVp7AM9AEemzZO9mUfbClQ">
@@ -350,7 +351,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Role" xmi:id="_HGD2MJkKEem_6v8W7dTdTg" name="hci_expert" guid="_HGD2MJkKEem_6v8W7dTdTg" presentationName="HCI Expert">
             <methodElementProperty xmi:id="_Dky5cJkLEem_6v8W7dTdTg" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_a-bAYJkNEem_6v8W7dTdTg" name="e2c_collect_signature_of_subject" guid="_a-bAYJkNEem_6v8W7dTdTg" presentationName="E2c Collect Signature of Subject" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw" mandatoryInput="_CuwKEL0tEem59LbFCI02WA _7Z7msL0uEem59LbFCI02WA" output="_CuwKEL0tEem59LbFCI02WA _7Z7msL0uEem59LbFCI02WA" additionallyPerformedBy="_HRn0sJkEEem0F4XTj1vc6A _HGD2MJkKEem_6v8W7dTdTg _l0Pd8JkOEem_6v8W7dTdTg _HzcKgJkTEemQRPuA_hcMlw">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_a-bAYJkNEem_6v8W7dTdTg" name="e2c_collect_signature_of_subject" guid="_a-bAYJkNEem_6v8W7dTdTg" presentationName="E2c - Collect Signature of Subject" performedBy="_WRyrgD3vEem07NBMeZObjA _jLCSsHKQEem3fqwgrYT3qQ _QuiAsIFuEemnnqC6BupxKw" mandatoryInput="_CuwKEL0tEem59LbFCI02WA _7Z7msL0uEem59LbFCI02WA" output="_CuwKEL0tEem59LbFCI02WA _7Z7msL0uEem59LbFCI02WA" additionallyPerformedBy="_HRn0sJkEEem0F4XTj1vc6A _HGD2MJkKEem_6v8W7dTdTg _l0Pd8JkOEem_6v8W7dTdTg _HzcKgJkTEemQRPuA_hcMlw">
             <methodElementProperty xmi:id="_rjeuIJkNEem_6v8W7dTdTg" name="me_edited" value="true"/>
             <presentation xmi:id="-aqjGiPD-LS4x3PN2H4MWPw" href="uma://-aqjGiPD-LS4x3PN2H4MWPw#-aqjGiPD-LS4x3PN2H4MWPw"/>
           </contentElements>
@@ -388,7 +389,7 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Report" xmi:id="_OYHuILlBEemt5oQZSu_gkA" name="choose_profile_evaluator" guid="_OYHuILlBEemt5oQZSu_gkA" presentationName="Choose Profile Evaluator">
             <methodElementProperty xmi:id="_TdNYoLlBEemt5oQZSu_gkA" name="me_edited" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DY0VsLlGEemt5oQZSu_gkA" name="e9d_-_complete_heuristic_evaluation_checklist" guid="_DY0VsLlGEemt5oQZSu_gkA" presentationName="E9d - Complete Heuristic Evaluation Checklist" performedBy="_HGD2MJkKEem_6v8W7dTdTg">
+          <contentElements xsi:type="org.eclipse.epf.uma:Task" xmi:id="_DY0VsLlGEemt5oQZSu_gkA" name="e9d_-_complete_heuristic_evaluation_checklist" guid="_DY0VsLlGEemt5oQZSu_gkA" presentationName="E9d - Complete the Heuristic Evaluation Checklist" performedBy="_HGD2MJkKEem_6v8W7dTdTg">
             <methodElementProperty xmi:id="_GoogoLlGEemt5oQZSu_gkA" name="me_edited" value="true"/>
           </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_WehZ8L0lEem59LbFCI02WA" name="heuristic_evaluation_checklist_for_dsl" guid="_WehZ8L0lEem59LbFCI02WA" presentationName="Heuristic Evaluation Checklist for DSL" checklists="_p66u8L0qEem59LbFCI02WA">
@@ -538,6 +539,10 @@
           <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_d6ofEO_OEempq9lRTeTUpA" name="reporting_phase_bpmn" guid="_d6ofEO_OEempq9lRTeTUpA" presentationName="Reporting Phase BPMN">
             <methodElementProperty xmi:id="_jKsqgO_OEempq9lRTeTUpA" name="me_edited" value="true"/>
             <presentation xmi:id="-v44BDq-xuOWViX_sqYxO2g" href="uma://-v44BDq-xuOWViX_sqYxO2g#-v44BDq-xuOWViX_sqYxO2g"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_-ASvYACiEeq8gf0zHw0ddA" name="pear_phases_view_bpmn" guid="_-ASvYACiEeq8gf0zHw0ddA" presentationName="pear_phases_view_bpmn">
+            <methodElementProperty xmi:id="_F9YhwACjEeq8gf0zHw0ddA" name="me_edited" value="true"/>
+            <presentation xmi:id="-AhGPT6KdhcgYgHvZJyj2Dw" href="uma://-AhGPT6KdhcgYgHvZJyj2Dw#-AhGPT6KdhcgYgHvZJyj2Dw"/>
           </contentElements>
         </childPackages>
       </childPackages>

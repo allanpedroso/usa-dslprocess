@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NT5CE8J9koh49NQDkz3aMg" name="5_-_evaluation_method_hci,_EdYioEBIEem9iaQSvThyxA" guid="-NT5CE8J9koh49NQDkz3aMg" changeDate="2019-10-17T20:06:22.379-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NT5CE8J9koh49NQDkz3aMg" name="5_-_evaluation_method_hci,_EdYioEBIEem9iaQSvThyxA" guid="-NT5CE8J9koh49NQDkz3aMg" changeDate="2019-11-06T12:26:40.741-0200">
   <mainDescription>&lt;p>&#xD;
-    &lt;img alt=&quot;&quot; src=&quot;resources/tasks por profile S05.svg&quot; width=&quot;100%&quot; />&#xD;
+    &amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;resources/tasks por profile S05.svg&quot; width=&quot;100%&quot; />&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

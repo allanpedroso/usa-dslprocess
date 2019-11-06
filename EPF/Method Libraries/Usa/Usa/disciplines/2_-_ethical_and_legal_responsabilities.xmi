@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3WDNyKJUJtZL6T-90Wi3fg" name="2_-_ethical_and_legal_responsabilities,_UKlYIEBEEem9iaQSvThyxA" guid="-3WDNyKJUJtZL6T-90Wi3fg" changeDate="2019-10-17T18:47:43.482-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3WDNyKJUJtZL6T-90Wi3fg" name="2_-_ethical_and_legal_responsabilities,_UKlYIEBEEem9iaQSvThyxA" guid="-3WDNyKJUJtZL6T-90Wi3fg" changeDate="2019-11-06T12:23:58.596-0200">
   <mainDescription>&lt;p>&#xD;
-    &lt;img alt=&quot;&quot; src=&quot;resources/tasks por profile S02.svg&quot; width=&quot;100%&quot; />&#xD;
+    &amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;resources/tasks por profile S02.svg&quot; width=&quot;100%&quot; />&#xD;
 &lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>
