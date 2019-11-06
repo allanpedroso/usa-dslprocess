@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xmobvy8CFXW-0KyfqCHXjg" name="p1_-_choose_the_profile_evaluator,_2m83EJkXEemQRPuA_hcMlw" guid="-xmobvy8CFXW-0KyfqCHXjg">
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xmobvy8CFXW-0KyfqCHXjg" name="p1_-_choose_the_profile_evaluator,_2m83EJkXEemQRPuA_hcMlw" guid="-xmobvy8CFXW-0KyfqCHXjg" changeDate="2019-11-06T16:00:16.874-0200">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-38b4c3ab-7fff-6f8d-dcb0-4515a5c04707&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-38b4c3ab-7fff-6f8d-dcb0-4515a5c04707&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    This task focuses on applying the profile questionnaire in order to guide the Process Executor in the classification of&#xD;
+    Evaluation participants.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    The results captured will be used in the future to understand the results obtained during the activities carried out by&#xD;
+    the participants and to correlate the responses of the post-evaluation questionnaire with the profile analyzed.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
   <sections xmi:id="_cQmcsLlIEemt5oQZSu_gkA" name="Select the profile evaluator" guid="_cQmcsLlIEemt5oQZSu_gkA">
     <sectionDescription>&lt;b id=&quot;docs-internal-guid-0ab5cdd0-7fff-ca6b-b3b2-d8965b75210e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
 &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
