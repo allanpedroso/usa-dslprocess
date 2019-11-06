@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jcr2Ohc-TCsn-n88IIXFPw" name="new_discipline,_nsIIUEBIEem9iaQSvThyxA" guid="-jcr2Ohc-TCsn-n88IIXFPw" changeDate="2019-03-06T16:47:45.548-0300">
+  <mainDescription>&lt;span&#xD;
+style='FONT-SIZE: 16px; FONT-FAMILY: -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, Helvetica, Arial, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(36,41,46); FONT-STYLE: normal; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(255,255,255); TEXT-INDENT: 0px; font-variant-ligatures: normal; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial'>&#xD;
+This is the step in which the aspects defined on the previous steps are applied. Therefore, it is necessary that the&#xD;
+previous steps were executed and tested thoroughly, before involving the evaluation participants. Hence, a pilot test must&#xD;
+be executed prior to the application of the evaluation to the actual participants. This will guarantee that the evaluation&#xD;
+is viable. Furthermore, it is also important to guarantee that the needed number of participants will be achieved,&#xD;
+otherwise, the results may not be statistically relevant, if a quantitative evaluation is being performed.&lt;/span></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

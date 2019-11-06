@@ -1,0 +1,507 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-7pOyCcPtzZKaFKSB-2D3zg" name="Usa,_uFqh8UZWEemUh_IZAUpcPQ" guid="-7pOyCcPtzZKaFKSB-2D3zg"/>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-AAEXurBlv2SZ3JlO-A2RLw" name="Planning Phase,_yGghMUZWEemUh_IZAUpcPQ" guid="-AAEXurBlv2SZ3JlO-A2RLw">
+    <mainDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 15px; FONT-FAMILY: Slack-Lato, appleLogo, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(29,28,29); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(248,248,248); TEXT-INDENT: 0px; font-variant-ligatures: common-ligatures; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+Phase 1 - Planning: in this phase, the evaluator organizes the planning of the aspects that will be used in order to&#xD;
+evaluate the DSL. In this phase, documents must be defined and created, as well as decision-making about the data that has&#xD;
+to be collected or what kind of user will be part of the evaluation, for example. To summarize, this phase is where the&#xD;
+structure and planning of the evaluation will be constructed.&lt;/span></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-Tr5w3ti0bzbvn_o65m_OEw" name="Execution Phase,_clFVMUZYEemUh_IZAUpcPQ" guid="-Tr5w3ti0bzbvn_o65m_OEw">
+    <mainDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 15px; FONT-FAMILY: Slack-Lato, appleLogo, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(29,28,29); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(248,248,248); TEXT-INDENT: 0px; font-variant-ligatures: common-ligatures; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+Phase 2 - Execution: in this phase, the documents created are used, subjects are recruited, environments are created and&#xD;
+the evaluation is performed, following the already defined protocol.&lt;/span></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-8n2DR01rjGbFD6oqS5ANyQ" name="Analysis Phase,_brqkcUZZEemUh_IZAUpcPQ" guid="-8n2DR01rjGbFD6oqS5ANyQ">
+    <mainDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 15px; FONT-FAMILY: Slack-Lato, appleLogo, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(29,28,29); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(248,248,248); TEXT-INDENT: 0px; font-variant-ligatures: common-ligatures; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+Phase 3 - Analysis: this phase aims to accomplish the analysis of the artifacts created on the Planning and Execution&#xD;
+phases. On the Planning phase, this analysis is executed in order for the documents to be adapted and, therefore, the&#xD;
+decisions about the evaluation execution can be made. In this phase, the analysis is focused on the collected data and&#xD;
+tasks created.&lt;/span></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-iBu4xDlt7Ay5_DzS2e4ZNA" name="Reporting Phase,_HQbZ4UZaEemUh_IZAUpcPQ" guid="-iBu4xDlt7Ay5_DzS2e4ZNA">
+    <mainDescription>&lt;span&#xD;
+style=&quot;FONT-SIZE: 15px; FONT-FAMILY: Slack-Lato, appleLogo, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(29,28,29); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(248,248,248); TEXT-INDENT: 0px; font-variant-ligatures: common-ligatures; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
+Phase 4 - Reporting: in this phase, the evaluator will register the used protocol, the created artifacts and analyzed&#xD;
+data.&lt;/span></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-2-EJsNjEc7HJWLSsESUHaw" name="P1 - Define Evaluators Profile,_1mhEQUZWEemUh_IZAUpcPQ" guid="-2-EJsNjEc7HJWLSsESUHaw">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-d984aab5-7fff-ef9c-fa59-6851e12ff775&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-d984aab5-7fff-ef9c-fa59-6851e12ff775&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    P1 - Define Evaluators Profiles&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : the goal of this activity is to define the evaluators profiles, which will be related to the evaluation method that&#xD;
+    will be used. The evaluation can be performed by, for example, an HCI expert, a domain analyst, a domain developer or a&#xD;
+    Domain Tester.&amp;nbsp;&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-99l1pihwsg0iZ65ATRQ6UQ" name="P2 - Define Informed Consent Term,_A58gUUZXEemUh_IZAUpcPQ" guid="-99l1pihwsg0iZ65ATRQ6UQ">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-5bd4fda6-7fff-2f44-93a8-3167b64088e6&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-5bd4fda6-7fff-2f44-93a8-3167b64088e6&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    P2 - Define Informed Consent Term&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : it is a formal document that describes the evaluation goal, how the evaluation will take place, how the data will be&#xD;
+    collected, how the data will be protected, and so on. Usually, it is recommended the use of ethical codes from&#xD;
+    organizations like, for example, The Association for Computing Machinery (ACM).&amp;nbsp;&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-66g1ovt4_0j5sR3QUhtoWQ" name="P3 - Define Data Type,_YAeXAUZXEemUh_IZAUpcPQ" guid="-66g1ovt4_0j5sR3QUhtoWQ">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-6566038b-7fff-65c8-2f87-af047c2a3527&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+P3 - Define Data Type&lt;/span> &lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+: the collected data type from the evaluation can be quantitative and/or qualitative. The quantitative data are numeric&#xD;
+results that predict the quantity of answers attributed to determined item of a question. The qualitative data is composed&#xD;
+of subjective information related to the participant’s opinion about studied object. These data aim to predict what kind of&#xD;
+information the evaluator intends to obtain. Albuquerque et al. suggest the use of two data types, in order to obtain a&#xD;
+wider and more complete view about the participant opinions. Barisic et al., on the other hand, use quantitative data and&#xD;
+consider that to be sufficient for the goal of their research.&lt;/span>&lt;/b></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-pAf_Mxoz4j0yWC5I2h0dlw" name="P4 - Define Empirical Study Method,_gUDWwUZXEemUh_IZAUpcPQ" guid="-pAf_Mxoz4j0yWC5I2h0dlw">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-2d0a1494-7fff-92bb-96b4-64546ca3d621&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-2d0a1494-7fff-92bb-96b4-64546ca3d621&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    P4 - Define Empirical Study Method&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : there are different empirical evaluation methods that can be used to evaluate usability. These methods have to&#xD;
+    involve users during data collection. This activity is closely related to activity P2. Examples of empirical methods&#xD;
+    are: Controlled Experiment, Survey or Case Study.&amp;nbsp;&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-qzxfu9jeabUPugpcZJHBZw" name="P5 - Define Evaluation Usability Type,_mQF3YUZXEemUh_IZAUpcPQ" guid="-qzxfu9jeabUPugpcZJHBZw">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-1496fedb-7fff-b9a9-bba3-45af6e83d377&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-1496fedb-7fff-b9a9-bba3-45af6e83d377&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    P5 - Define Evaluation Usability Type&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : as mentioned in the description of step 5 - Evaluation Method, evaluation can be through end users, HCI or DSL&#xD;
+    experts. This activity is related to activities P1, P3 and P4.&amp;nbsp;&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-eGCzPQeMwu5phKuA-_CQsg" name="P6 - Define Metrics for Language Validation,_tpjYQUZXEemUh_IZAUpcPQ" guid="-eGCzPQeMwu5phKuA-_CQsg">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-c190c951-7fff-1941-369e-f5ffb2416bab&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+P6 - Define Metrics for Language Validation&lt;/span>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+: the metrics depend on the evaluation goal and usability criteria that someone wants to evaluate. Examples of criteria&#xD;
+that may be evaluated are: easy to learn, easy to remember, easy to use, effort/conclusion time, perceived complexity,&#xD;
+utility, satisfaction, conclusion rate, task error rate, efficiency or effectiveness.&lt;/span>&lt;/b></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-2U3Q_CZmaD34eBlNP_zPeA" name="P7 - Define the Instruments of Data Gathering,_z69E4UZXEemUh_IZAUpcPQ" guid="-2U3Q_CZmaD34eBlNP_zPeA">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-135f72f9-7fff-4f4a-401d-3f2ae348c7d8&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+P7 - Define the Instruments of Data Gathering&lt;/span>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+: some of the instruments that can be used to collect data can be heuristic checklist, log capture, use observation,&#xD;
+interview or questionnaire.&lt;/span>&lt;/b></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-kaBVfSLAO1bJC-WvPJQmNg" name="P8 - Define the Instruments of Instruction and Training,_-y-XUUZXEemUh_IZAUpcPQ" guid="-kaBVfSLAO1bJC-WvPJQmNg">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-80a7b454-7fff-786c-344d-071f3fe3ca06&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+P8 - Define the Instruments of Instruction and Training&lt;/span>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+: the UsaDSL framework use the following instruments: DSL guide, user scenario and language presentation. This activity&#xD;
+also defines the&lt;/span> &lt;a style=&quot;TEXT-DECORATION: none&quot;&#xD;
+href=&quot;https://www.acm.org/about-acm/acm-code-of-ethics-and-professional&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: underline; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #1155cc; FONT-STYLE: normal; BACKGROUND-COLOR: transparent; -webkit-text-decoration-skip: none; text-decoration-skip-ink: none&quot;>&#xD;
+https://www.acm.org/about-acm/acm-code-of-ethics-and-professional&lt;/span>&lt;/a> &lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+conduct tasks that will be executed by the user, when an empirical method is chosen. In that case, this activity has a&#xD;
+close relation to P3, P4 and P5.&lt;/span>&lt;/b></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-GiTubDCYvmlUzSPVECisuA" name="P9 - Define Execution Place,_Ghb30UZYEemUh_IZAUpcPQ" guid="-GiTubDCYvmlUzSPVECisuA">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-6fa70acd-7fff-ae98-f660-77f210c651b7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-6fa70acd-7fff-ae98-f660-77f210c651b7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    P9 - Define Execution Place&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : the place where the evaluation will take place depends on the data type that will be collected, the empirical study&#xD;
+    method that was chosen or even the usability type. For example, places could include a laboratory, via e-mail or&#xD;
+    through the web, or even the users workplace.&amp;nbsp;&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-PmT-SgcUtTymvIMFmYtAqA" name="P10 - Define Data Storege,_OEW2sUZYEemUh_IZAUpcPQ" guid="-PmT-SgcUtTymvIMFmYtAqA">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-72312787-7fff-f06a-36b4-137c8be6c736&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-72312787-7fff-f06a-36b4-137c8be6c736&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    P10 - Define Data Storage&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : data packaging is an important activity, since this data might be used later in to replicate the&#xD;
+    evaluation.&amp;nbsp;&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-4y_U8TpntmjrC1nQXRB8JQ" name="P11 - Define Study Reportinh,_T9f0UUZYEemUh_IZAUpcPQ" guid="-4y_U8TpntmjrC1nQXRB8JQ">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-4e57d2d9-7fff-19f1-e18f-07e055787593&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-4e57d2d9-7fff-19f1-e18f-07e055787593&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    P11 - Define Study Reporting&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : this activity is responsible for describing the way the results of the evaluation will be&#xD;
+    registered.&amp;nbsp;&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-s-ezpcgeWvxh4YL9O8S-tw" name="E1 - Apply Instruments to Identify Profiles,_eU5tAUZYEemUh_IZAUpcPQ" guid="-s-ezpcgeWvxh4YL9O8S-tw">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-f8910ed0-7fff-4f95-9342-ade64649e375&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-f8910ed0-7fff-4f95-9342-ade64649e375&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    E1 - Apply Instruments to Identify Profiles&lt;/span> &lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : questionnaire that characterizes the profile of the evaluation of participants is applied. This document is used to&#xD;
+    obtain information such as: DSL/Domain experience time, training, and area of activity.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-RJoPAWtCZImV0MWyMyIcNg" name="E2 - Introduce the Form and Collect Signature of Subjects,_lLntMUZYEemUh_IZAUpcPQ" guid="-RJoPAWtCZImV0MWyMyIcNg">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-225eb10a-7fff-731a-5be9-f833bed86f9c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-225eb10a-7fff-731a-5be9-f833bed86f9c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    E2 - Introduce the Form and Collect Signatures of Subjects&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : in this activity, the consent form must be presented to the participants and after their reading and consent, it must&#xD;
+    be signed and a copy is given to the researcher that is conducting the evaluation. The consent form provides the&#xD;
+    subjects with sufficient written information to decide whether to participate in a research study or not.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-ng5kfQhliTyJ1VHhKkorNg" name="E4 - Develop and Conduct Protocol,_tkEl4UZYEemUh_IZAUpcPQ" guid="-ng5kfQhliTyJ1VHhKkorNg">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-c9c296ff-7fff-9278-54a2-b039dcfdb590&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c9c296ff-7fff-9278-54a2-b039dcfdb590&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    E4 - Develop and Conduct Protocol&lt;/span> &lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : this activity consists of developing the evaluation protocol, describing all the steps and documentation that will be&#xD;
+    used, such as the type of evaluation, experimental study, context, hypotheses, variables of the study, profile of the&#xD;
+    participants, the instruments, type of data, data storage and how the study will be reported. This protocol must be&#xD;
+    performed by the researcher carefully following the planned steps and activities.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="--jCm01ZYTnPg0I7KqhjryA" name="E5 - Prepare the Evaluation,_znJioUZYEemUh_IZAUpcPQ" guid="--jCm01ZYTnPg0I7KqhjryA">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-01d7cee0-7fff-cc24-a221-7dfffaffa882&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-01d7cee0-7fff-cc24-a221-7dfffaffa882&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    E5 - Prepare the Evaluation&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : the evaluation instruments should be organized, the equipment arranged in the rooms, the participants must be&#xD;
+    available at the scheduled date and time, and the questionnaires answered.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-oQppTyNpZQg7LME7gZfQYw" name="E7 - Data Collection,_56phAUZYEemUh_IZAUpcPQ" guid="-oQppTyNpZQg7LME7gZfQYw">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-e8fd89e4-7fff-f6eb-510e-255f054c0194&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-e8fd89e4-7fff-f6eb-510e-255f054c0194&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    E7 Data Collection&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : by applying the characterization questionnaires, collecting instruments and obtaining the data recorded in audio or&#xD;
+    video, they must be compiled and stored for later tabulation, transcription and analysis.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-KMG2grT55A7slQwvDb4k2A" name="E8 - Introduce Instruments of Instruction and Conduct Training,_FPsGoUZZEemUh_IZAUpcPQ" guid="-KMG2grT55A7slQwvDb4k2A">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-44a1d1b6-7fff-1e39-701d-183e86a6a22e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+E8 - Introduce Instruments of Instruction and Conduct Training&lt;/span>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+: the presentation and training are intended to guide the functioning of the language, regarding syntax and semantics, as&#xD;
+well as to instruct on the usage scenario, that is, explain the task to be performed in the evaluation process. The&#xD;
+delivery of the language manual and usage scenario refers to the delivery of the printed or online documents. These&#xD;
+documents describe the functioning of the language and its syntax and semantics. They contain the description of the usage&#xD;
+scenario that must be expressed as a requirement or task.&lt;/span>&lt;/b></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-LirIE1plu13fzU3oeQkAwg" name="E9 - Execution of Tasks and Evaluation Conduction,_OX5BQUZZEemUh_IZAUpcPQ" guid="-LirIE1plu13fzU3oeQkAwg">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-454b24ee-7fff-4317-777f-35ae7075c4e6&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-454b24ee-7fff-4317-777f-35ae7075c4e6&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    E9 - Execution of Tasks and Evaluation Conduction&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : the task must be modeled according to the usage scenario delivered to the participants and must be performed from the&#xD;
+    tool that supports the execution of the language. Upon completion of the task modeling, the researcher may conduct an&#xD;
+    interview with the participants and thereby obtain their opinion about the language being evaluated. In addition to the&#xD;
+    interview, the researcher can choose only the use of the questionnaire, filled by participants after completing their&#xD;
+    tasks.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-v0UQ_SWdEWOncgdnpuwJJw" name="E10 - Store Data Obtained,_V2ruEUZZEemUh_IZAUpcPQ" guid="-v0UQ_SWdEWOncgdnpuwJJw">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-b4dc7a8f-7fff-7d25-1eca-8de99e5a7abe&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+E10 - Store Data Obtained&lt;/span>&lt;span&#xD;
+style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+: after performing the evaluation, the collected data should be stored in a database or other location in order to compile&#xD;
+the data later. If data are quantitative, it is important to tabulate them so that their behavior can be observed later and&#xD;
+thus to obtain conclusions. If the data is qualitative, it is important to process the interviews, annotations, answers to&#xD;
+open questions, recordings and access logs, trying to obtain patterns and a set of relevant information for the&#xD;
+study.&lt;/span>&lt;/b></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-PU1FkgNqqR89P8rtifDs8g" name="A1  - Analyze Evaluator Profiles,_dumskUZZEemUh_IZAUpcPQ" guid="-PU1FkgNqqR89P8rtifDs8g">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-c414c206-7fff-abb6-66fc-78bf24f0a64c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-c414c206-7fff-abb6-66fc-78bf24f0a64c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    A1 - Analyze Evaluators Profiles&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : the analysis of the profiles is used to gather the number of participants and the type of knowledge they have. These&#xD;
+    profiles can be classified as:&amp;nbsp;&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px&quot;>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: italic; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Beginner&lt;/span>&lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            : one who does not have solid knowledge on the domain or on DSL.&lt;/span>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: italic; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Intermediate&lt;/span>&lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            : one who has some knowledge on the domain and/or on DSL&amp;nbsp;&lt;/span>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: italic; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Advanced&lt;/span>&lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            : one who has solid knowledge on the domain and on DSL.&lt;/span>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-rCeML3W_sI0gT13TjIn82w" name="A2 - ,_i9WCUUZZEemUh_IZAUpcPQ" guid="-rCeML3W_sI0gT13TjIn82w">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-9f04360d-7fff-d081-563d-855c01ea0c04&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-9f04360d-7fff-d081-563d-855c01ea0c04&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    A4 - Analyze the Developed Protocol&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : in the analysis activity of the study protocol, all the described steps should be reviewed in detail and how they&#xD;
+    will be performed in order to ensure the validity of the study.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-bmkxMw2c58j15Fz01Tzz-w" name="A7 - Analyze the Collected Data,_x1wBAUZZEemUh_IZAUpcPQ" guid="-bmkxMw2c58j15Fz01Tzz-w">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-ddb090c7-7fff-0347-3351-7f5e0dc53ea7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-ddb090c7-7fff-0347-3351-7f5e0dc53ea7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    A7 - Analyze the Collected Data&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : when analyzing the data collected during the evaluation, standardization, hypothesis testing, analysis of images and&#xD;
+    logs, transcription of interviews and videos are performed.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-QdDIi-YQ2WRLbxYue_xbjw" name="A9 - Analyze the performed Tasks,_6zXcQUZZEemUh_IZAUpcPQ" guid="-QdDIi-YQ2WRLbxYue_xbjw">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-45c7baed-7fff-2c45-09e5-27177715ce0a&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-45c7baed-7fff-2c45-09e5-27177715ce0a&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    A9 - Analyze the Performed Tasks&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : the developed models should be checked by more than one researcher to verify and to obtain the task execution rate&#xD;
+    and the error rate performed by the participants. After, the evaluation of those that did not reach the objectives of&#xD;
+    the task, or did not complete the intended task, will be discarded.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-ACcElFBz2oxjBp6tAG42HA" name="A11 - Analyze the Documentation,_CFBE8UZaEemUh_IZAUpcPQ" guid="-ACcElFBz2oxjBp6tAG42HA">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-5a01bcd1-7fff-4c3f-2cf9-92046676ffa0&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-5a01bcd1-7fff-4c3f-2cf9-92046676ffa0&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    A11 - Analyze the Documentation&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : the documentation used in the evaluation must all be analyzed by the researcher and checked by a second researcher to&#xD;
+    ensure the consistency of the produced information and documentation.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-XXs6-jaCAoqJhLcAJ6bYUw" name="R1 - Report Evaluator Profiles,_IwdpQUZaEemUh_IZAUpcPQ" guid="-XXs6-jaCAoqJhLcAJ6bYUw">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-11009539-7fff-7068-d136-c682f0f40800&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-11009539-7fff-7068-d136-c682f0f40800&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    R1 - Report Evaluator Profiles&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : when reporting the participants' profile, the classification and the total number of participants who performed the&#xD;
+    evaluation should be taken into account. Furthermore, other information should be described if it appears in the&#xD;
+    characterization questionnaire.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-zMNXyTa338P_j73LX6uKGw" name="R2 - Report Subjects Number and the Form Used,_NDVMoUZaEemUh_IZAUpcPQ" guid="-zMNXyTa338P_j73LX6uKGw">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-8e013197-7fff-8db0-12b9-75d186f1c6cf&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-8e013197-7fff-8db0-12b9-75d186f1c6cf&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    R2 - Report Subjects Number and the Form Used&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : all documents used in the evaluation should be described in detail and attached to the final report.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-O4G2IBQRx4eDogvUZX7vQg" name="R4 - Report the Developed Protocol,_STZ_IUZaEemUh_IZAUpcPQ" guid="-O4G2IBQRx4eDogvUZX7vQg">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-0324260c-7fff-aee3-dee3-20bbc0dfc27c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-0324260c-7fff-aee3-dee3-20bbc0dfc27c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    R4 - Report the Developed Protocol&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : the study protocol should be described for each planned, executed and analyzed step.&amp;nbsp;&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-Pr1qbZxHwUqgGm5WLZl77g" name="R5 - Report Conduction Evaluation,_YH6UYUZaEemUh_IZAUpcPQ" guid="-Pr1qbZxHwUqgGm5WLZl77g">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-1f19debf-7fff-db9d-1a51-2b03c41bb910&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-1f19debf-7fff-db9d-1a51-2b03c41bb910&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    R5 - Report Conduction Evaluation&lt;/span> &lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : HCI evaluation methods must be described:&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px&quot;>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: italic; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Usability Testing&lt;/span> &lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            : this evaluation aims to test whether potential users would use language developed to model the domain to&#xD;
+            which it was proposed;&lt;/span>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: italic; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Heuristic Evaluation&lt;/span> &lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            : this is a usability inspection method, which is applied by HCI specialists who are guided by a set of&#xD;
+            heuristics developed by Nielsen.&lt;/span> &lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            &amp;nbsp;&amp;nbsp;&lt;/span> &lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            &lt;br />&#xD;
+            This method aims to identify usability problems in the evaluated language.&lt;/span>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-o3DIry2XWgtV9eXWFCPyLg" name="R7 - Report Data Analysis,_c6i88UZaEemUh_IZAUpcPQ" guid="-o3DIry2XWgtV9eXWFCPyLg">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-ffb5f88e-7fff-2378-b033-1b54add953e9&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-ffb5f88e-7fff-2378-b033-1b54add953e9&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    R7 - Report Data Analysis&lt;/span> &lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    :&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;ul style=&quot;MARGIN-BOTTOM: 0px; MARGIN-TOP: 0px&quot;>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: italic; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Quantitative data&lt;/span> &lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            : should be reported through charts, spreadsheets or hypothesis testing.&lt;/span>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+    &lt;li&#xD;
+    style=&quot;LIST-STYLE-TYPE: disc; FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;&#xD;
+     dir=&quot;ltr&quot;>&#xD;
+        &lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+            &lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: italic; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            Qualitative data&lt;/span> &lt;span&#xD;
+            style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+            : can be represented by an image, interview transcript, annotation excerpts,&lt;br />&#xD;
+            categorization and standards, high-level video narratives, and fragments of open-ended questions.&lt;/span>&#xD;
+        &lt;/p>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-wWHlF6-2z44yPtyL5Kw9VA" name="R8 - Report the Instruments,_SeuB0UZbEemUh_IZAUpcPQ" guid="-wWHlF6-2z44yPtyL5Kw9VA">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-33b864d6-7fff-cd0a-06da-86d72f238b9f&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-33b864d6-7fff-cd0a-06da-86d72f238b9f&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    R8 - Report the Instruments&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : the instruments used, characterization questionnaire, language manual, usage scenario, interview script, opinion&#xD;
+    questionnaire, among others, must be detailed at high level in the protocol and arranged in an appendix in the document&#xD;
+    used to present the study.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-IeKVecGvHbWunz4nBxhyCg" name="R9 - Repo,_X0vrUUZbEemUh_IZAUpcPQ" guid="-IeKVecGvHbWunz4nBxhyCg">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-6bce11e5-7fff-fd8d-0362-de5a35b9ec07&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-6bce11e5-7fff-fd8d-0362-de5a35b9ec07&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    R9 - Report Tasks Analysis&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : the evaluation must be reported according to the chosen method. The usability test will be reported through the&#xD;
+    protocol of an experiment, case study or survey. When a heuristic evaluation is performed, the analysis performed by&#xD;
+    the specialists, as well as the activities carried out and the generated models, should all be reported.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-PHd4Hg4gPxZ3d87USSl3DA" name="R11 - Report the Results and Analyzed information,_fBjQQUZbEemUh_IZAUpcPQ" guid="-PHd4Hg4gPxZ3d87USSl3DA">
+    <mainDescription>&lt;b id=&quot;docs-internal-guid-4e637f50-7fff-23a7-d949-98a37af72dc1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-4e637f50-7fff-23a7-d949-98a37af72dc1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    R11 - Report the Results and Analyzed Information&lt;/span>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    : at the end of the evaluation the data should be fully described in a report format, containing all the documents&#xD;
+    attached to the report.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+</xmi:XMI>

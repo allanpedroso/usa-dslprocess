@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="Work Products.LEVEL_ID">
+		<item value="Work Products" key="Work Products.Type"/>
+		<item value="" key="Work Products.Pattern"/>
+	</section>
+	<section name="Role Sets.LEVEL_ID">
+		<item value="Role Sets" key="Role Sets.Type"/>
+		<item value="" key="Role Sets.Pattern"/>
+	</section>
+	<section name="Artifacts.LEVEL_ID">
+		<item value="Artifacts" key="Artifacts.Type"/>
+		<item value="" key="Artifacts.Pattern"/>
+	</section>
+	<section name="Most common.LEVEL_ID">
+		<item value="Most common" key="Most common.Type"/>
+		<item value="" key="Most common.Pattern"/>
+	</section>
+	<section name="Custom Categories.LEVEL_ID">
+		<item value="Custom Categories" key="Custom Categories.Type"/>
+		<item value="*" key="Custom Categories.Pattern"/>
+	</section>
+	<section name="Tasks.LEVEL_ID">
+		<item value="" key="Tasks.Pattern"/>
+		<item value="Tasks" key="Tasks.Type"/>
+	</section>
+	<section name="Role Set Groupings.LEVEL_ID">
+	</section>
+	<section name="Work Product Kinds.LEVEL_ID">
+	</section>
+	<section name="Disciplines.LEVEL_ID">
+		<item value="Method Plug-ins" key="Disciplines.Type"/>
+		<item value="" key="Disciplines.Pattern"/>
+	</section>
+	<section name="Roles.LEVEL_ID">
+		<item value="" key="Roles.Pattern"/>
+		<item value="Roles" key="Roles.Type"/>
+	</section>
+	<section name="Domains.LEVEL_ID">
+	</section>
+	<section name="Supporting Materials.LEVEL_ID">
+		<item value="" key="Supporting Materials.Pattern"/>
+		<item value="Content Packages" key="Supporting Materials.Type"/>
+	</section>
+	<section name="Processes.LEVEL_ID">
+		<item value="" key="Processes.Pattern"/>
+		<item value="Processes" key="Processes.Type"/>
+	</section>
+	<section name="Guidance.LEVEL_ID">
+		<item value="Guidance" key="Guidance.Type"/>
+		<item value="*in" key="Guidance.Pattern"/>
+	</section>
+</section>

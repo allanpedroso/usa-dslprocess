@@ -1,0 +1,267 @@
+Info: : 7711 mini-second(s) publishing element DeliveryProcess:Usa_DSL_Life_Cycle[Usa\deliveryprocesses\Usa_DSL_Life_Cycle_80649319.html]
+Info: DeliveryProcess:Usa_DSL_Life_Cycle: 7712 mini seconds publishing element
+Info: DeliveryProcess:Usa_DSL_Life_Cycle: 9900 mini seconds publishing process specific layout data
+Info: Phase:Planning Phase: 534 mini seconds publishing element
+Info: Activity:P1 - Define Evaluators Profile: 259 mini seconds publishing element
+Info: Task:p1_-_choose_the_profile_evaluator: 584 mini seconds publishing element
+Info: TaskDescriptor:p1a_-_choose_the_profile_evaluator: 10 mini seconds publishing element
+Info: : 3655 mini-second(s) publishing element Role:dsl_developer[Usa\roles\dsl_developer_70996437.html]
+Info: Role:dsl_developer: 3657 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 12 mini seconds publishing element
+Info: Activity:P2 - Define Informed Consent Term: 363 mini seconds publishing element
+Info: Task:p2_-_ select_the_informed_consent_term: 51 mini seconds publishing element
+Info: TaskDescriptor:p2_-_ select_the_informed_consent_term: 17 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 15 mini seconds publishing element
+Info: Role:domain_analyst: 151 mini seconds publishing element
+Info: RoleDescriptor:domain_analyst: 10 mini seconds publishing element
+Info: Role:domain_developer: 349 mini seconds publishing element
+Info: RoleDescriptor:domain_developer: 10 mini seconds publishing element
+Info: Role:domain_tester: 147 mini seconds publishing element
+Info: RoleDescriptor:domain_tester: 10 mini seconds publishing element
+Info: Role:hci_expert: 152 mini seconds publishing element
+Info: RoleDescriptor:hci_expert: 11 mini seconds publishing element
+Info: Artifact:informed_consent_term_tcle: 954 mini seconds publishing element
+Info: WorkProductDescriptor:informed_consent_term_tcle: 33 mini seconds publishing element
+Info: Activity:P3 - Define Data Type: 257 mini seconds publishing element
+Info: Task:p3_-_choose_the_data_type: 51 mini seconds publishing element
+Info: TaskDescriptor:p3_-_choose_the_data_type: 7 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 7 mini seconds publishing element
+Info: Activity:P4 - Define Empirical Study Method: 334 mini seconds publishing element
+Info: Task:p4_-_select_the_empirical_study_method: 61 mini seconds publishing element
+Info: TaskDescriptor:p4_-_select_the_empirical_study_method: 12 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 13 mini seconds publishing element
+Info: Activity:P5 - Define Evaluation Usability Type: 298 mini seconds publishing element
+Info: Task:p5_-_select_the_evaluation_usability: 28 mini seconds publishing element
+Info: TaskDescriptor:p5_-_select_the_evaluation_usability: 7 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 7 mini seconds publishing element
+Info: Activity:P6 - Define Metrics for Language Validation: 238 mini seconds publishing element
+Info: Task:p6_-_choose_the_metrics: 26 mini seconds publishing element
+Info: TaskDescriptor:p6_-_choose_the_metrics: 8 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 10 mini seconds publishing element
+Info: Activity:P7 - Define the Instruments of Data Gathering: 243 mini seconds publishing element
+Info: Task:p7_-_select_the_instruments_data_gathering: 32 mini seconds publishing element
+Info: TaskDescriptor:p7_-_select_the_instruments_data_gathering: 7 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 10 mini seconds publishing element
+Info: Activity:P8 - Define the Instruments of Instruction and Training: 283 mini seconds publishing element
+Info: Task:p8_-_select_the_instruments_training: 35 mini seconds publishing element
+Info: TaskDescriptor:p8_-_select_the_instruments_training: 8 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 9 mini seconds publishing element
+Info: Activity:P9 - Define Execution Place: 201 mini seconds publishing element
+Info: Task:p9_-_evaluation_place_definition: 52 mini seconds publishing element
+Info: TaskDescriptor:p9_-_evaluation_place_definition: 7 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 10 mini seconds publishing element
+Info: Activity:P10 - Define Data Storege: 208 mini seconds publishing element
+Info: Task:p10_-_choose_the_data_storage: 27 mini seconds publishing element
+Info: TaskDescriptor:p10_-_choose_the_data_storage: 8 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 12 mini seconds publishing element
+Info: Activity:P11 - Define Study Reportinh: 207 mini seconds publishing element
+Info: Task:p11_-_select_the_study_reporting: 27 mini seconds publishing element
+Info: TaskDescriptor:p11_-_select_the_study_reporting: 8 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 9 mini seconds publishing element
+Info: Milestone:Planning Phase Milestone: 459 mini seconds publishing element
+Info: Phase:Execution Phase: 613 mini seconds publishing element
+Info: Activity:E1 - Apply Instruments to Identify Profiles: 639 mini seconds publishing element
+Info: Task:e1a_-_select_the_instruments_to_identify_profile: 23 mini seconds publishing element
+Info: TaskDescriptor:e1a_-_select_the_instruments_to_identify_profile: 5 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 9 mini seconds publishing element
+Info: Task:e1b_-_apply_profile_questionnaire: 22 mini seconds publishing element
+Info: TaskDescriptor:e1b_-_apply_profile_questionnaire: 10 mini seconds publishing element
+Info: RoleDescriptor:domain_analyst: 8 mini seconds publishing element
+Info: RoleDescriptor:domain_developer: 11 mini seconds publishing element
+Info: RoleDescriptor:domain_tester: 9 mini seconds publishing element
+Info: RoleDescriptor:hci_expert: 11 mini seconds publishing element
+Info: Artifact:profile_questionnaire: 25 mini seconds publishing element
+Info: WorkProductDescriptor:profile_questionnaire: 10 mini seconds publishing element
+Info: Task:e2d_-_complete_questionnaire_pre-_evaluation: 21 mini seconds publishing element
+Info: TaskDescriptor:e2d_-_complete_questionnaire_pre-_evaluation: 7 mini seconds publishing element
+Info: Activity:E2 - Introduce the Form and Collect Signature of Subjects: 280 mini seconds publishing element
+Info: Task:e2a_-_introduce_tlce: 30 mini seconds publishing element
+Info: TaskDescriptor:e2a_-_introduce_tlce: 10 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 10 mini seconds publishing element
+Info: RoleDescriptor:domain_analyst: 10 mini seconds publishing element
+Info: RoleDescriptor:domain_developer: 11 mini seconds publishing element
+Info: RoleDescriptor:domain_tester: 10 mini seconds publishing element
+Info: RoleDescriptor:hci_expert: 10 mini seconds publishing element
+Info: Task:e2b_-_introduce_tcud: 26 mini seconds publishing element
+Info: TaskDescriptor:e2b_-_introduce_tcud: 9 mini seconds publishing element
+Info: Task:e2c_-_colleted_signature_of_subject: 29 mini seconds publishing element
+Info: TaskDescriptor:e2c_-_colleted_signature_of_subject: 13 mini seconds publishing element
+Info: WorkProductDescriptor:informed_consent_term_tcle: 13 mini seconds publishing element
+Info: Activity:E4 - Develop and Conduct Protocol: 238 mini seconds publishing element
+Info: Task:e4a_-_develop_the_evaluation_study_protocol: 19 mini seconds publishing element
+Info: TaskDescriptor:e4a_-_develop_the_evaluation_study_protocol: 8 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 10 mini seconds publishing element
+Info: Task:e4b_-_review_the_evaluation_study_protocol: 23 mini seconds publishing element
+Info: TaskDescriptor:e4b_-_review_the_evaluation_study_protocol: 7 mini seconds publishing element
+Info: Task:e4c_-_conducted_the_evaluation_protocol: 20 mini seconds publishing element
+Info: TaskDescriptor:e4c_-_conducted_the_evaluation_protocol: 7 mini seconds publishing element
+Info: Activity:E5 - Prepare the Evaluation: 301 mini seconds publishing element
+Info: Task:e5a_-_organize_the_instruments_and_equipaments_for_evaluation: 378 mini seconds publishing element
+Info: TaskDescriptor:e5a_-_organize_the_instruments_and_equipaments_for_evaluation: 12 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 19 mini seconds publishing element
+Info: Task:e5b_-_check_the_availability_of_participants: 40 mini seconds publishing element
+Info: TaskDescriptor:e5b_-_check_the_availability_of_participants: 10 mini seconds publishing element
+Info: Task:e5c_-_confirm_evaluation_data_and_time: 43 mini seconds publishing element
+Info: TaskDescriptor:e5c_-_confirm_evaluation_data_and_time: 18 mini seconds publishing element
+Info: RoleDescriptor:domain_analyst: 15 mini seconds publishing element
+Info: RoleDescriptor:domain_developer: 18 mini seconds publishing element
+Info: RoleDescriptor:domain_tester: 15 mini seconds publishing element
+Info: RoleDescriptor:hci_expert: 15 mini seconds publishing element
+Info: Task:e5d_-_confirm_receipt_of_online_questionnaires: 43 mini seconds publishing element
+Info: TaskDescriptor:e5d_-_confirm_receipt_of_online_questionnaires: 17 mini seconds publishing element
+Info: Activity:E7 - Data Collection: 404 mini seconds publishing element
+Info: Task:e7a_-_collect_data_from_the_participants_characterization_questionnaires: 30 mini seconds publishing element
+Info: TaskDescriptor:e7a_-_collect_data_from_the_participants_characterization_questionnaires: 10 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 10 mini seconds publishing element
+Info: Task:e7b_-_get_data_recorded_in_audio_or_video: 28 mini seconds publishing element
+Info: TaskDescriptor:e7b_-_get_data_recorded_in_audio_or_video: 8 mini seconds publishing element
+Info: Activity:E8 - Introduce Instruments of Instruction and Conduct Training: 252 mini seconds publishing element
+Info: Task:e8a_-_deliver_the_dsl_guide: 85 mini seconds publishing element
+Info: TaskDescriptor:e8a_-_deliver_the_dsl_guide: 15 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 23 mini seconds publishing element
+Info: RoleDescriptor:domain_analyst: 15 mini seconds publishing element
+Info: RoleDescriptor:domain_developer: 14 mini seconds publishing element
+Info: RoleDescriptor:domain_tester: 13 mini seconds publishing element
+Info: RoleDescriptor:hci_expert: 10 mini seconds publishing element
+Info: Task:e8b_-_deliver_the_usage_scenario: 54 mini seconds publishing element
+Info: TaskDescriptor:e8b_-_deliver_the_usage_scenario: 16 mini seconds publishing element
+Info: Task:e8c_-_introduce_the_dsl: 28 mini seconds publishing element
+Info: TaskDescriptor:e8c_-_introduce_the_dsl: 10 mini seconds publishing element
+Info: Task:e8d_-_conduct_training_to_dsl: 30 mini seconds publishing element
+Info: TaskDescriptor:e8d_-_conduct_training_to_dsl: 13 mini seconds publishing element
+Info: Activity:E9 - Execution of Tasks and Evaluation Conduction: 570 mini seconds publishing element
+Info: Task:e9a_-_perform_modeling_of_the_use_scenario: 32 mini seconds publishing element
+Info: TaskDescriptor:e9a_-_perform_modeling_of_the_use_scenario: 13 mini seconds publishing element
+Info: RoleDescriptor:domain_analyst: 15 mini seconds publishing element
+Info: RoleDescriptor:domain_developer: 13 mini seconds publishing element
+Info: RoleDescriptor:domain_tester: 15 mini seconds publishing element
+Info: RoleDescriptor:hci_expert: 16 mini seconds publishing element
+Info: Task:e9b_-_conduct_interview: 32 mini seconds publishing element
+Info: TaskDescriptor:e9b_-_conduct_interview: 10 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 9 mini seconds publishing element
+Info: Task:e9c_-_complete_questionnaire_post-evaluation: 31 mini seconds publishing element
+Info: TaskDescriptor:e9c_-_complete_questionnaire_post-evaluation: 11 mini seconds publishing element
+Info: Activity:E10 - Store Data Obtained: 231 mini seconds publishing element
+Info: Task:e10a_-_stored_in_a_online_data_base: 26 mini seconds publishing element
+Info: TaskDescriptor:e10a_-_stored_in_a_online_data_base: 8 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 13 mini seconds publishing element
+Info: Task:e10b_-_stored_in_a_local_data_base: 30 mini seconds publishing element
+Info: TaskDescriptor:e10b_-_stored_in_a_local_data_base: 9 mini seconds publishing element
+Info: Task:e10c_-_distribute_the_data_in_a_web_pagewiki: 28 mini seconds publishing element
+Info: TaskDescriptor:e10c_-_distribute_the_data_in_a_web_pagewiki: 6 mini seconds publishing element
+Info: Milestone:Execution Milestone: 22 mini seconds publishing element
+Info: Phase:Analysis Phase: 393 mini seconds publishing element
+Info: Activity:A1  - Analyze Evaluator Profiles: 259 mini seconds publishing element
+Info: Task:a1_-_analysis_of_the_profile_subjects: 28 mini seconds publishing element
+Info: TaskDescriptor:a1_-_analysis_of_the_profile_subjects: 19 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 10 mini seconds publishing element
+Info: WorkProductDescriptor:profile_questionnaire: 7 mini seconds publishing element
+Info: Activity:A2 - : 194 mini seconds publishing element
+Info: Task:a4a_-_analyze_activities_of_the_study_protocol: 31 mini seconds publishing element
+Info: TaskDescriptor:a4a_-_analyze_activities_of_the_study_protocol: 8 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 8 mini seconds publishing element
+Info: Activity:A7 - Analyze the Collected Data: 256 mini seconds publishing element
+Info: Task:a7a_-_analyze_the_data_collected_during_the_evaluation: 34 mini seconds publishing element
+Info: TaskDescriptor:a7a_-_analyze_the_data_collected_during_the_evaluation: 8 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 13 mini seconds publishing element
+Info: Task:a7b_-_analyze_the_images_and_logs: 347 mini seconds publishing element
+Info: TaskDescriptor:a7b_-_analyze_the_images_and_logs: 13 mini seconds publishing element
+Info: Task:a7c_-_analyze_transcription_of_interview: 40 mini seconds publishing element
+Info: TaskDescriptor:a7c_-_analyze_transcription_of_interview: 10 mini seconds publishing element
+Info: Task:a7d_-_analyze_the_videos_was_recording: 45 mini seconds publishing element
+Info: TaskDescriptor:a7d_-_analyze_the_videos_was_recording: 35 mini seconds publishing element
+Info: Task:a7e_-_perform_data_standardization: 65 mini seconds publishing element
+Info: TaskDescriptor:a7e_-_perform_data_standardization: 22 mini seconds publishing element
+Info: Activity:A9 - Analyze the performed Tasks: 310 mini seconds publishing element
+Info: Task:a9a_-_analyze_the_developed_models: 35 mini seconds publishing element
+Info: TaskDescriptor:a9a_-_analyze_the_developed_models: 10 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 15 mini seconds publishing element
+Info: Task:a9c_-_verify_the_error_rate_committed_by_the_participantes: 42 mini seconds publishing element
+Info: TaskDescriptor:a9c_-_verify_the_error_rate_committed_by_the_participantes: 10 mini seconds publishing element
+Info: Task:a9d_-_verify_the_tasks_incompleted: 40 mini seconds publishing element
+Info: TaskDescriptor:a9d_-_verify_the_tasks_incompleted: 10 mini seconds publishing element
+Info: Activity:A11 - Analyze the Documentation: 249 mini seconds publishing element
+Info: Task:a11a_-_analyze_the_documentation_to_be_used_in_the_evaluation: 41 mini seconds publishing element
+Info: TaskDescriptor:a11a_-_analyze_the_documentation_to_be_used_in_the_evaluation: 11 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 10 mini seconds publishing element
+Info: Milestone:Analysis Milestone: 27 mini seconds publishing element
+Info: Phase:Reporting Phase: 696 mini seconds publishing element
+Info: Activity:R1 - Report Evaluator Profiles: 268 mini seconds publishing element
+Info: Task:r1a_-_report_the_classification_of_the_subjects: 31 mini seconds publishing element
+Info: TaskDescriptor:r1a_-_report_the_classification_of_the_subjects: 8 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 10 mini seconds publishing element
+Info: Task:r1b_-_report_the_characterization_of_participantes_in_the_evaluation: 25 mini seconds publishing element
+Info: TaskDescriptor:r1b_-_report_the_characterization_of_participantes_in_the_evaluation: 8 mini seconds publishing element
+Info: Task:r1c_-_report_total_number_of_participants_who_performed_the_evaluation: 30 mini seconds publishing element
+Info: TaskDescriptor:r1c_-_report_total_number_of_participants_who_performed_the_evaluation: 7 mini seconds publishing element
+Info: Activity:R2 - Report Subjects Number and the Form Used: 369 mini seconds publishing element
+Info: Task:r4a_-_report_the_docments_used_in_the_evaluation: 35 mini seconds publishing element
+Info: TaskDescriptor:r2a_-_report_the_docments_used_in_the_evaluation: 50 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 11 mini seconds publishing element
+Info: WorkProductDescriptor:informed_consent_term_tcle: 10 mini seconds publishing element
+Info: Task:r2b_-_attach_the_documents_to_the_end_of_the_report: 31 mini seconds publishing element
+Info: TaskDescriptor:r2b_-_attach_the_documents_to_the_end_of_the_report: 21 mini seconds publishing element
+Info: Activity:R4 - Report the Developed Protocol: 248 mini seconds publishing element
+Info: Task:r4a_-_describe_the_experimental_study_protocol: 22 mini seconds publishing element
+Info: TaskDescriptor:r4a_-_describe_the_experimental_study_protocol: 3 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 10 mini seconds publishing element
+Info: Task:r4b_-_describe_the_survey_protocol: 41 mini seconds publishing element
+Info: TaskDescriptor:r4b_-_describe_the_survey_protocol: 7 mini seconds publishing element
+Info: Task:r4c_-_describe_the_case_study_protocol: 65 mini seconds publishing element
+Info: TaskDescriptor:r4c_-_describe_the_case_study_protocol: 8 mini seconds publishing element
+Info: Activity:R5 - Report Conduction Evaluation: 187 mini seconds publishing element
+Info: Task:r5a_-_decribe_the_usability_test_protocol: 23 mini seconds publishing element
+Info: TaskDescriptor:r5a_-_decribe_the_usability_test_protocol: 7 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 9 mini seconds publishing element
+Info: Task:r5b_-_decribe_the_heursitic_evaluation_protocol: 26 mini seconds publishing element
+Info: TaskDescriptor:r5b_-_decribe_the_heursitic_evaluation_protocol: 7 mini seconds publishing element
+Info: Activity:R7 - Report Data Analysis: 229 mini seconds publishing element
+Info: Task:r7a_-_report_the_quantitative_data: 39 mini seconds publishing element
+Info: TaskDescriptor:r7a_-_report_the_quantitative_data: 8 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 10 mini seconds publishing element
+Info: Task:r7b_-_report_the_quantitative_data: 30 mini seconds publishing element
+Info: TaskDescriptor:r7b_-_report_the_quantitative_data: 8 mini seconds publishing element
+Info: Activity:R8 - Report the Instruments: 203 mini seconds publishing element
+Info: Task:r8a_-_report_the_characterization_questionnaire: 17 mini seconds publishing element
+Info: TaskDescriptor:r8a_-_report_the_characterization_questionnaire: 7 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 13 mini seconds publishing element
+Info: Task:r8b_-_report_the_dsl_guide: 37 mini seconds publishing element
+Info: TaskDescriptor:r8b_-_report_the_dsl_guide: 5 mini seconds publishing element
+Info: Task:r8c_-_report_the_usage_scenario: 24 mini seconds publishing element
+Info: TaskDescriptor:r8c_-_report_the_usage_scenario: 6 mini seconds publishing element
+Info: Task:r8d_-_report_the_interview_script: 20 mini seconds publishing element
+Info: TaskDescriptor:r8d_-_report_the_interview_script: 5 mini seconds publishing element
+Info: Task:r8e_-_report_the_opinion_quetionnaire: 21 mini seconds publishing element
+Info: TaskDescriptor:r8e_-_report_the_opinion_quetionnaire: 3 mini seconds publishing element
+Info: Activity:R9 - Repo: 169 mini seconds publishing element
+Info: Task:r9a_-_describe_the_evaluation_following_the_chosen_methods: 18 mini seconds publishing element
+Info: TaskDescriptor:r9a_-_describe_the_evaluation_following_the_chosen_methods: 5 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 5 mini seconds publishing element
+Info: Activity:R11 - Report the Results and Analyzed information: 152 mini seconds publishing element
+Info: Task:r11a_-_present_the_evaluation_according_to_the_report_template: 37 mini seconds publishing element
+Info: TaskDescriptor:r11a_-_present_the_evaluation_according_to_the_report_template: 15 mini seconds publishing element
+Info: RoleDescriptor:dsl_developer: 12 mini seconds publishing element
+Info: Task:r11b_-_present_the_evaluation_according_to_the_scientific_paper_template: 19 mini seconds publishing element
+Info: TaskDescriptor:r11b_-_present_the_evaluation_according_to_the_scientific_paper_template: 5 mini seconds publishing element
+Info: Milestone:Reporting Milestone: 20 mini seconds publishing element
+Info: CustomCategory:usa-dsl_views: 798 mini seconds publishing element
+Info: Discipline:1_-_ evaluation_profile: 38 mini seconds publishing element
+Info: RoleSet:process_executors: 42 mini seconds publishing element
+Info: Discipline:2_-_ethical_and_legal_responsabilities: 30 mini seconds publishing element
+Info: RoleSet:usability_evaluation_process: 58 mini seconds publishing element
+Info: RoleSet:heuristic_evaluation_subjects: 40 mini seconds publishing element
+Info: Template:informed_consent_term_tcle: 645 mini seconds publishing element
+Info: Discipline:3_-_data_type: 35 mini seconds publishing element
+Info: Discipline:4_-_empirical_study_method_se: 82 mini seconds publishing element
+Info: Discipline:5_-_evaluation_method_hci: 31 mini seconds publishing element
+Info: Discipline:6_-_metrics: 24 mini seconds publishing element
+Info: Discipline:7_-_gathering_instruments: 43 mini seconds publishing element
+Info: Discipline:8_-_evaluation_instructions: 32 mini seconds publishing element
+Info: Discipline:9_-_evaluation_conduction: 30 mini seconds publishing element
+Info: Discipline:10_-_data_packaging: 27 mini seconds publishing element
+Info: Discipline:11_-_evaluation_reporting: 61 mini seconds publishing element
+Info: Template:profile_questionnaire: 28 mini seconds publishing element
+Info: DisciplineGrouping:Steps: 51 mini seconds publishing element
+Info: CustomCategory:usa-dsl_introduction: 141 mini seconds publishing element
+Info: CustomCategory:fundamental_principles: 29 mini seconds publishing element
+Info: : Publishing time: 0 minutes 55 seconds

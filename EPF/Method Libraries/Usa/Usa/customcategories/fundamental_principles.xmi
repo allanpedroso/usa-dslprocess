@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nexLl4nql-Er5_czoPShPQ" name="new_custom_category_1,_LJvM0EqDEemHNIr5HrcLHA" guid="-nexLl4nql-Er5_czoPShPQ" changeDate="2019-03-19T17:14:47.198-0300">
+  <mainDescription>&lt;p>&#xD;
+    The Usa-DSL Process was designed based on the following principles:&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Assist in the construction of the usability evaluation in a pratical and efficient way.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Assist in the DSL developement through continuos feedback, promoting to continuos improvement of the language.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Focus on the user-centered evaluation through all the construction phses, minimizing the DSL's rework and disuse.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Make DSLs evaluation easier and productive, aiming to reach usability criteria and usage satisfaction&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

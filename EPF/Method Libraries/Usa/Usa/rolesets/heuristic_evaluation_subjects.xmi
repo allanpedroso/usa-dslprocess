@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-sUlINNMnjfnNwF-_9RrP9Q" name="new_role_set,__jOFUHwJEemow5h2Pq1a2g" guid="-sUlINNMnjfnNwF-_9RrP9Q" changeDate="2019-05-21T17:52:56.043-0300">
+  <mainDescription>This Group must perform the heuristic evaluation of the heuristic process.</mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

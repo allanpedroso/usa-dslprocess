@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-boZnyVVwJ0VUGf6CKDF7lA" name="new_role_set,_VVLwwEBJEem9iaQSvThyxA" guid="-boZnyVVwJ0VUGf6CKDF7lA" changeDate="2019-03-06T16:53:40.123-0300">
+  <mainDescription>&lt;p>&#xD;
+    Evaluation Participants Group&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    HCI Expert - need to have previous usability testing experience and Heuristic Evaluation.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Domain experts (Analyst, Developer and Tester) do not need to have previous usability testing experience, but are&#xD;
+    expected to have some experience in the Domain being evaluated&lt;font color=&quot;#24292e&quot; size=&quot;3&quot; face=&quot;Segoe UI&quot;>.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
