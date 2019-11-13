@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AhGPT6KdhcgYgHvZJyj2Dw" name="new_supporting_material,_-ASvYACiEeq8gf0zHw0ddA" guid="-AhGPT6KdhcgYgHvZJyj2Dw">
-  <mainDescription>&lt;img alt=&quot;&quot; src=&quot;resources/USA-DSL Life Cycle.png&quot; width=&quot;100%&quot; /></mainDescription>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AhGPT6KdhcgYgHvZJyj2Dw" name="new_supporting_material,_-ASvYACiEeq8gf0zHw0ddA" guid="-AhGPT6KdhcgYgHvZJyj2Dw" changeDate="2019-11-06T17:09:49.768-0200">
+  <mainDescription>&lt;p>&#xD;
+    &amp;nbsp;&lt;img alt=&quot;&quot; src=&quot;resources/USA-DSLLifeCycle.svg&quot; width=&quot;100%&quot; />&#xD;
+&lt;/p></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

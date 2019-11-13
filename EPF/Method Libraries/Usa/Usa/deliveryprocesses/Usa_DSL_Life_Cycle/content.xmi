@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
-  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-7pOyCcPtzZKaFKSB-2D3zg" name="Usa,_uFqh8UZWEemUh_IZAUpcPQ" guid="-7pOyCcPtzZKaFKSB-2D3zg"/>
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-7pOyCcPtzZKaFKSB-2D3zg" name="Usa,_uFqh8UZWEemUh_IZAUpcPQ" guid="-7pOyCcPtzZKaFKSB-2D3zg">
+    <mainDescription>&lt;img alt=&quot;&quot; src=&quot;resources/USA-DSLLifeCycle.svg&quot; width=&quot;100%&quot; /></mainDescription>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
   <org.eclipse.epf.uma:ActivityDescription xmi:id="-AAEXurBlv2SZ3JlO-A2RLw" name="Planning Phase,_yGghMUZWEemUh_IZAUpcPQ" guid="-AAEXurBlv2SZ3JlO-A2RLw">
     <mainDescription>&lt;span&#xD;
 style=&quot;FONT-SIZE: 15px; FONT-FAMILY: Slack-Lato, appleLogo, sans-serif; WHITE-SPACE: normal; WORD-SPACING: 0px; TEXT-TRANSFORM: none; FLOAT: none; FONT-WEIGHT: 400; COLOR: rgb(29,28,29); FONT-STYLE: normal; TEXT-ALIGN: left; ORPHANS: 2; WIDOWS: 2; DISPLAY: inline !important; LETTER-SPACING: normal; BACKGROUND-COLOR: rgb(248,248,248); TEXT-INDENT: 0px; font-variant-ligatures: common-ligatures; font-variant-caps: normal; -webkit-text-stroke-width: 0px; text-decoration-style: initial; text-decoration-color: initial&quot;>&#xD;
@@ -504,4 +506,21 @@ study.&lt;/span>&lt;/b></mainDescription>
 &lt;/p>&#xD;
 &lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
   </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-BE0FoTLJmwciJJ5wnWUYHw" name="p1a_-_choose_the_profile_evaluator,_MSb1EKJ5EemV97nrJ2BjUg" guid="-BE0FoTLJmwciJJ5wnWUYHw">
+    <refinedDescription>&lt;b id=&quot;docs-internal-guid-38b4c3ab-7fff-6f8d-dcb0-4515a5c04707&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-38b4c3ab-7fff-6f8d-dcb0-4515a5c04707&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    This task focuses on applying the profile questionnaire in order to guide the Process Executor in the classification of&#xD;
+    Evaluation participants.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    The results captured will be used in the future to understand the results obtained during the activities carried out by&#xD;
+    the participants and to correlate the responses of the post-evaluation questionnaire with the profile analyzed.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
 </xmi:XMI>

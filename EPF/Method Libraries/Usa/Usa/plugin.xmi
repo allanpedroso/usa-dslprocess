@@ -41,6 +41,7 @@
     <resourceDescriptors xmi:id="_cTTU4O_OEempq9lRTeTUpA" id="-ivISK_x8uM8UoWbAJj4aQQ" uri="guidances/supportingmaterials/analysis_phase_bpmn.xmi"/>
     <resourceDescriptors xmi:id="_jK4QsO_OEempq9lRTeTUpA" id="-v44BDq-xuOWViX_sqYxO2g" uri="guidances/supportingmaterials/reporting_phase_bpmn.xmi"/>
     <resourceDescriptors xmi:id="_F9mkMACjEeq8gf0zHw0ddA" id="-AhGPT6KdhcgYgHvZJyj2Dw" uri="guidances/supportingmaterials/pear_phases_view_bpmn.xmi"/>
+    <resourceDescriptors xmi:id="_djYHUAGCEeq-NI8ghUNJmQ" id="-gdMv2ZkuMJj-xOzK2jPZZw" uri="guidances/supportingmaterials/usa-dsl_life_cycle_bpmn_diagram.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_EJQ_4D3vEem07NBMeZObjA" name="Usa" guid="_EJQ_4D3vEem07NBMeZObjA">
     <ownedRules xmi:id="_treisLlJEemt5oQZSu_gkA" name="wpState" guid="_treisLlJEemt5oQZSu_gkA" body="Template"/>
@@ -543,6 +544,10 @@
           <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_-ASvYACiEeq8gf0zHw0ddA" name="pear_phases_view_bpmn" guid="_-ASvYACiEeq8gf0zHw0ddA" presentationName="pear_phases_view_bpmn">
             <methodElementProperty xmi:id="_F9YhwACjEeq8gf0zHw0ddA" name="me_edited" value="true"/>
             <presentation xmi:id="-AhGPT6KdhcgYgHvZJyj2Dw" href="uma://-AhGPT6KdhcgYgHvZJyj2Dw#-AhGPT6KdhcgYgHvZJyj2Dw"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_PnTOAAGCEeq-NI8ghUNJmQ" name="usa-dsl_life_cycle_bpmn_diagram" guid="_PnTOAAGCEeq-NI8ghUNJmQ" presentationName="usa-dsl_life_cycle_bpmn_diagram">
+            <methodElementProperty xmi:id="_djJd0AGCEeq-NI8ghUNJmQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-gdMv2ZkuMJj-xOzK2jPZZw" href="uma://-gdMv2ZkuMJj-xOzK2jPZZw#-gdMv2ZkuMJj-xOzK2jPZZw"/>
           </contentElements>
         </childPackages>
       </childPackages>
