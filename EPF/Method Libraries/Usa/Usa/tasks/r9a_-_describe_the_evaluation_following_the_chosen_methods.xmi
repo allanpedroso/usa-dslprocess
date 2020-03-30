@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HsbI6LRQcRMcLic6OueHxA" name="r9a_-_describe_the_evaluation_following_the_chosen_methods,_MjpCwJkWEemQRPuA_hcMlw" guid="-HsbI6LRQcRMcLic6OueHxA" changeDate="2020-03-29T22:42:45.566-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-f57bb54a-7fff-0c3b-6ffc-3bf99330b5ab&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task is performed when the Process Executor needs describe the protocol followed.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-1ee6fa50-7fff-2a5b-b66e-c58d532b5023&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Process Executor should describe the Study Protocol followed (Controlled Experiment, Survey or Case Study)&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_0-L5YHInEeqX7elkF4GZ8w" name="1.Describe the protocol followed" guid="_0-L5YHInEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-445345f1-7fff-ed7e-d43c-816fd8ab08d0&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The evaluation must be reported according to the chosen method. The Usability Test will be reported through the protocol of&#xD;
+an Controlled Experiment, Case Study or Survey. When a heuristic evaluation is performed, the analysis performed by the&#xD;
+specialists, as well as the activities carried out and the generated models, should all be reported.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

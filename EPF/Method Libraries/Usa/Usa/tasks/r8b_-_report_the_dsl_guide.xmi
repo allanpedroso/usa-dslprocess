@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-X0bHw1zhhxmvuHvqMbBSlw" name="r8b_-_report_the_dsl_guide,_jxYrMEZVEemUh_IZAUpcPQ" guid="-X0bHw1zhhxmvuHvqMbBSlw" changeDate="2020-03-29T22:39:51.303-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-5d4f7165-7fff-5c96-148f-7e9812887150&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task is performed when the Process Executor needs report the guide used to present the DSL.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-075c35cd-7fff-746f-90eb-3903ef05d931&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Process Executor should describe the the guide used to present the DSL.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_aGBkIHInEeqX7elkF4GZ8w" name="1. Present the material used to present the DSL" guid="_aGBkIHInEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-f3353086-7fff-45c1-f3c5-431947eb369f&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The DSL guide used in the evaluation should be attached in the document used to present the study.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

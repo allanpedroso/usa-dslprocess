@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lOeHSBolvG8l-JaBRWCuRg" name="r5a_-_describe_the_usability_test_protocol,_5S0o0EZUEemUh_IZAUpcPQ" guid="-lOeHSBolvG8l-JaBRWCuRg" changeDate="2020-03-29T22:16:35.798-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-0f15b9af-7fff-1275-c00f-f6310a716c3d&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Process Executor needs describe the Usability Test.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-4e4a1f92-7fff-3109-f10d-2a7f796dd8b5&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This protocol is part of the description of each of the Empirical Study Methods presented&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_JVS5QHIkEeqX7elkF4GZ8w" name="1. Describe all information about the Usability Test" guid="_JVS5QHIkEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-f6293f98-7fff-fcf5-838a-9febae6d39e1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Usability Test Protocol must be describe.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

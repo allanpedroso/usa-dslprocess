@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TX9xnVfqKq_kRNd3rCX4Pg" name="e4b_-_review_the_evaluation_study_protocol,_WnPm0EBPEem9iaQSvThyxA" guid="-TX9xnVfqKq_kRNd3rCX4Pg" changeDate="2020-03-29T19:52:42.288-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-82abc6a3-7fff-595f-e4c6-c9414db46d19&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Study Protocol has already been developed and needs to be revised.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-42f10d05-7fff-82c6-5772-7136439963e1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The evaluation of the Study Protocol shall be reviewed by another professional who is aware of the subject&#xD;
+matter.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_D0M_UHIQEeqX7elkF4GZ8w" name="1. Review the Developed Evaluation Study Protocol" guid="_D0M_UHIQEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-5e34a7d5-7fff-3b82-eb92-cc3099380484&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Study Protocol needs to be revised to see if it needs changes to proceed with the conduct of evaluation.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

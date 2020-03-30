@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--urqpPubA7FH9WEsKzIa5A" name="r8e_-_report_the_opinion_questionnaire,_8fXn4EZVEemUh_IZAUpcPQ" guid="--urqpPubA7FH9WEsKzIa5A" changeDate="2020-03-29T22:41:54.461-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-eef53910-7fff-5e9d-0a06-49f4e3f3a26b&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task is performed when the Process Executor needs report the Opinion Questionnaire.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-7b3e11c0-7fff-459f-c87e-a159224d3cb8&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Process Executor should present the Opinion Questionnaire with their appropriate amendments, presenting only the&#xD;
+questions used in the study.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_sSWxsHInEeqX7elkF4GZ8w" name="1. Present the Opinion questionnaire used in the evaluation" guid="_sSWxsHInEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-7d576378-7fff-240d-f739-b02eeea4cdd4&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The questionnaires used in the evaluation should be attached in the document used to present the study.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

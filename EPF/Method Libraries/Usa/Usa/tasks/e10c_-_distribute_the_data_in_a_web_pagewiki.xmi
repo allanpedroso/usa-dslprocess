@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-T5fHYRBX7jDTecCcIRTjjA" name="e10c_-_distribute_the_data_in_a_web_pagewiki,_rYdPIEBTEem9iaQSvThyxA" guid="-T5fHYRBX7jDTecCcIRTjjA" changeDate="2020-03-29T20:18:01.465-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-a037afa4-7fff-722d-1697-df784784fc61&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Process Executor needs to be distribute Data in a WEB Page/Wiki.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-1a1db096-7fff-8cf8-6e26-7c46348e4121&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+After the Process Executor compiles and analyzes the data it must choose an environment to perform its online distribution,&#xD;
+if necessary.&amp;nbsp;&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_1whsYHITEeqX7elkF4GZ8w" name="1. Choose the plataform" guid="_1whsYHITEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_2U1TUHITEeqX7elkF4GZ8w" name="2. Distribute data" guid="_2U1TUHITEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-a6830974-7fff-afe2-f8df-e7a6a15bc105&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-a6830974-7fff-afe2-f8df-e7a6a15bc105&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    The data collected in the evaluation can be stored on a WEB / Wiki page for future access, which allows replication of&#xD;
+    the study.&lt;/span>&lt;/b>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></purpose>
+</org.eclipse.epf.uma:TaskDescription>

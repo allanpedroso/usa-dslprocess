@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-w-9QbQio9AVUTwCrS6BYFA" name="r4a_-_describe_the_experimental_study_protocol,_dvugMEZUEemUh_IZAUpcPQ" guid="-w-9QbQio9AVUTwCrS6BYFA" changeDate="2020-03-29T22:12:23.642-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-c7b8f171-7fff-3744-f4d6-fc5de46043a7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Process Executor needs describe the experiment.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-eaa1e9a5-7fff-4cd6-6d0a-66efa06a8857&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Describe the protocol of the experiment according to the structure of the report offered (Guideline).&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_kC8dEHIjEeqX7elkF4GZ8w" name="1. Describe the Experimental Protocol" guid="_kC8dEHIjEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-4351de4a-7fff-1fea-1cbf-85381687c77c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Describe of experiment must be performed in detail so that it can be followed correctly.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

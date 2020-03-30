@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uJ17us8Io_2KHwNlc1pU5Q" name="a11a_-_analyze_the_documentation_to_be_used_in_the_evaluation,_gcNmgEZSEemUh_IZAUpcPQ" guid="-uJ17us8Io_2KHwNlc1pU5Q" changeDate="2020-03-29T21:59:46.236-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-dc8bcc11-7fff-c3ed-50b3-af992ce2af6e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Process Executor needs to analyze the consistency of the produced information and&#xD;
+documentation to be used in the evaluation.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-1eab4897-7fff-a88d-4794-d25dab8dfafe&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The documentation of the evaluation should be precisely conferred by more than one Process Executor, as well as go through&#xD;
+a pilot test to calibrate the instruments and the protocol.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_3DRlUHIhEeqX7elkF4GZ8w" name="1. Access all documentation of evaluation" guid="_3DRlUHIhEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_4B6-4HIhEeqX7elkF4GZ8w" name="2. Doble check de documentation by at least two researchers " guid="_4B6-4HIhEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-34c154b1-7fff-8984-a6c4-02d329cc09cf&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The documentation should be analyzed to ensure that there are no inconsistencies, must be analyzed by the researcher and&#xD;
+checked by a second researcher.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

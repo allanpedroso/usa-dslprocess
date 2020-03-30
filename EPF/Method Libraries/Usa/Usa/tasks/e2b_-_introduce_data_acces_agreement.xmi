@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3BmAjZ8B7AhMnvKd3Muw-g" name="e2b_-_introduce_data_acces_agreement,_wLB_kEBOEem9iaQSvThyxA" guid="-3BmAjZ8B7AhMnvKd3Muw-g" changeDate="2020-03-29T19:46:06.305-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-116361be-7fff-7b18-b09c-eb071d62d237&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-116361be-7fff-7b18-b09c-eb071d62d237&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    This task is always execute before starting an evaluation. The Process Executor introduce the Data Access Agreement to&#xD;
+    the person responsible for the data.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-631fd46d-7fff-c00c-6be1-16107ac5c295&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be run on all the evaluation&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_oXytgHIPEeqX7elkF4GZ8w" name="1. Present the Data Access Agreement for the person responsible for the data" guid="_oXytgHIPEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-ff3a79e7-7fff-0530-c25f-b35b13823ec6&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Usa-DSL follows the best practices of ethical and legal issues to protect the user data, dignity, anonymity and&#xD;
+    well-being. The Data Access Agreement is an important document to specify terms under which participants of the&#xD;
+    evaluation provided access to specified data, and obtain acceptance or not of those terms to access this data.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GEpWvFYRrFLv3LuTFC4JPg" name="p9a_-_evaluation_place_definition,_jMjB0EBMEem9iaQSvThyxA" guid="-GEpWvFYRrFLv3LuTFC4JPg" changeDate="2020-03-29T19:11:12.716-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-207f7305-7fff-a92b-9e50-6e89e29cbea7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This tasks will be execute when the Process Executor need to define a place of execution of the evaluation.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-bc2132d1-7fff-d7c5-6fd2-afcd7d872bfd&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+&lt;b id=&quot;docs-internal-guid-bc2132d1-7fff-d7c5-6fd2-afcd7d872bfd&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&lt;/span>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+&lt;b id=&quot;docs-internal-guid-bf8395cf-7fff-f69d-57f0-01b1766c6f6e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&lt;/span> &#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;b id=&quot;docs-internal-guid-bf8395cf-7fff-f69d-57f0-01b1766c6f6e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    If the Process Evaluation set the Controlled Experimenta the place definition is a laboratory.&lt;/span>&lt;/b>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    If the Process Evaluation set the Survey the place definition is the web/e-mail.&lt;/span>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;br />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;font size=&quot;2&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    If the Process Evaluation set the Case Study the place definition is a Industry/Natural Environment .&lt;/span>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;br class=&quot;Apple-interchange-newline&quot; />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_tkktsHIKEeqX7elkF4GZ8w" name="1. Choose the location where will be execute the evaluation" guid="_tkktsHIKEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-9faeca0b-7fff-24e5-1659-55d7946733d2&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-BOTTOM: 12pt; PADDING-TOP: 0pt; PADDING-LEFT: 0pt; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0pt; BACKGROUND-COLOR: #ffffff&quot;&#xD;
+ dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-9faeca0b-7fff-24e5-1659-55d7946733d2&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    The evaluation place should be defined at the beginning of the planning, respecting the definition of the experimental&#xD;
+    method and evaluation. These locations can be at:&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-BOTTOM: 12pt; PADDING-TOP: 0pt; PADDING-LEFT: 0pt; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0pt; BACKGROUND-COLOR: #ffffff&quot;&#xD;
+ dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    &lt;strong>Laboratory&lt;/strong> - in this environment the evaluator has control over the threats of the study, as well as&#xD;
+    about the actions of the participants, avoiding interruptions of the test.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-BOTTOM: 12pt; PADDING-TOP: 0pt; PADDING-LEFT: 0pt; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0pt; BACKGROUND-COLOR: #ffffff&quot;&#xD;
+ dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    &lt;strong>WEB / E-mail&lt;/strong> - the evaluation in this case can be sent by email or via a link from a web page. This&#xD;
+    type of evaluation becomes less formal and the evaluator is not guaranteed the participant's response. In this case,&#xD;
+    the evaluator will not be able to measure time or perform user recordings because these data do not have the necessary&#xD;
+    accuracy as in a laboratory test.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 12pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2; BACKGROUND-COLOR: #ffffff&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    &lt;strong>Industry / Natural Environment&lt;/strong> - the evaluation will take place in the working environment of the team&#xD;
+    that is evaluating the language.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></purpose>
+</org.eclipse.epf.uma:TaskDescription>

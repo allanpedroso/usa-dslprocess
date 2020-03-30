@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EdyocyPAfcerJvFV-8ULaw" name="e8b_-_deliver_the_usage_scenario,_e7nwcEBSEem9iaQSvThyxA" guid="-EdyocyPAfcerJvFV-8ULaw" changeDate="2020-03-29T20:06:20.845-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-e7f10c88-7fff-d364-8506-57931e0d0af0&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Process Executor needs to be present Use Scenario to evaluation&#xD;
+participants.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-f88fa4bd-7fff-ed70-6d21-6c23e8c7c452&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Participant should performed the Use Scenario&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_8ECjwHIREeqX7elkF4GZ8w" name="1. Present the Use Scenario" guid="_8ECjwHIREeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-38a5dbb6-7fff-b499-6a0a-64ac78a1aa3d&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Use Scenario is an example of a real scenario applied to the language context.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

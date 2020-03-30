@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kdRvgYZJ3WfzJgHOR_wXhQ" name="a9b_-_verify_the_tasks_execution,_83vBYEZREemUh_IZAUpcPQ" guid="-kdRvgYZJ3WfzJgHOR_wXhQ" changeDate="2020-03-29T21:51:16.725-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-5855fc37-7fff-f253-2b22-8151fa51cad0&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Process Executor needs to analyze tasks execution.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-458eaab2-7fff-145e-b6c2-ff4c10b9ba7c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+It is advised that more than one Process Executor analyze the generated models or codes in order to obtain an analysis with&#xD;
+lower error rate or results distortion.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_qcs70HIgEeqX7elkF4GZ8w" name="1. Acess tasks completed by participants" guid="_qcs70HIgEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_rTARsHIgEeqX7elkF4GZ8w" name="2. Analyze tasks completed by participants" guid="_rTARsHIgEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-3604ab0f-7fff-98ae-bb56-03154f804a4c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The verify of tasks execution should be performed to identify which ones have been completed by the&#xD;
+participants.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

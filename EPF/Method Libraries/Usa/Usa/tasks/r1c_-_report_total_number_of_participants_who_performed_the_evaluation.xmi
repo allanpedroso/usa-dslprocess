@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-O3-2yR7WNb3iXPdhCyblPw" name="r1c_-_report_total_number_of_participants_who_performed_the_evaluation,_H5JD4EZTEemUh_IZAUpcPQ" guid="-O3-2yR7WNb3iXPdhCyblPw" changeDate="2020-03-29T22:09:10.447-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-ba018321-7fff-4fb6-a29c-201be4340e31&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Process Executor needs to know how many participants will perform the&#xD;
+evaluation.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-3c9ade5b-7fff-6e14-e3b9-71e51dc01daf&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Profile Executor should describe the number of participants and the number of persons in each group (blocking) when&#xD;
+necessary.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_Ji5F0HIjEeqX7elkF4GZ8w" name="1. Report Number of subjects" guid="_Ji5F0HIjEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_J4qhgHIjEeqX7elkF4GZ8w" name="2. Report number of persons in each group" guid="_J4qhgHIjEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_K_owoHIjEeqX7elkF4GZ8w" name="3. Report randomization group" guid="_K_owoHIjEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-10589d19-7fff-2e69-2730-fde4d8fdc85c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The count must be made to know how many participants are able to carry out an evaluation.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-2yFkcNDfeK9GsQre04ktGg" name="e2a_-_introduce_consent_term,_hT-rwEBOEem9iaQSvThyxA" guid="-2yFkcNDfeK9GsQre04ktGg" changeDate="2020-03-29T19:36:16.741-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-881307e4-7fff-5f92-4de6-51dbc1300530&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task is always execute before starting an evaluation. The Process Executor introduce the Consent Term to the&#xD;
+participants of the evaluation.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-dbffb3ec-7fff-8fbe-e154-59b6d98fc50c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be run on all the evaluation&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_1VoSYHIOEeqX7elkF4GZ8w" name="1. Introduce the Consent Term" guid="_1VoSYHIOEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-39f2f773-7fff-093d-3099-51b1e9921976&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #24292e; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+&lt;b id=&quot;docs-internal-guid-39f2f773-7fff-093d-3099-51b1e9921976&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&lt;/span>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #24292e; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+&lt;b id=&quot;docs-internal-guid-080a85cf-7fff-8b4e-716f-a9c99078160d&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&lt;/span>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+&lt;b id=&quot;docs-internal-guid-44828321-7fff-cbba-bcc3-f994fc25900b&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+&lt;b id=&quot;docs-internal-guid-99743d06-7fff-5cbd-09d4-94254472a1cc&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&lt;/span>&lt;/b>&lt;/span>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+&lt;b id=&quot;docs-internal-guid-d79099be-7fff-0b4f-d73c-be1d6f00039d&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&lt;/span> &#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-d79099be-7fff-0b4f-d73c-be1d6f00039d&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
+    Usa-DSL follows the best practices of ethical and legal issues to protect the user data, dignity, anonymity and&#xD;
+    well-being.&lt;/span>&lt;/b>&lt;br />&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    The Consent Term is a formal document that describes the evaluation goal, how the evaluation will take place, how the&#xD;
+    data will be collected, how the data will be protected, and so on. Usually, it is recommended the use of ethical codes&#xD;
+    from organizations like, for example, The Association for Computing Machinery (ACM).&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;br class=&quot;Apple-interchange-newline&quot; />&#xD;
+    &amp;nbsp;&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

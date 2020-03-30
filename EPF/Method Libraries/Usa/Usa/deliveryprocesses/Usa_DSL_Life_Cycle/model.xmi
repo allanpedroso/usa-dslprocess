@@ -52,7 +52,7 @@
           <methodElementProperty xmi:id="_6PM5kH1fEem7gbsEJBq4BQ" name="me_ContributionOrder" value="1 Step - Evaluation Profile"/>
           <presentation xmi:id="-2-EJsNjEc7HJWLSsESUHaw" href="uma://-7pOyCcPtzZKaFKSB-2D3zg#-2-EJsNjEc7HJWLSsESUHaw"/>
         </processElements>
-        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_MSb1EKJ5EemV97nrJ2BjUg" name="p1a_-_choose_the_profile_evaluator" guid="_MSb1EKJ5EemV97nrJ2BjUg" presentationName="P1a - Choose the Profile Evaluator" isPlanned="true" superActivities="_1mhEQUZWEemUh_IZAUpcPQ" performedPrimarilyBy="_MSccIKJ5EemV97nrJ2BjUg _CUKZcL0lEem59LbFCI02WA _CULAgb0lEem59LbFCI02WA">
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_MSb1EKJ5EemV97nrJ2BjUg" name="p1a_-_choose_the_profile_evaluator" guid="_MSb1EKJ5EemV97nrJ2BjUg" presentationName="P1a - Choose the Profile Evaluator" isPlanned="true" superActivities="_1mhEQUZWEemUh_IZAUpcPQ" isSynchronizedWithSource="false" performedPrimarilyBy="_MSccIKJ5EemV97nrJ2BjUg _CUKZcL0lEem59LbFCI02WA _CULAgb0lEem59LbFCI02WA">
           <methodElementProperty xmi:id="_MSpQcKJ5EemV97nrJ2BjUg" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
           <presentation xmi:id="-BE0FoTLJmwciJJ5wnWUYHw" href="uma://-7pOyCcPtzZKaFKSB-2D3zg#-BE0FoTLJmwciJJ5wnWUYHw"/>
           <Task href="uma://_EJQ_4D3vEem07NBMeZObjA#_2m83EJkXEemQRPuA_hcMlw"/>
@@ -233,10 +233,12 @@
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_gUDWwEZXEemUh_IZAUpcPQ" name="P4 - Define Empirical Study Method" guid="_gUDWwEZXEemUh_IZAUpcPQ">
         <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_gUDWwUZXEemUh_IZAUpcPQ" name="P4 - Define Empirical Study Method" guid="_gUDWwUZXEemUh_IZAUpcPQ" presentationName="P4 - Define Empirical Study Method" superActivities="_yGghMUZWEemUh_IZAUpcPQ" breakdownElements="_lLDh8EZXEemUh_IZAUpcPQ _lLDh8UZXEemUh_IZAUpcPQ _C29kgb0lEem59LbFCI02WA _C29khL0lEem59LbFCI02WA _TP7dYL0tEem59LbFCI02WA _TP7dYb0tEem59LbFCI02WA _TP7dYr0tEem59LbFCI02WA">
+          <ownedRules xmi:id="_iPPdAGHLEeqOi--jBuUxWA" name="diagram" guid="_iPPdAGHLEeqOi--jBuUxWA" body="ad_image_uri=|publish_ad_image=false|add_image_uri=_N32tIGHLEeqOi--jBuUxWA|publish_add_image=true|wpd_image_uri=|publish_wpd_image=false"/>
           <methodElementProperty xmi:id="_X9Knc0cfEemzv-iwDDdmtg" name="publish_ad" value="true"/>
           <methodElementProperty xmi:id="_X9KndEcfEemzv-iwDDdmtg" name="publish_add" value="true"/>
           <methodElementProperty xmi:id="_X9KndUcfEemzv-iwDDdmtg" name="publish_wpdd" value="true"/>
           <presentation xmi:id="-pAf_Mxoz4j0yWC5I2h0dlw" href="uma://-7pOyCcPtzZKaFKSB-2D3zg#-pAf_Mxoz4j0yWC5I2h0dlw"/>
+          <supportingMaterials href="uma://_EJQ_4D3vEem07NBMeZObjA#_N32tIGHLEeqOi--jBuUxWA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_lLDh8EZXEemUh_IZAUpcPQ" name="p4a_-_select_the_empirical_study_method" guid="_lLDh8EZXEemUh_IZAUpcPQ" presentationName="P4a - Select the Empirical Study Method" superActivities="_gUDWwUZXEemUh_IZAUpcPQ" isSynchronizedWithSource="false" mandatoryInput="_TP7dYL0tEem59LbFCI02WA _TP7dYb0tEem59LbFCI02WA _TP7dYr0tEem59LbFCI02WA" performedPrimarilyBy="_lLDh8UZXEemUh_IZAUpcPQ _C29kgb0lEem59LbFCI02WA _C29khL0lEem59LbFCI02WA">
           <methodElementProperty xmi:id="_lLDh80ZXEemUh_IZAUpcPQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
@@ -278,10 +280,12 @@
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_mQF3YEZXEemUh_IZAUpcPQ" name="P5 - Define Evaluation Usability Type" guid="_mQF3YEZXEemUh_IZAUpcPQ">
         <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_mQF3YUZXEemUh_IZAUpcPQ" name="P5 - Define Evaluation Usability Type" guid="_mQF3YUZXEemUh_IZAUpcPQ" presentationName="P5 - Define Evaluation Usability Type" superActivities="_yGghMUZWEemUh_IZAUpcPQ" breakdownElements="_s4AmkEZXEemUh_IZAUpcPQ _s4AmkUZXEemUh_IZAUpcPQ _C3DrIb0lEem59LbFCI02WA _C3DrJL0lEem59LbFCI02WA">
+          <ownedRules xmi:id="_YBG1EGHLEeqOi--jBuUxWA" name="diagram" guid="_YBG1EGHLEeqOi--jBuUxWA" body="ad_image_uri=|publish_ad_image=false|add_image_uri=_C6oKkGHLEeqOi--jBuUxWA|publish_add_image=true|wpd_image_uri=|publish_wpd_image=false"/>
           <methodElementProperty xmi:id="_X9KndkcfEemzv-iwDDdmtg" name="publish_ad" value="true"/>
           <methodElementProperty xmi:id="_X9Knd0cfEemzv-iwDDdmtg" name="publish_add" value="true"/>
           <methodElementProperty xmi:id="_X9KneEcfEemzv-iwDDdmtg" name="publish_wpdd" value="true"/>
           <presentation xmi:id="-qzxfu9jeabUPugpcZJHBZw" href="uma://-7pOyCcPtzZKaFKSB-2D3zg#-qzxfu9jeabUPugpcZJHBZw"/>
+          <supportingMaterials href="uma://_EJQ_4D3vEem07NBMeZObjA#_C6oKkGHLEeqOi--jBuUxWA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_s4AmkEZXEemUh_IZAUpcPQ" name="p5a_-_select_the_evaluation_usability" guid="_s4AmkEZXEemUh_IZAUpcPQ" presentationName="P5a - Select the Evaluation Usability" superActivities="_mQF3YUZXEemUh_IZAUpcPQ" isSynchronizedWithSource="false" performedPrimarilyBy="_s4AmkUZXEemUh_IZAUpcPQ _C3DrIb0lEem59LbFCI02WA _C3DrJL0lEem59LbFCI02WA">
           <methodElementProperty xmi:id="_s4GtMEZXEemUh_IZAUpcPQ" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
@@ -1076,17 +1080,16 @@
     </childPackages>
     <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_brqkcEZZEemUh_IZAUpcPQ" name="Analysis Phase" guid="_brqkcEZZEemUh_IZAUpcPQ">
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_dumskEZZEemUh_IZAUpcPQ" name="A1  - Analyze Evaluator Profiles" guid="_dumskEZZEemUh_IZAUpcPQ">
-        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_dumskUZZEemUh_IZAUpcPQ" name="A1  - Analyze Evaluator Profiles" guid="_dumskUZZEemUh_IZAUpcPQ" presentationName="A1 - Analyze Evaluator Profiles" superActivities="_brqkcUZZEemUh_IZAUpcPQ" linkToPredecessor="_D5kqAFWIEemrtKWF7uEjYg" breakdownElements="_TQ8agJkREemQRPuA_hcMlw _TQ9BkJkREemQRPuA_hcMlw _C476cb0lEem59LbFCI02WA _C476dL0lEem59LbFCI02WA">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_dumskUZZEemUh_IZAUpcPQ" name="A1  - Analyze Evaluator Profiles" guid="_dumskUZZEemUh_IZAUpcPQ" presentationName="A1 - Analyze Evaluator Profiles" superActivities="_brqkcUZZEemUh_IZAUpcPQ" linkToPredecessor="_D5kqAFWIEemrtKWF7uEjYg" breakdownElements="_TQ8agJkREemQRPuA_hcMlw _TQ9BkJkREemQRPuA_hcMlw _C476cb0lEem59LbFCI02WA _C476dL0lEem59LbFCI02WA _oFYBoDx2Eeq8UNTLIqqqrQ">
           <methodElementProperty xmi:id="_X9UYgEcfEemzv-iwDDdmtg" name="publish_ad" value="true"/>
           <methodElementProperty xmi:id="_X9UYgUcfEemzv-iwDDdmtg" name="publish_add" value="true"/>
           <methodElementProperty xmi:id="_X9UYgkcfEemzv-iwDDdmtg" name="publish_wpdd" value="true"/>
           <presentation xmi:id="-PU1FkgNqqR89P8rtifDs8g" href="uma://-7pOyCcPtzZKaFKSB-2D3zg#-PU1FkgNqqR89P8rtifDs8g"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_D5kqAFWIEemrtKWF7uEjYg" guid="_D5kqAFWIEemrtKWF7uEjYg" pred="_CFBE8UZaEemUh_IZAUpcPQ"/>
-        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_TQ8agJkREemQRPuA_hcMlw" name="a1a_-_analysis_of_the_profile_subjects" guid="_TQ8agJkREemQRPuA_hcMlw" presentationName="A1a - Analysis of the Profile Subjects" isPlanned="true" superActivities="_dumskUZZEemUh_IZAUpcPQ" isSynchronizedWithSource="false" performedPrimarilyBy="_TQ9BkJkREemQRPuA_hcMlw _C476cb0lEem59LbFCI02WA _C476dL0lEem59LbFCI02WA">
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_TQ8agJkREemQRPuA_hcMlw" name="a1a_-_analysis_of_the_profile_subjects" guid="_TQ8agJkREemQRPuA_hcMlw" presentationName="A1a - Analysis of the Profile Subjects" isPlanned="true" superActivities="_dumskUZZEemUh_IZAUpcPQ" isSynchronizedWithSource="false" mandatoryInput="_oFYBoDx2Eeq8UNTLIqqqrQ" performedPrimarilyBy="_TQ9BkJkREemQRPuA_hcMlw _C476cb0lEem59LbFCI02WA _C476dL0lEem59LbFCI02WA">
           <methodElementProperty xmi:id="_TRBTAJkREemQRPuA_hcMlw" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
           <Task href="uma://_EJQ_4D3vEem07NBMeZObjA#_0d6AkJkPEemQRPuA_hcMlw"/>
-          <mandatoryInputExclude href="uma://_EJQ_4D3vEem07NBMeZObjA#_i746MEBNEem9iaQSvThyxA"/>
         </processElements>
         <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_TQ9BkJkREemQRPuA_hcMlw" name="dsl_developer" guid="_TQ9BkJkREemQRPuA_hcMlw" presentationName="DSL Developer" superActivities="_dumskUZZEemUh_IZAUpcPQ">
           <methodElementProperty xmi:id="_TQ9BkZkREemQRPuA_hcMlw" name="descriptor_createdByReference" value="true"/>
@@ -1102,6 +1105,12 @@
           <methodElementProperty xmi:id="_C476db0lEem59LbFCI02WA" name="descriptor_createdByReference" value="true"/>
           <methodElementProperty xmi:id="_C49IkL0lEem59LbFCI02WA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
           <Role href="uma://_EJQ_4D3vEem07NBMeZObjA#_QuiAsIFuEemnnqC6BupxKw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_oFYBoDx2Eeq8UNTLIqqqrQ" name="profile_questionnaire" guid="_oFYBoDx2Eeq8UNTLIqqqrQ" presentationName="Profile Questionnaire" isPlanned="false" superActivities="_dumskUZZEemUh_IZAUpcPQ" activityEntryState="Completed">
+          <methodElementProperty xmi:id="_oFYBoTx2Eeq8UNTLIqqqrQ" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_uQHqYGHKEeqOi--jBuUxWA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <checklists href="uma://_EJQ_4D3vEem07NBMeZObjA#_QgvlML0rEem59LbFCI02WA"/>
+          <WorkProduct href="uma://_EJQ_4D3vEem07NBMeZObjA#_i746MEBNEem9iaQSvThyxA"/>
         </processElements>
       </childPackages>
       <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_i9WCUEZZEemUh_IZAUpcPQ" name="A2 - " guid="_i9WCUEZZEemUh_IZAUpcPQ">

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-vaN16KWEXexs0NCUr0KxpA" name="a9a_-_analyze_the_developed_models,_1M6DsEZREemUh_IZAUpcPQ" guid="-vaN16KWEXexs0NCUr0KxpA" changeDate="2020-03-29T20:34:15.107-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-b96e67b1-7fff-5ffb-c5c9-7a9d7473c098&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Process Executores needs to analyze the developed models by the participants in the&#xD;
+evaluation.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-f03ed9fb-7fff-7fb1-01b8-476cfbf640d7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+It is advised that more than one Process Executor analyze the generated models or codes in order to obtain an analysis with&#xD;
+lower error rate or results distortion.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_2-iFsHIVEeqX7elkF4GZ8w" name="1. Access the models" guid="_2-iFsHIVEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_3UaPEHIVEeqX7elkF4GZ8w" name="2. Analyze the models " guid="_3UaPEHIVEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-2df8761a-7fff-437c-bc4d-b295ac97fea9&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The developed models must be checked, this verification should be performed by more than one researcher to verify and to&#xD;
+obtain the task execution rate and the error rate performed by the participants.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

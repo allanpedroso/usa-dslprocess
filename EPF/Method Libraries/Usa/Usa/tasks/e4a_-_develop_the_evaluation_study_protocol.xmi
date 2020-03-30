@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QlKZqTfR7uBnW1lRN7B1fw" name="e4a_-_develop_the_evaluation_study_protocol,_KRRIoEBPEem9iaQSvThyxA" guid="-QlKZqTfR7uBnW1lRN7B1fw" changeDate="2020-03-29T19:51:35.804-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-83b7f5fc-7fff-6018-2040-cd4ba535eafc&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be execute when the Process Executor set up all data needed to develop the Evaluation Study&#xD;
+Protocol.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-aeb4696e-7fff-75d7-939d-ff9e6c4cb6f8&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The development of the Study Protocol depends entirely on the type of evaluation that will be selected in the Planning&#xD;
+Phase.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_7Bz8oHIPEeqX7elkF4GZ8w" name="1. Compile all data collected previously" guid="_7Bz8oHIPEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_7jFdsHIPEeqX7elkF4GZ8w" name="2. Develop the Evaluation Study Protocol" guid="_7jFdsHIPEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-d901e92e-7fff-3546-94b8-350b8fe9bc03&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Developing of the evaluation consists by descripting all the steps that will be used, such as the type of the evaluation,&#xD;
+experimental study, context, hypothesis, variables of the study, profile of the participants, the instruments, type of&#xD;
+data, data storage and how the study will be reported.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

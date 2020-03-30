@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VMVmR0jxkiOKbmaRPNrcJQ" name="e7a_-_collect_data_from_the_participants_characterization_questionnaires,_cc3rgEBREem9iaQSvThyxA" guid="-VMVmR0jxkiOKbmaRPNrcJQ" changeDate="2020-03-29T20:00:36.626-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-07f6b44d-7fff-c4a2-466d-86371899db49&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Profile Questionnaires has already been completed by the evaluation&#xD;
+participants.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-73317164-7fff-959c-7b09-ef0c9a0fc0f3&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Process Executor should analyze the data for apply de design principles for the Controlled Experiment or just analyze&#xD;
+in the Survey and Case Study protocol for ensure the results&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_KeaYEHIREeqX7elkF4GZ8w" name="1. Collect data from Profile Questionnaire" guid="_KeaYEHIREeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-74650f65-7fff-7701-ce11-a526f2ee12c1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The characterization of participants is obtained by the Profile Questionnaire.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

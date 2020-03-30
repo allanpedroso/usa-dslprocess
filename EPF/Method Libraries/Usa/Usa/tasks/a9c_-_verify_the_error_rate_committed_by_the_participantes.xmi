@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-jL37aMUH8UQcPGVvdk1O1g" name="a9c_-_verify_the_error_rate_committed_by_the_participantes,_DEjwAEZSEemUh_IZAUpcPQ" guid="-jL37aMUH8UQcPGVvdk1O1g" changeDate="2020-03-29T21:52:40.925-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-b3005b6c-7fff-3684-d355-e76297a40ba7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Process Executor needs to analyze the error rate in the tasks performed by the&#xD;
+participants.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-71538e72-7fff-4f38-503e-33552eabc458&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+When analyzing the models and codes the Process Executors should raise the number of tasks completed with errors, that is,&#xD;
+when analyzing the tasks completed by the participants the evaluator should take into account the use scenario that should&#xD;
+be followed.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_34ImMHIgEeqX7elkF4GZ8w" name="1. Identify the error rate in the models or codes performed by the participants" guid="_34ImMHIgEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-6d9feea6-7fff-0c58-7fff-2433b621c7d3&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Verify the error rate in the tasks is important to generate qualitative data.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

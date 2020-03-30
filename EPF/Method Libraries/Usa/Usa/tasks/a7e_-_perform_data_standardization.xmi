@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-fTxCPyejg5JIGGzweS3kuQ" name="a7e_-_perform_data_standardization,_wAFZgEZREemUh_IZAUpcPQ" guid="-fTxCPyejg5JIGGzweS3kuQ" changeDate="2020-03-29T20:32:26.397-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-07714c72-7fff-baea-b9f8-d89c5fea89f7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Process Executor needs coding the data to analyze them.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-01ea739b-7fff-d3b5-aaea-c5931df30ce9&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Process Executor should perform data coding so that the analyses are carried out, are these qualitative or&#xD;
+quantitative.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_m6EjkHIVEeqX7elkF4GZ8w" name="1. Access data" guid="_m6EjkHIVEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_nSecgHIVEeqX7elkF4GZ8w" name="2. Perform data coding " guid="_nSecgHIVEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-ef5cc05d-7fff-9f3f-a7c5-7fe9c8ffe410&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The coding of the data obtained in the evaluation must be done so that the analysis can be made.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

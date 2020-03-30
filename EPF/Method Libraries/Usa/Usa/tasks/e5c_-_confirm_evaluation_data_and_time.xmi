@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-64It_yhc9Nobws1OHPWlKg" name="e5c_-_confirm_evaluation_data_and_time,_EhhFoEBREem9iaQSvThyxA" guid="-64It_yhc9Nobws1OHPWlKg" changeDate="2020-03-29T19:58:33.379-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-44f54789-7fff-b627-b800-7202678afdf5&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be execute when the Process Executor needs to check date and time to perform evaluation with the&#xD;
+participants. This confirmation is performed by email.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-8295e6c4-7fff-d279-18fe-f2464759f049&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Process Executor check the email for verify how many and which participants will be available to participate in the&#xD;
+evaluation.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_3ZxpgHIQEeqX7elkF4GZ8w" name="1. Send an email to participants to check date and time of evaluation" guid="_3ZxpgHIQEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-fec054b5-7fff-9880-29e6-4e9ea13fe283&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Date and time needs to be confirm to perform the evaluation.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

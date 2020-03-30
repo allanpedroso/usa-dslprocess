@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-y-g2xFEpgEVFQvYry7VztA" name="r4c_-_describe_the_case_study_protocol,_y8QvYEZUEemUh_IZAUpcPQ" guid="-y-g2xFEpgEVFQvYry7VztA" changeDate="2020-03-29T22:13:54.957-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-2e58829e-7fff-9e33-5a79-a8aeae4d3daf&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Process Executor needs describe the Case Study.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-56ac5de0-7fff-bff3-b815-7e4ee5463693&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Describe the protocol of the case study according to the structure of the report offered (Guideline).&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_ym7q8HIjEeqX7elkF4GZ8w" name="1. Describe all information about the Case Study" guid="_ym7q8HIjEeqX7elkF4GZ8w"/>
+  <purpose>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+&lt;b id=&quot;docs-internal-guid-5360e701-7fff-8b35-e7af-770e4c94980d&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Case Study description should be based on the report structure provided.&lt;/span>&lt;/b>&lt;/span></purpose>
+</org.eclipse.epf.uma:TaskDescription>

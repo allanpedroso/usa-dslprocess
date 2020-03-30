@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rDXMhzOdovw0hOcGOPLr5A" name="r4b_-_describe_the_survey_protocol,_sT3fEEZUEemUh_IZAUpcPQ" guid="-rDXMhzOdovw0hOcGOPLr5A" changeDate="2020-03-29T22:13:00.054-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-34b00244-7fff-ca63-4422-f4d5a15af856&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Process Executor needs describe the survey.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-12a0b8e9-7fff-e4f1-ad1e-b339ecd8b298&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Describe the protocol of the survey according to the structure of the report offered (Guideline)&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_sKiPQHIjEeqX7elkF4GZ8w" name="1. Describe the Survey Protocol" guid="_sKiPQHIjEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-625b918d-7fff-adce-80f2-0f74021ef7d3&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Survey must be performed in detail so that information can be obtained from the participants, such as opinions and&#xD;
+insights in the context of the evaluation&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

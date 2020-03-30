@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-zNDW0ZUK81n1mUJ8mc825g" name="r11a_-_present_the_evaluation_according_to_the_report_template,_TEyJoJkYEemQRPuA_hcMlw" guid="-zNDW0ZUK81n1mUJ8mc825g" changeDate="2020-03-29T22:43:58.080-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-fbff56d7-7fff-2219-41ec-da16eb84eb3e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task is performed when the Process Executor needs describe the report evaluation.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-b5b1b335-7fff-37cb-af65-5c5d5179d713&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Describe the template used as presented in the Usa-DSL Process templates database (Controlled Experiment, Survey or Case&#xD;
+Study)&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_97vDMHInEeqX7elkF4GZ8w" name="1. Describe the report evaluation" guid="_97vDMHInEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-14a6849c-7fff-ddb6-1389-3e55b878f998&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+At the end of the evaluation the data should be fully described in a report format, containing all the documents attached&#xD;
+to the report.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

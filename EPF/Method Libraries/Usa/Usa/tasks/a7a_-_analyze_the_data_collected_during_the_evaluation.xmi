@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-evjKUs4JYlB-_cufqgmCYA" name="a7a_-_analyze_the_data_collected_during_the_evaluation,_MU-qMEWcEemQhcfyKvdZ4A" guid="-evjKUs4JYlB-_cufqgmCYA" changeDate="2020-03-29T20:28:05.809-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-0c4e5d54-7fff-ca82-cb84-ab918db12450&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Process Executor needs to analyze the Data obtained in the evaluation.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-12ee4f38-7fff-e2da-1710-75b1af8ea8d0&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Process Executor should analyze the data collected to obtain evidence regarding the results obtained with its&#xD;
+evaluation.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="__8hJ0HIUEeqX7elkF4GZ8w" name="1. Access the data collected" guid="__8hJ0HIUEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_AhzoMHIVEeqX7elkF4GZ8w" name="2. Analyze the data collected" guid="_AhzoMHIVEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-d723f86b-7fff-a531-c87e-2f060af10f92&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The data obtained in the evaluation should be categorized and tabulated.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

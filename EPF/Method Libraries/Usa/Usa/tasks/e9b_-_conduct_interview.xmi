@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-x_4ILmBcZVxwPEYrYZ5THA" name="e9b_-_conduct_interview,_yQ2fwEBSEem9iaQSvThyxA" guid="-x_4ILmBcZVxwPEYrYZ5THA" changeDate="2020-03-29T20:09:14.295-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-57f540f8-7fff-d40d-ce7f-f906d5eaf452&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed by the Process Executor when the Interview Protocol needs to be applied.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-91717936-7fff-f7ae-21a3-ac419e01de81&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Process Executor will conduct the interview.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_adBUYHISEeqX7elkF4GZ8w" name="1. Execute Interview Protocol " guid="_adBUYHISEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-5f4ec6e1-7fff-6034-a5f7-f75bb86a8e10&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Through the interview, an opinion is obtained from the evaluation participants on the DSL to be evaluated&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

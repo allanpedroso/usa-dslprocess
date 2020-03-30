@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NBJODVsNbcWUECUf29Q7qA" name="e1b_-_apply_profile_questionnaire,_N17-sEBOEem9iaQSvThyxA" guid="-NBJODVsNbcWUECUf29Q7qA" changeDate="2020-03-29T19:32:16.140-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-d7633317-7fff-b2d7-59b3-5437289bc661&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be execute when the Profile Questionnaire needs to be disponibilize to the participants of&#xD;
+evaluation.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-e5389a03-7fff-ce13-8d5a-c55ba1e68745&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be run on all the evaluation&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_MRSnwHINEeqX7elkF4GZ8w" name="1. Send Profile Questionnaires by email or during the evaluation" guid="_MRSnwHINEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-599a3c05-7fff-6f56-674b-a2cae7294cfc&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Process Executor disponibilize an instrument to possible participants of evaluation to identify your profiles and select&#xD;
+the best profile for each group when necessaire.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

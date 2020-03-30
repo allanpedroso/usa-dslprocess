@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-PpCuQ-NSmYb9mFaxx64H2Q" name="r8c_-_report_the_usage_scenario,_s3qTMEZVEemUh_IZAUpcPQ" guid="-PpCuQ-NSmYb9mFaxx64H2Q" changeDate="2020-03-29T22:40:38.664-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-596606e2-7fff-196e-6c74-45ad95da8058&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task is performed when the Process Executor needs report the Use Scenario.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-c81625b8-7fff-33cf-c9b1-b12f69be0e34&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Process Executor should describe in details the Use Scenario used to guide study execution&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_hLHXgHInEeqX7elkF4GZ8w" name="1. Present the Use Scenario, used to execute the evaluation" guid="_hLHXgHInEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-be3f5a61-7fff-feb0-4400-bf92d7ed7e76&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Use Scenario used in the evaluation should be attached in the document used to present the study.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

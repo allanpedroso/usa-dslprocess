@@ -8,31 +8,6 @@
     <styles xmi:type="notation:GuideStyle" xmi:id="_4wjdo0ciEemzv-iwDDdmtg"/>
     <styles xmi:type="notation:DescriptionStyle" xmi:id="_4wjdpEciEemzv-iwDDdmtg"/>
   </notation:Diagram>
-  <uml:Activity xmi:id="_3ToFQEclEemzv-iwDDdmtg" name="P4 - Define Empirical Study Method">
-    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_3ToFQUclEemzv-iwDDdmtg" source="uma_element">
-      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_3ToFQkclEemzv-iwDDdmtg" key="uri" value="uma://_uFqh8EZWEemUh_IZAUpcPQ#_gUDWwUZXEemUh_IZAUpcPQ"/>
-      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_3ToFQ0clEemzv-iwDDdmtg" key="type" value="Activity"/>
-    </eAnnotations>
-    <node xmi:type="uml:ActivityParameterNode" xmi:id="_3UrOIUclEemzv-iwDDdmtg" name="P4a - Select the Empirical Study Method">
-      <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_3UrOIkclEemzv-iwDDdmtg" source="uma_element">
-        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_3UrOI0clEemzv-iwDDdmtg" key="uri" value="uma://_uFqh8EZWEemUh_IZAUpcPQ#_lLDh8EZXEemUh_IZAUpcPQ"/>
-        <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_3UrOJEclEemzv-iwDDdmtg" key="type" value="Task"/>
-      </eAnnotations>
-    </node>
-  </uml:Activity>
-  <notation:Diagram xmi:id="_3ToFREclEemzv-iwDDdmtg" type="AD" element="_3ToFQEclEemzv-iwDDdmtg" name="P4 - Define Empirical Study Method" measurementUnit="Pixel">
-    <children xmi:type="notation:Node" xmi:id="_3dKbwEclEemzv-iwDDdmtg" type="1009" element="_3UrOIUclEemzv-iwDDdmtg">
-      <children xmi:type="notation:Node" xmi:id="_3dKbxkclEemzv-iwDDdmtg" type="4008"/>
-      <styles xmi:type="notation:FontStyle" xmi:id="_3dKbwUclEemzv-iwDDdmtg" fontName="Arial" fontHeight="8"/>
-      <styles xmi:type="notation:DescriptionStyle" xmi:id="_3dKbwkclEemzv-iwDDdmtg"/>
-      <styles xmi:type="notation:FillStyle" xmi:id="_3dKbw0clEemzv-iwDDdmtg"/>
-      <styles xmi:type="notation:LineStyle" xmi:id="_3dKbxEclEemzv-iwDDdmtg" lineColor="0"/>
-      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3dKbxUclEemzv-iwDDdmtg" x="345" y="125"/>
-    </children>
-    <styles xmi:type="notation:PageStyle" xmi:id="_3ToFRUclEemzv-iwDDdmtg"/>
-    <styles xmi:type="notation:GuideStyle" xmi:id="_3ToFRkclEemzv-iwDDdmtg"/>
-    <styles xmi:type="notation:DescriptionStyle" xmi:id="_3ToFR0clEemzv-iwDDdmtg"/>
-  </notation:Diagram>
   <uml:Activity xmi:id="_P6MD8UcpEemzv-iwDDdmtg" name="P6 - Define Metrics for Language Validation">
     <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_P6MD8kcpEemzv-iwDDdmtg" source="uma_element">
       <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_P6MD80cpEemzv-iwDDdmtg" key="uri" value="uma://_uFqh8EZWEemUh_IZAUpcPQ#_tpjYQUZXEemUh_IZAUpcPQ"/>

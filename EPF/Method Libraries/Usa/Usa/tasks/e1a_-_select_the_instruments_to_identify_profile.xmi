@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-WCHGzkAf-1_pIFhPW9enoQ" name="e1a_-_select_the_instruments_to_identify_profile,_3-o4MJkWEemQRPuA_hcMlw" guid="-WCHGzkAf-1_pIFhPW9enoQ" changeDate="2020-03-29T19:30:36.630-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-8714fe17-7fff-2296-632c-63c293f1c3a0&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be execute when the Process Executor need select the instrument to identify the profiles of participants of&#xD;
+evaluation.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-9e1ff84f-7fff-5c1d-d854-f3975d5ac4d5&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be run on all the evaluation&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_-aG1gHIMEeqX7elkF4GZ8w" name="1. Select Profile Questionnaire " guid="_-aG1gHIMEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-c3bd88b4-7fff-fa4c-a28d-c3331b16b333&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The profiles of evaluators can be identified by a profile questionnaire.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

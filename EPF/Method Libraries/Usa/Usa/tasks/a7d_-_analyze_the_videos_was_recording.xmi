@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ikkw59M3earkiizsFIjQPw" name="a7d_-_analyze_the_videos_was_recording,_3u7J8EZQEemUh_IZAUpcPQ" guid="-ikkw59M3earkiizsFIjQPw" changeDate="2020-03-29T20:31:49.895-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-1888bd97-7fff-2ced-692c-e28915bf3bac&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Process Executor needs analyze the videos recorded of the interview with&#xD;
+participants.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-6841c428-7fff-47fb-b24e-d3b8164adcd8&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+It is indicated that more than one Process Executor analyzes the videos recordings of the interviews or logs.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_gs7r4HIVEeqX7elkF4GZ8w" name="1. Analyze the video" guid="_gs7r4HIVEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-8ca07dbc-7fff-1083-0525-a7a7b0462f98&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The video of interview must be analyzed in detail to avoid inconsistencies.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>

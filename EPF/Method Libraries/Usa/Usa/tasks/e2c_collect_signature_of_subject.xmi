@@ -1,4 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-aqjGiPD-LS4x3PN2H4MWPw" name=",_a-bAYJkNEem_6v8W7dTdTg" guid="-aqjGiPD-LS4x3PN2H4MWPw">
-  <sections xmi:id="_IIOWALlEEemt5oQZSu_gkA" name="New Step" guid="_IIOWALlEEemt5oQZSu_gkA"/>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-aqjGiPD-LS4x3PN2H4MWPw" name=",_a-bAYJkNEem_6v8W7dTdTg" guid="-aqjGiPD-LS4x3PN2H4MWPw" changeDate="2020-03-29T19:50:39.004-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-a9f7a754-7fff-7a48-4495-7b0861fc98e6&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be execute when the Consent Term and the Data Access Agreement have already been introduced to the&#xD;
+participants of the evaluation.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-5aee2745-7fff-a5b5-4c3c-246f0a4bc46e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The subscription will be collected if the participant agrees to participate in the evaluation or if the company allows its&#xD;
+data to be used for evaluation.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_IIOWALlEEemt5oQZSu_gkA" name="1. Collect Signature of Subject or Give up the participation" guid="_IIOWALlEEemt5oQZSu_gkA"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-9a696aab-7fff-490a-cac7-276d216749d1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Process Executor need the acceptance of Consent Term and Data Access Agreement to proceed with the&#xD;
+evaluation.&lt;/span>&lt;/b></purpose>
 </org.eclipse.epf.uma:TaskDescription>

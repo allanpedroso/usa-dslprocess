@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SFgJmjbxwPcSzAK0JtdNkw" name="p8a_-_select_the_instruments_training,_ZTmmwEBMEem9iaQSvThyxA" guid="-SFgJmjbxwPcSzAK0JtdNkw" changeDate="2020-03-29T19:04:58.412-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-fb77f50b-7fff-4027-4fb3-1d2ff916c8fb&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task must be performed when the Process Executor select and complete the documentation of training.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-1ddb6277-7fff-a169-2234-ad25159a1d44&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Instruments of Training always will be selected, because all evaluation depends on that documentation for clarify what&#xD;
+the participants should do.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_2LiY8HIJEeqX7elkF4GZ8w" name="1. Select the document and add the DSL data to be evaluated in the DSL Guide" guid="_2LiY8HIJEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_2xp9wHIJEeqX7elkF4GZ8w" name="2. Select the document and add data to the Use Scenario model with the tasks to be performed in the presented DSL" guid="_2xp9wHIJEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_41rrAHIJEeqX7elkF4GZ8w" name="3. Select the document and add data to the example of presentation in powerpoint made available, as well as make the presentation to the participants of the evaluation" guid="_41rrAHIJEeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-3330d336-7fff-1e8d-691a-2b9997efeea3&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-3330d336-7fff-1e8d-691a-2b9997efeea3&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    These instruments will be used all of Usability Evaluation.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-BOTTOM: 12pt; PADDING-TOP: 0pt; PADDING-LEFT: 0pt; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0pt; BACKGROUND-COLOR: #ffffff&quot;&#xD;
+ dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    As system instructions the process defines:&lt;/span>&amp;nbsp;&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-BOTTOM: 12pt; PADDING-TOP: 0pt; PADDING-LEFT: 0pt; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0pt; BACKGROUND-COLOR: #ffffff; MARGIN-RIGHT: 0px&quot;&#xD;
+ dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    &lt;strong>DSL Guide&lt;/strong> - contains the language use instructions and the description of its syntax and&#xD;
+    semantics.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-BOTTOM: 12pt; PADDING-TOP: 0pt; PADDING-LEFT: 0pt; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0pt; BACKGROUND-COLOR: #ffffff&quot;&#xD;
+ dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    &lt;strong>Use Scenario&lt;/strong> - document described in scenario format that contains the task to be performed.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p&#xD;
+style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-BOTTOM: 12pt; PADDING-TOP: 0pt; PADDING-LEFT: 0pt; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0pt; BACKGROUND-COLOR: #ffffff&quot;&#xD;
+ dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    &lt;strong>Language Presentation&lt;/strong> - when the researcher presents the DSL and the usage scenario to the&#xD;
+    participants, as well as questions that have arisen about the evaluation to be performed.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></purpose>
+</org.eclipse.epf.uma:TaskDescription>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-b-NuSVFN8iiMKzhwJepbUg" name="e8a_-_deliver_the_dsl_guide,_WSKAQEBSEem9iaQSvThyxA" guid="-b-NuSVFN8iiMKzhwJepbUg" changeDate="2020-03-29T20:05:40.854-0300">
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-2568b85d-7fff-479b-e0d4-8087eb63672c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+This task will be performed when the Process Executor needs to present the DSL to evaluation participants.&lt;/span>&lt;/b></mainDescription>
+  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-c8c4fe31-7fff-6438-5249-178103452d9a&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The Process Executor should present the DSL to participants during the evaluation.&lt;/span>&lt;/b></keyConsiderations>
+  <sections xmi:id="_2s5f8HIREeqX7elkF4GZ8w" name="1. Present the DSL Guide" guid="_2s5f8HIREeqX7elkF4GZ8w"/>
+  <purpose>&lt;b id=&quot;docs-internal-guid-936b71b5-7fff-d378-991e-49853984d4af&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+The language is must be presented, both as its functioning, purpose, syntax and semantic.&lt;/span>&lt;/b></purpose>
+</org.eclipse.epf.uma:TaskDescription>
