@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-n1-xZnEJyXF5rnRxQ91RXA" name="e9d_-_complete_heuristic_evaluation_checklist,_DY0VsLlGEemt5oQZSu_gkA" guid="-n1-xZnEJyXF5rnRxQ91RXA" changeDate="2020-03-29T20:12:24.317-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-36ca0fe1-7fff-5de4-f687-02013618caa6&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed by the HCI Expert when the Heuristic Evaluation is selected.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-78d43382-7fff-779a-4713-aab975c77e24&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The HCI Expert will use the Heuristic Checklist to evaluate the DSL studied.&lt;/span>&lt;/b></keyConsiderations>
+  <mainDescription>This task will be performed by the HCI Expert when the Heuristic Evaluation is selected.</mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-68b97774-7fff-5586-455e-1de2e8733bba&quot;>&lt;span>The HCI Expert will use the Heuristic&#xD;
+    Checklist to evaluate the DSL studied.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_zla8MHISEeqX7elkF4GZ8w" name="1. Access the Heuristic Checklist" guid="_zla8MHISEeqX7elkF4GZ8w"/>
   <sections xmi:id="_0EKtsHISEeqX7elkF4GZ8w" name="2. Complete Heuristic Checklist" guid="_0EKtsHISEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-765d719f-7fff-486b-dc91-f462614dd42d&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The Heuristic Evaluation Checklist it’s a way to evaluate the DSL using the Nielsen Heuristics.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-45ecce33-7fff-c259-50fd-963f45ffa8c0&quot;>&lt;span>The Heuristic Evaluation Checklist is a way to&#xD;
+    evaluate the DSL using the Heuristic Evaluation Method.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

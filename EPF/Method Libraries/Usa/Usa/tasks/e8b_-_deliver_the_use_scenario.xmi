@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-EdyocyPAfcerJvFV-8ULaw" name="e8b_-_deliver_the_use_scenario,_e7nwcEBSEem9iaQSvThyxA" guid="-EdyocyPAfcerJvFV-8ULaw" changeDate="2020-03-29T20:06:20.845-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-f4a72cce-7fff-ab0a-4912-843ad793ed9f&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs to present Use Scenario to evaluation participants.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-f68d5972-7fff-e88e-d0cd-0836b831b732&quot;>&lt;span>The Participant should performed the Use&#xD;
+    Scenario&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_8ECjwHIREeqX7elkF4GZ8w" name="1. Present the Use Scenario" guid="_8ECjwHIREeqX7elkF4GZ8w"/>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-853ada74-7fff-430f-d89f-9be6ce888250&quot;>&lt;span>The Use Scenario is an example of a real&#xD;
+    scenario applied to the language context.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
+</org.eclipse.epf.uma:TaskDescription>

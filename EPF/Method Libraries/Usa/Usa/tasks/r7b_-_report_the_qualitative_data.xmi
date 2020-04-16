@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tD2V-E3zoeg0AMuN0c5mFQ" name="r7b_-_report_the_qualitative_data,_RPW6cEZVEemUh_IZAUpcPQ" guid="-tD2V-E3zoeg0AMuN0c5mFQ" changeDate="2020-03-29T22:37:07.449-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-b7fccba9-7fff-4b7f-498a-7e1b5509fc96&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed when the Process Executor needs report the qualitative data.&lt;/span>&lt;/b> &lt;br /></mainDescription>
-  <keyConsiderations>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The qualitative data collected through semi-structured interviews should be &quot;described by the Process Executor as a&#xD;
-&quot;history of the inquiry so the reader can see what was done, by whom and how”. They should still “provide basic data in&#xD;
-focused form, so the reader can make sure that the conclusion are reasonable”. [wholin]&lt;/span>&lt;br&#xD;
-class=&quot;Apple-interchange-newline&quot; /></keyConsiderations>
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-6962574c-7fff-53d7-ee9a-d8cc090df514&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs to report the qualitative data.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    The qualitative data collected through semi-structured interviews should be &quot;described by the Process Executor as a&#xD;
+    &quot;history of the inquiry so the reader can see what was done, by whom and how”. They should still “provide basic data in&#xD;
+    focused form, so the reader can make sure that the conclusions are reasonable”. [wholin]&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_KhVuQHInEeqX7elkF4GZ8w" name="1. Describe the details about qualitative data" guid="_KhVuQHInEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-d8dbdf13-7fff-c0ab-2831-f1ca04b574bf&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-d8dbdf13-7fff-c0ab-2831-f1ca04b574bf&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    The qualitative data should be reported, can be represented by an image, interview transcript, annotation excerpts,&#xD;
-    categorization and standards, high-level video narratives, and fragments of open-ended questions.&lt;/span>&lt;/b>&#xD;
-&lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></purpose>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-a6a7bf38-7fff-c9f0-0124-3be1152201c4&quot;>&lt;span>The qualitative data should be reported, can&#xD;
+    be represented by an image, interview transcript, annotation excerpts, categorization and standards, high-level video&#xD;
+    narratives, and fragments of open-ended questions.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

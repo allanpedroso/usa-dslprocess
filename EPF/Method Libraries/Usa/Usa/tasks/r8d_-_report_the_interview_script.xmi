@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-ECIgwWCaxvCywcyqHD2q3g" name="r8d_-_report_the_interview_script,_2DTjYEZVEemUh_IZAUpcPQ" guid="-ECIgwWCaxvCywcyqHD2q3g" changeDate="2020-03-29T22:41:18.063-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-eb9875a6-7fff-b08e-d79d-d8c4045e3389&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task is performed when the Process Executor needs report the Interview Script.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-bbb2171e-7fff-c7d3-df8d-d511e50c1200&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The Process Executor should present in details the Interview Script used to execute the evaluation.&lt;/span>&lt;/b></keyConsiderations>
+  <mainDescription>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-0178fc61-7fff-9be7-cf95-28034c5f98cd&quot;>&lt;span>This task is performed when the Process&#xD;
+    Executor needs to report the Interview Script.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-75bbd328-7fff-f591-cfb8-cfa82e7327be&quot;>&lt;span>The Process Executor should present in details&#xD;
+    the Interview Script used to execute the evaluation.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_l5cu4HInEeqX7elkF4GZ8w" name="1. Describe all the steps used to executed the interview" guid="_l5cu4HInEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-ed5787d1-7fff-9a4c-c6de-b8f7cb315407&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The interview script used in the evaluation should be attached in the document used to present the study.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-dc9de0d5-7fff-48e6-f938-4ebd39033f85&quot;>&lt;span>The interview script used in the evaluation&#xD;
+    should be attached in the document used to present the study&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

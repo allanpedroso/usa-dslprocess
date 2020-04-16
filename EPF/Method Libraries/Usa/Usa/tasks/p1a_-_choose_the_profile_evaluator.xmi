@@ -1,36 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xmobvy8CFXW-0KyfqCHXjg" name="p1_-_choose_the_profile_evaluator,_2m83EJkXEemQRPuA_hcMlw" guid="-xmobvy8CFXW-0KyfqCHXjg" changeDate="2020-03-29T16:59:33.594-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-38b4c3ab-7fff-6f8d-dcb0-4515a5c04707&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-38b4c3ab-7fff-6f8d-dcb0-4515a5c04707&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    This task focuses on applying the profile questionnaire in order to guide the Process Executor in the classification of&#xD;
-    Evaluation participants.&lt;/span>&lt;/b>&#xD;
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xmobvy8CFXW-0KyfqCHXjg" name="p1_-_choose_the_profile_evaluator,_2m83EJkXEemQRPuA_hcMlw" guid="-xmobvy8CFXW-0KyfqCHXjg" changeDate="2020-04-15T16:08:13.161-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>This task focuses on the definition of the Profile Subject in order to guide the Process Executor in the classify&#xD;
+    the profile of the participants that will execute the evaluation.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;br />&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    The results captured will be used in the future to understand the results obtained during the activities carried out by&#xD;
-    the participants and to correlate the responses of the post-evaluation questionnaire with the profile analyzed.&lt;/span>&#xD;
+&lt;p>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>If the Process Executor chooses Heuristic Evaluation, the profile will be HCI Expert.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
-  <keyConsiderations>&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2; MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    If the Process Executor chooses Heuristic Evaluation, the profile will be HCI Expert.&lt;/span>&#xD;
-&lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2; MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    If the Process Executor chooses Usability Testing, the profile will be Domain Tester, Domain Analyst, Domain Developer&#xD;
-    and End User.&lt;/span>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>If the Process Executor chooses Usability Testing, the profile will be selected among the set of Usability&#xD;
+    Evaluation Subjects (Domain Tester, Domain Analyst,&amp;nbsp; Domain Developer or End User).&lt;/span>&#xD;
 &lt;/p></keyConsiderations>
-  <sections xmi:id="_MJVLIHH4EeqX7elkF4GZ8w" name="1. Invite Participant" guid="_MJVLIHH4EeqX7elkF4GZ8w"/>
-  <sections xmi:id="_OCvj0HH4EeqX7elkF4GZ8w" name="2. Apply the Profile Questionnaire" guid="_OCvj0HH4EeqX7elkF4GZ8w"/>
-  <sections xmi:id="_yOlD4HH4EeqX7elkF4GZ8w" name="3. Classify the profiles" guid="_yOlD4HH4EeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-9889a1b9-7fff-c34d-1138-d2e38b73d28d&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+  <sections xmi:id="_MJVLIHH4EeqX7elkF4GZ8w" name="1. Choose the Profile Evaluator" guid="_MJVLIHH4EeqX7elkF4GZ8w"/>
+  <purpose>&lt;span&#xD;
 style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-Identify and classify the profile of the evaluation participant, with the purpose of separating by level of knowledge or&#xD;
-familiarity with the domain.&lt;/span>&lt;/b></purpose>
+&lt;b id=&quot;docs-internal-guid-39ab93d7-7fff-5a90-b3e8-20218d3e2cd5&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+style=&quot;FONT-SIZE: 10pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+Choose the profile of the evaluation participant, with the purpose of separating by familiarity with the domain or&#xD;
+Usability Method.&lt;/span>&lt;/b>&lt;/span></purpose>
 </org.eclipse.epf.uma:TaskDescription>

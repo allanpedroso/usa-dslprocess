@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-NN0uN-y-x48RHYZSSGxp7w" name="e5d_-_confirm_receipt_of_online_questionnaires,_QbIX8EBREem9iaQSvThyxA" guid="-NN0uN-y-x48RHYZSSGxp7w" changeDate="2020-03-29T19:59:22.642-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-c5be10b6-7fff-7d69-ba05-d35d6bc6ef65&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed when the Profile Questionnaire has already been sent to the participants and the process&#xD;
-executor needs confirmation of receipt. This confirmation is performed by email.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-de9af9b9-7fff-c80d-ad27-dd2c5b0ccee5&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-de9af9b9-7fff-c80d-ad27-dd2c5b0ccee5&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    The Process Executor should send the Profile Questionnaire by email when the evaluation was a Survey or Experiment if&#xD;
-    used the design principles combination: randomization, blocking and balancing.&amp;nbsp;&lt;/span>&lt;/b>&#xD;
+  <mainDescription>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-30455524-7fff-7b08-61c4-3c7f39993cce&quot;>&lt;span>This task will be performed when the Profile&#xD;
+    Questionnaire has already been sent to the participants and the process executor needs confirmation of receipt. This&#xD;
+    confirmation can be performed by email.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>The Process Executor should send the Profile Questionnaire by email when the evaluation was a Survey or&#xD;
+    Controlled Experiment.&lt;/span>&lt;span>In the Controlled Experiment is important this information because it used the&#xD;
+    design principles combination: randomization, blocking and balancing.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    The population of the participants shall be representative in relation to the evaluated universe. Still this number of&#xD;
-    participants must be balanced among the groups.&lt;/span>&#xD;
-&lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></keyConsiderations>
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Another relevant information is the population of the participants shall be representative in relation to the&#xD;
+    evaluated universe and the number of participants must be balanced among the groups.&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_CJkNAHIREeqX7elkF4GZ8w" name="1. Send a Profile Questionnaire to participants " guid="_CJkNAHIREeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-3c70bb99-7fff-5b05-2df6-4ff307ba08ca&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-Confirmation of receipt of the Profile Questionnaire by the evaluation participant is required to proceed to&#xD;
-evaluation.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-0aeee206-7fff-15bd-9f38-e98d3180603c&quot;>&lt;span>Confirmation of receiving of the Profile&#xD;
+    Questionnaire by participant is required to proceed the next steps to evaluation.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

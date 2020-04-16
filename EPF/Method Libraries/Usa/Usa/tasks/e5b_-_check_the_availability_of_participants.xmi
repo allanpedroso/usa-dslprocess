@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Osvq3ZzGHTQW2cmN5-gs0w" name="e5b_-_check_the_availability_of_participants,__nJS0EBPEem9iaQSvThyxA" guid="-Osvq3ZzGHTQW2cmN5-gs0w" changeDate="2020-03-29T19:57:44.312-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-3939916a-7fff-017d-92ec-9cdac02f1578&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be execute when the Process Executor needs to check availability of participants.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-d3002df9-7fff-2192-9387-4c027680db3d&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The Process Executor send a email for verify how many and which participants will be available to participate in the&#xD;
-evaluation.&lt;/span>&lt;/b></keyConsiderations>
+  <mainDescription>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-786fe3a3-7fff-0970-ef01-67ff40be8d10&quot;>&lt;span>This task will be executed when the Process&#xD;
+    Executor needs to check availability of participants.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-3ea23a7f-7fff-574f-3ae1-45f73fd94ec1&quot;>&lt;span>The Process Executor should send an email to&#xD;
+    verify how many and which participants will be available to participate in the evaluation.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_w6DNAHIQEeqX7elkF4GZ8w" name="1. Send an email to participants to check their availability" guid="_w6DNAHIQEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-4e4bf16e-7fff-8c20-6688-76ab4db299ad&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The availability of participants in an evaluation must be verified so that everyone can participate.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-14180156-7fff-b3a1-9b01-82662eb148bb&quot;>&lt;span>The number of participants should be&#xD;
+    guaranteed as provided for in the evaluation protocol.&amp;nbsp; Therefore, the availability of participants should be&#xD;
+    confirmed so that the assessment is not impaired.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

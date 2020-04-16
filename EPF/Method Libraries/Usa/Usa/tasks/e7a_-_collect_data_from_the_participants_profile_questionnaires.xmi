@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VMVmR0jxkiOKbmaRPNrcJQ" name="e7a_-_collect_data_from_the_participants_characterization_questionnaires,_cc3rgEBREem9iaQSvThyxA" guid="-VMVmR0jxkiOKbmaRPNrcJQ" changeDate="2020-03-29T20:00:36.626-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-07f6b44d-7fff-c4a2-466d-86371899db49&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed when the Profile Questionnaires has already been completed by the evaluation&#xD;
-participants.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-73317164-7fff-959c-7b09-ef0c9a0fc0f3&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The Process Executor should analyze the data for apply de design principles for the Controlled Experiment or just analyze&#xD;
-in the Survey and Case Study protocol for ensure the results&lt;/span>&lt;/b></keyConsiderations>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VMVmR0jxkiOKbmaRPNrcJQ" name="e7a_-_collect_data_from_the_participants_characterization_questionnaires,_cc3rgEBREem9iaQSvThyxA" guid="-VMVmR0jxkiOKbmaRPNrcJQ" changeDate="2020-04-15T20:49:48.786-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-8eeb225d-7fff-f42f-ab54-f9b4cc600680&quot;>&lt;span>This task will be performed when the Profile&#xD;
+    Questionnaires has already been completed by evaluation participants.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-f47e7e8d-7fff-6fe1-06d3-6faf0fe2ea0b&quot;>&lt;span>The Process Executor should analyze the data&#xD;
+    of Profile Questionnaire for applied design principles described in the study protocol (&lt;a&#xD;
+    class=&quot;elementLinkWithUserText&quot; href=&quot;./../../Usa/deliveryprocesses/E4 - Develop and Conduct Protocol_D4424ED5.html&quot;&#xD;
+    guid=&quot;_tkEl4UZYEemUh_IZAUpcPQ&quot;>See Activity E4&lt;/a>).&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_KeaYEHIREeqX7elkF4GZ8w" name="1. Collect data from Profile Questionnaire" guid="_KeaYEHIREeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-74650f65-7fff-7701-ce11-a526f2ee12c1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The characterization of participants is obtained by the Profile Questionnaire.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-000d2476-7fff-92c2-a779-3012e1f0f1af&quot;>&lt;span>The characterization of participants is&#xD;
+    obtained by the Profile Questionnaire.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

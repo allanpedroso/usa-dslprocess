@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="587.14728"
+   height="269.60297"
+   version="1.1"
+   id="svg2901"
+   sodipodi:docname="P11.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata2905">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     id="namedview2903"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.6592292"
+     inkscape:cx="345.52781"
+     inkscape:cy="52.619929"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2901" />
+  <style
+     type="text/css"
+     id="style2810"><![CDATA[
+	.style1{fill:#E6FF97;stroke:#62A716;stroke-width:2;}
+	.style2{fill:#EEAAAA;stroke:#990000;stroke-width:3;}
+	.style3{fill:#ECEFFF;stroke:#03689A;stroke-width:2;}
+	.style4{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def7);}
+	.style5{fill:#F0F0F0;stroke:#666666;stroke-width:1;}
+	.style6{fill:#FFFFFF;}
+	.style7{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def14);}
+	.style8{text-rendering:auto;font-family:'Segoe UI';font-size:8.25pt;fill:#000000;clip-path:url(#def16);}]]></style>
+  <defs
+     id="defs2848">
+    <path
+       id="9a84b080-50a1-4bc9-ac1b-888d469071c9HeaderPath"
+       d="m 30,380 h 350 v 50 H 30 Z"
+       inkscape:connector-curvature="0"
+       style="fill-rule:evenodd" />
+    <clipPath
+       id="baa3b674-f6a8-4838-b8d2-6b5034a1c8afHeaderClipPath">
+      <use
+         xlink:href="#9a84b080-50a1-4bc9-ac1b-888d469071c9HeaderPath"
+         id="use2813"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <circle
+       id="def3"
+       cx="15"
+       cy="15"
+       r="15" />
+    <clipPath
+       id="def4">
+      <use
+         xlink:href="#def3"
+         id="use2817"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="def5">
+      <use
+         xlink:href="#def3"
+         id="use2820"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       id="def6"
+       d="m 7,0 h 76 v 0 c 3.87,0 7,3.13 7,7 0,0 0,0 0,0 v 0 46 0 c 0,3.87 -3.13,7 -7,7 v 0 H 7 v 0 C 3.13,60 0,56.87 0,53 V 53 7 7 C 0,3.13 3.13,0 7,0 Z"
+       inkscape:connector-curvature="0"
+       style="fill-rule:evenodd" />
+    <clipPath
+       id="def7">
+      <use
+         xlink:href="#def6"
+         id="use2824"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <polygon
+       id="def8"
+       points="40,50 40,10 30,0 30,10 40,10 30,0 0,0 0,50 " />
+    <clipPath
+       id="def9">
+      <use
+         xlink:href="#def8"
+         id="use2828"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="def10">
+      <use
+         xlink:href="#def8"
+         id="use2831"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <marker
+       id="defMarkerShadow"
+       viewbox="0 0 10 8"
+       refX="10"
+       refY="4"
+       markerUnits="strokeWidth"
+       markerWidth="10"
+       markerHeight="8"
+       orient="auto"
+       style="fill:#000000;fill-opacity:0.1">
+      <path
+         d="M 9,4 1,9 3,4 1,-1 Z"
+         id="path2834"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd" />
+    </marker>
+    <marker
+       id="defMarker"
+       viewbox="0 0 10 8"
+       refX="10"
+       refY="4"
+       markerUnits="strokeWidth"
+       markerWidth="10"
+       markerHeight="8"
+       orient="auto"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         d="M 9,4 1,9 3,4 1,-1 Z"
+         id="path2837"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd" />
+    </marker>
+    <rect
+       id="def13"
+       width="50"
+       height="30"
+       x="0"
+       y="0" />
+    <clipPath
+       id="def14">
+      <use
+         xlink:href="#def13"
+         id="use2841"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <rect
+       id="def15"
+       width="80"
+       height="50"
+       x="0"
+       y="0" />
+    <clipPath
+       id="def16">
+      <use
+         xlink:href="#def15"
+         id="use2845"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+  </defs>
+  <g
+     id="g2858"
+     transform="matrix(0.8375853,0,0,0.76809959,-24.708766,-22.658938)">
+    <rect
+       x="30"
+       y="30"
+       width="700"
+       height="350"
+       rx="0"
+       ry="0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect2850" />
+    <line
+       x1="80"
+       y1="30"
+       x2="80"
+       y2="380"
+       style="stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="line2852" />
+    <text
+       style="font-weight:bold;font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+       transform="matrix(0,-1.2589901,1.1717406,0,-420.67217,464.51387)"
+       clip-path="url(#baa3b674-f6a8-4838-b8d2-6b5034a1c8afHeaderClipPath)"
+       id="text2856">
+      <tspan
+         x="130.8394"
+         y="409"
+         id="tspan2854">P11 - Define Study Reporting</tspan>
+    </text>
+  </g>
+  <use
+     id="cb61e251-aeba-4f16-a0e9-0f3b3dc037c7"
+     xlink:href="#def3"
+     class="style1"
+     x="176"
+     y="185"
+     style="fill:#e6ff97;stroke:#62a716;stroke-width:2"
+     width="100%"
+     height="100%"
+     transform="translate(-93.357274,-69.897176)" />
+  <g
+     id="cb61e251-aeba-4f16-a0e9-0f3b3dc037c7Container"
+     transform="translate(146.52781,155.48302)" />
+  <use
+     id="74a2500a-3bd4-4bef-a7e3-ff72553c2241"
+     xlink:href="#def3"
+     class="style2"
+     x="541"
+     y="185"
+     style="fill:#eeaaaa;stroke:#990000;stroke-width:3"
+     width="100%"
+     height="100%"
+     transform="translate(-93.357274,-69.897176)" />
+  <g
+     id="74a2500a-3bd4-4bef-a7e3-ff72553c2241Container"
+     transform="translate(511.52781,155.48302)" />
+  <use
+     id="b02be391-782c-4d6e-b371-993b870e2592"
+     xlink:href="#def6"
+     class="style3"
+     x="328"
+     y="170"
+     style="fill:#ecefff;stroke:#03689a;stroke-width:2"
+     width="100%"
+     height="100%"
+     transform="translate(-93.357274,-69.897176)" />
+  <g
+     id="b02be391-782c-4d6e-b371-993b870e2592Container"
+     transform="translate(234.64273,100.10282)">
+    <text
+       id="b02be391-782c-4d6e-b371-993b870e2592Text"
+       class="style4"
+       clip-path="url(#def7)"
+       style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000;text-rendering:auto">
+      <tspan
+         x="13"
+         y="18"
+         id="tspan2865">P11a - Select</tspan>
+      <tspan
+         x="20"
+         y="32"
+         id="tspan2867">the Study</tspan>
+      <tspan
+         x="19"
+         y="46"
+         id="tspan2869">Reporting</tspan>
+    </text>
+  </g>
+  <g
+     id="d225cdfe-a461-495a-bf65-e2c5a85e3f79Container"
+     transform="translate(211.52781,33.48302)" />
+  <g
+     id="3e808604-63fd-4730-8bf3-597d6ef8c04aContainer"
+     transform="translate(412.52781,33.48302)" />
+  <polyline
+     id="229b8269-b17a-462d-8ca7-cf8f30388707"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,0 123,0 "
+     transform="translate(324.64273,130.10282)" />
+  <text
+     x="450.0278"
+     y="168.48302"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text2878" />
+  <polyline
+     id="a4bbc17b-6b1f-40eb-ba52-ee46083f4314"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,0 122,0 "
+     transform="translate(112.64273,130.10282)" />
+  <text
+     x="237.52782"
+     y="168.48302"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text2881" />
+  <text
+     x="360.5278"
+     y="56.483021"
+     style="font-size:11px;font-family:'Segoe UI';fill:#000000"
+     id="text2884" />
+  <text
+     x="325.5278"
+     y="56.483021"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text2887" />
+</svg>

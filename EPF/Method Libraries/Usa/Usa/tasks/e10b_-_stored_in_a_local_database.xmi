@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-0m7iw2053IDUt2RLcej_1Q" name="e10b_-_stored_in_a_local_database,_ivZuoEBTEem9iaQSvThyxA" guid="-0m7iw2053IDUt2RLcej_1Q" changeDate="2020-03-29T20:17:23.636-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-77da5610-7fff-f16f-4448-f2a5f6115365&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed when the Process Executor needs to store data in local database.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-ad3ea33f-7fff-0f42-0f85-146ebf0cc3e6&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The Process Executor must choose the location of information storage according to availability.&lt;/span>&lt;/b></keyConsiderations>
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-249d5191-7fff-262f-762f-cc8469f8b3c3&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs to store data in local database.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-987ab910-7fff-89ee-f292-d0c9e99a9f9d&quot;>&lt;span>The Process Executor must choose the location&#xD;
+    of information storage according to availability.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_f3nfYHITEeqX7elkF4GZ8w" name="1. Choose the location where the data will be stored " guid="_f3nfYHITEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-efae193e-7fff-d124-201c-15cb80241898&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
-After performing the evaluation, the collected data should be collected and stored in a database or other location in order&#xD;
-to compile the data later.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-de78f982-7fff-db00-abc4-e7d129d280db&quot;>&lt;span>After performing the evaluation, the collected&#xD;
+    data should be stored in a database or in another location in order to compile the data later.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

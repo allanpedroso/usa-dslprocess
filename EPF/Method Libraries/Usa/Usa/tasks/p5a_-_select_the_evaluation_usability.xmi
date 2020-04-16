@@ -1,53 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VtahQ7BnVUWVFVm2GHWyrw" name="p5a_-_select_the_evaluation_usability,__xW7kEBLEem9iaQSvThyxA" guid="-VtahQ7BnVUWVFVm2GHWyrw" changeDate="2020-03-29T18:33:27.200-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-2bbd92b5-7fff-42b3-5b53-85d5f6d5cc62&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-2bbd92b5-7fff-42b3-5b53-85d5f6d5cc62&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    This task will be performed to select the Usability Test that will be executed during the DSL evaluation&#xD;
-    protocol.&lt;/span>&lt;/b>&#xD;
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-VtahQ7BnVUWVFVm2GHWyrw" name="p5a_-_select_the_evaluation_usability,__xW7kEBLEem9iaQSvThyxA" guid="-VtahQ7BnVUWVFVm2GHWyrw" changeDate="2020-04-15T16:42:21.537-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-a82d5204-7fff-ffed-54da-3fb3263904b3&quot;>&lt;span>This task will be performed to select the&#xD;
+    Usability Test that will be executed during the DSL evaluation protocol.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>If the Profile Executor needs to carry out the evaluation with the IHC experts, they should select the Heuristic&#xD;
+    Evaluation Method.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-4f79a0ee-7fff-250b-7d46-67229749188f&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-4f79a0ee-7fff-250b-7d46-67229749188f&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    If the Profile Executor needs to carry out the evaluation with the IHC experts, they should select the Heuristic&#xD;
-    Evaluation Method.&lt;/span>&lt;/b>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>If the Profile Executor needs to carry out the evaluation with the Domain Tester, Domain Analyst,&amp;nbsp; Domain&#xD;
+    Developer and End User, They should select the Usability Testing.&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_y71DEHIGEeqX7elkF4GZ8w" name="1. Choose Heuristic Evaluation or Usability Testing" guid="_y71DEHIGEeqX7elkF4GZ8w">
+    <sectionDescription>Choose one of this evaluation types.</sectionDescription>
+  </sections>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>The type of Usability Evaluation that will be conducted to evaluate the DSL shall be selected.&lt;/span>&lt;br&#xD;
+    dir=&quot;ltr&quot; />&#xD;
+    &lt;br />&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    If the Profile Executor needs to carry out the evaluation with the Domain Tester, Domain Analyst,&amp;nbsp; Domain&#xD;
-    Developer and End User, they should select the Usability Testing.&lt;/span>&#xD;
-&lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></keyConsiderations>
-  <sections xmi:id="_y71DEHIGEeqX7elkF4GZ8w" name="1. Choose Heuristic Evaluation or Usability Testing" guid="_y71DEHIGEeqX7elkF4GZ8w"/>
-  <purpose>&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    The type of usability evaluation that will be conducted to assess the DSL shall be selected.&lt;/span>&#xD;
-&lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    &lt;strong>Heuristic Evaluation&lt;/strong> - a method developed by Nielsen that suggests an evaluation by HCI specialists&#xD;
-    with experience in this type of evaluation, it also recommends that the inspection must be performed by a number of&#xD;
-    three to five evaluators with the purpose of identifying the greatest number of usability problems. Heuristic&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>&lt;strong>Heuristic Evaluation&lt;/strong> - a method developed by Nielsen that suggests an evaluation by HCI&#xD;
+    specialists with experience in this type of evaluation, it also recommends that the inspection must be performed by a&#xD;
+    number of three to five evaluators with the purpose of identifying the greatest number of usability problems. Heuristic&#xD;
     Evaluation is a usability inspection method and follows a set of 10 principles e.g. consistency, flexibility and&#xD;
     efficiencies, for which the evaluator fills a heuristic checklist containing the annotations of the problems&#xD;
-    encountered.&lt;/span>&#xD;
+    encountered. In the Usa-DSL Process this inspection will be conducted through a Heuristic Checklist composed by a&#xD;
+    structure which consists of five (5) columns: the first column contains the identification of the heuristic, the second&#xD;
+    column is related to the description of the ten (10) Nielsen's heuristics, but adapted to the context of DSLs, the&#xD;
+    third column refers to the questions that guide the evaluation and related to each one of the heuristics, the fourth&#xD;
+    column is the severity degree of the usability problems found and the fifth column is designed for the description of&#xD;
+    issues found in the DSLs.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-3a01cd43-7fff-c377-fd44-8e99074bab28&quot;>&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    &lt;strong>Usability Testing&lt;/strong> - This evaluation can be applied to any of the profiles, provided you know the&#xD;
-    language domain. These tests can be applied in a controlled environment or in the natural environment, always&#xD;
-    respecting the chosen Empirical Study Method. The evaluated metrics can be ease of use, task error rates, completion&#xD;
-    rate, effort, learning, efficiency and effectiveness; these metrics generate data which can be recorded in videos,&#xD;
-    facial expressions, mouse movements, and typed keys that are recorded in a log. They can also be obtained through&#xD;
-    Checklists, Questionnaires, Interviews or Use Observation.&lt;/span>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>&lt;span>&lt;strong>Usability Testing&lt;/strong> - This evaluation can be applied to four profiles in set Usability&#xD;
+    Evaluation Subjects (&lt;/span>&lt;span>&lt;a class=&quot;elementLinkWithUserText&quot;&#xD;
+    href=&quot;./../../Usa/tasks/p1a_-_choose_the_profile_evaluator_CA941333.html&quot; guid=&quot;_2m83EJkXEemQRPuA_hcMlw&quot;>see Task&#xD;
+    P1a&lt;/a>)&lt;/span>&lt;span>, provided as they know the language domain. These tests can be applied in a controlled&#xD;
+    environment or in the natural environment, always respecting the chosen&lt;/span> &lt;span>Empirical Study&#xD;
+    Method&lt;/span>&lt;span>. The evaluated metrics can be ease of use, task error rates, completion rate, effort, learning,&#xD;
+    efficiency and effectiveness; these metrics generate data that can be recorded in videos, facial expressions, mouse&#xD;
+    movements, and typed keys that are recorded in a log. They can also be obtained through Checklists, Questionnaires,&#xD;
+    Interviews or Use Observation.&lt;/span>&lt;/span>&#xD;
 &lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

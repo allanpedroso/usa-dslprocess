@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="980"
+   height="293"
+   version="1.1"
+   id="svg5015"
+   sodipodi:docname="R11.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata5019">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     id="namedview5017"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.483463"
+     inkscape:cx="485.5"
+     inkscape:cy="124"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5015" />
+  <style
+     type="text/css"
+     id="style4879"><![CDATA[
+	.style1{fill:#ECEFFF;stroke:#03689A;stroke-width:2;}
+	.style2{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def4);}
+	.style3{fill:#FFFFCC;stroke:#A6A61D;stroke-width:2;}
+	.style4{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def9);}
+	.style5{fill:#E6FF97;stroke:#62A716;stroke-width:2;}
+	.style6{fill:#EEAAAA;stroke:#990000;stroke-width:3;}]]></style>
+  <defs
+     id="defs4916">
+    <path
+       id="4e872290-ee42-480f-bef4-430982b8eb6cHeaderPath"
+       d="m 29,360 h 292 v 50 H 29 Z"
+       inkscape:connector-curvature="0"
+       style="fill-rule:evenodd" />
+    <clipPath
+       id="6e01c542-3315-45b7-9cdf-ad401f08445dHeaderClipPath">
+      <use
+         xlink:href="#4e872290-ee42-480f-bef4-430982b8eb6cHeaderPath"
+         id="use4882"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       id="def3"
+       d="m 7,0 h 110 v 0 c 3.87,0 7,3.13 7,7 0,0 0,0 0,0 v 0 75 0 c 0,3.87 -3.13,7 -7,7 v 0 H 7 v 0 C 3.13,89 0,85.87 0,82 V 7 7 C 0,3.13 3.13,0 7,0 Z"
+       inkscape:connector-curvature="0"
+       style="fill-rule:evenodd" />
+    <clipPath
+       id="def4">
+      <use
+         xlink:href="#def3"
+         id="use4886"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <polygon
+       id="def5"
+       points="20,0 40,20 20,40 0,20 " />
+    <clipPath
+       id="def6">
+      <use
+         xlink:href="#def5"
+         id="use4890"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="def7">
+      <use
+         xlink:href="#def5"
+         id="use4893"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       id="def8"
+       d="m 7,0 h 113 v 0 c 3.87,0 7,3.13 7,7 0,0 0,0 0,0 v 0 60 0 c 0,3.87 -3.13,7 -7,7 v 0 H 7 v 0 C 3.13,74 0,70.87 0,67 V 7 7 C 0,3.13 3.13,0 7,0 Z"
+       inkscape:connector-curvature="0"
+       style="fill-rule:evenodd" />
+    <clipPath
+       id="def9">
+      <use
+         xlink:href="#def8"
+         id="use4897"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <circle
+       id="def10"
+       cx="15"
+       cy="15"
+       r="15" />
+    <clipPath
+       id="def11">
+      <use
+         xlink:href="#def10"
+         id="use4901"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="def12">
+      <use
+         xlink:href="#def10"
+         id="use4904"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="def13">
+      <use
+         xlink:href="#def5"
+         id="use4907"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <marker
+       id="defMarkerShadow"
+       viewbox="0 0 10 8"
+       refX="10"
+       refY="4"
+       markerUnits="strokeWidth"
+       markerWidth="10"
+       markerHeight="8"
+       orient="auto"
+       style="fill:#000000;fill-opacity:0.1">
+      <path
+         d="M 9,4 1,9 3,4 1,-1 Z"
+         id="path4910"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd" />
+    </marker>
+    <marker
+       id="defMarker"
+       viewbox="0 0 10 8"
+       refX="10"
+       refY="4"
+       markerUnits="strokeWidth"
+       markerWidth="10"
+       markerHeight="8"
+       orient="auto"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         d="M 9,4 1,9 3,4 1,-1 Z"
+         id="path4913"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd" />
+    </marker>
+  </defs>
+  <g
+     id="g4926"
+     transform="translate(-28.5,-67.5)">
+    <rect
+       x="29"
+       y="68"
+       width="979"
+       height="292"
+       rx="0"
+       ry="0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4918" />
+    <line
+       x1="79"
+       y1="68"
+       x2="79"
+       y2="360"
+       style="stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="line4920" />
+    <text
+       style="font-weight:bold;font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+       transform="rotate(-90,29,360)"
+       clip-path="url(#6e01c542-3315-45b7-9cdf-ad401f08445dHeaderClipPath)"
+       id="text4924">
+      <tspan
+         x="45.09724"
+         y="389"
+         id="tspan4922">R11 - Report the Results and Analyzed information</tspan>
+    </text>
+  </g>
+  <use
+     id="da7dbdd9-5610-4a96-a8e7-f613e482c1b8"
+     xlink:href="#def3"
+     class="style1"
+     x="593"
+     y="142"
+     style="fill:#ecefff;stroke:#03689a;stroke-width:2"
+     width="100%"
+     height="100%"
+     transform="translate(-28.5,-67.5)" />
+  <g
+     id="da7dbdd9-5610-4a96-a8e7-f613e482c1b8Container"
+     transform="translate(564.5,74.5)">
+    <text
+       id="da7dbdd9-5610-4a96-a8e7-f613e482c1b8Text"
+       class="style2"
+       clip-path="url(#def4)"
+       style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000;text-rendering:auto">
+      <tspan
+         x="0"
+         y="9"
+         id="tspan4929" />
+      <tspan
+         x="15"
+         y="32"
+         id="tspan4931">R11b - Present the</tspan>
+      <tspan
+         x="12"
+         y="46"
+         id="tspan4933">evaluation according</tspan>
+      <tspan
+         x="11"
+         y="60"
+         id="tspan4935">to the scientific paper</tspan>
+      <tspan
+         x="40"
+         y="75"
+         id="tspan4937">template</tspan>
+    </text>
+  </g>
+  <use
+     id="e9207827-b11b-4fba-ad9b-a80845b9565a"
+     xlink:href="#def5"
+     class="style3"
+     x="465"
+     y="166"
+     style="fill:#ffffcc;stroke:#a6a61d;stroke-width:2"
+     width="100%"
+     height="100%"
+     transform="translate(-28.5,-67.5)" />
+  <g
+     id="e9207827-b11b-4fba-ad9b-a80845b9565aContainer"
+     transform="translate(436.5,98.5)" />
+  <g
+     id="g4949"
+     transform="translate(-28.5,-67.5)">
+    <path
+       style="fill:#a6a61d;stroke:#a6a61d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14.288518,6.459273 h 3.036311 v 8.930324 h 8.037291 v 3.214917 h -8.037291 v 7.947988 H 14.288518 V 18.604514 H 5.2688912 v -3.214917 h 9.0196268 z"
+       transform="translate(469.5,170)"
+       id="path4943"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#a6a61d;stroke:#a6a61d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 7.3228657,10.969087 9.5107951,8.959764 24.201178,22.489205 21.968597,24.587831 Z"
+       transform="translate(469.5,170)"
+       id="path4945"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#a6a61d;stroke:#a6a61d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 21.968597,8.959764 24.201178,10.969087 9.5107951,24.587831 7.3228657,22.489205 Z"
+       transform="translate(469.5,170)"
+       id="path4947"
+       inkscape:connector-curvature="0" />
+  </g>
+  <use
+     id="bdc83e61-5f9d-4d50-916f-1665e687560b"
+     xlink:href="#def5"
+     class="style3"
+     x="635"
+     y="300"
+     style="fill:#ffffcc;stroke:#a6a61d;stroke-width:2"
+     width="100%"
+     height="100%"
+     transform="translate(-28.5,-67.5)" />
+  <g
+     id="bdc83e61-5f9d-4d50-916f-1665e687560bContainer"
+     transform="translate(606.5,232.5)" />
+  <g
+     id="g4959"
+     transform="translate(-28.5,-67.5)">
+    <path
+       style="fill:#a6a61d;stroke:#a6a61d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14.288518,6.459273 h 3.036311 v 8.930324 h 8.037291 v 3.214917 h -8.037291 v 7.947988 H 14.288518 V 18.604514 H 5.2688912 v -3.214917 h 9.0196268 z"
+       transform="translate(639.5,304)"
+       id="path4953"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#a6a61d;stroke:#a6a61d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 7.3228657,10.969087 9.5107951,8.959764 24.201178,22.489205 21.968597,24.587831 Z"
+       transform="translate(639.5,304)"
+       id="path4955"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#a6a61d;stroke:#a6a61d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 21.968597,8.959764 24.201178,10.969087 9.5107951,24.587831 7.3228657,22.489205 Z"
+       transform="translate(639.5,304)"
+       id="path4957"
+       inkscape:connector-curvature="0" />
+  </g>
+  <use
+     id="ff138772-68a3-448c-b412-49f5667e24f7"
+     xlink:href="#def8"
+     class="style1"
+     x="284"
+     y="149"
+     style="fill:#ecefff;stroke:#03689a;stroke-width:2"
+     width="100%"
+     height="100%"
+     transform="translate(-28.5,-67.5)" />
+  <g
+     id="ff138772-68a3-448c-b412-49f5667e24f7Container"
+     transform="translate(255.5,81.5)">
+    <text
+       id="ff138772-68a3-448c-b412-49f5667e24f7Text"
+       class="style4"
+       clip-path="url(#def9)"
+       style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000;text-rendering:auto">
+      <tspan
+         x="0"
+         y="9"
+         id="tspan4962" />
+      <tspan
+         x="17"
+         y="32"
+         id="tspan4964">R11a - Present the</tspan>
+      <tspan
+         x="14"
+         y="46"
+         id="tspan4966">evaluation according</tspan>
+      <tspan
+         x="11"
+         y="60"
+         id="tspan4968">to the report template</tspan>
+    </text>
+  </g>
+  <use
+     id="23f9287b-8709-4690-a4f7-c429c7ab50df"
+     xlink:href="#def10"
+     class="style5"
+     x="147"
+     y="171"
+     style="fill:#e6ff97;stroke:#62a716;stroke-width:2"
+     width="100%"
+     height="100%"
+     transform="translate(-28.5,-67.5)" />
+  <g
+     id="23f9287b-8709-4690-a4f7-c429c7ab50dfContainer"
+     transform="translate(118.5,103.5)" />
+  <use
+     id="eeca83d6-a26a-4a5f-bf9d-4c0384bae683"
+     xlink:href="#def10"
+     class="style6"
+     x="926"
+     y="171"
+     style="fill:#eeaaaa;stroke:#990000;stroke-width:3"
+     width="100%"
+     height="100%"
+     transform="translate(-28.5,-67.5)" />
+  <g
+     id="eeca83d6-a26a-4a5f-bf9d-4c0384bae683Container"
+     transform="translate(897.5,103.5)" />
+  <use
+     id="7baaef02-6468-491d-a59d-bdd7ba8582e8"
+     xlink:href="#def5"
+     class="style3"
+     x="787"
+     y="166"
+     style="fill:#ffffcc;stroke:#a6a61d;stroke-width:2"
+     width="100%"
+     height="100%"
+     transform="translate(-28.5,-67.5)" />
+  <g
+     id="7baaef02-6468-491d-a59d-bdd7ba8582e8Container"
+     transform="translate(758.5,98.5)" />
+  <g
+     id="g4984"
+     transform="translate(-28.5,-67.5)">
+    <path
+       style="fill:#a6a61d;stroke:#a6a61d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14.288518,6.459273 h 3.036311 v 8.930324 h 8.037291 v 3.214917 h -8.037291 v 7.947988 H 14.288518 V 18.604514 H 5.2688912 v -3.214917 h 9.0196268 z"
+       transform="translate(791.5,170)"
+       id="path4978"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#a6a61d;stroke:#a6a61d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 7.3228657,10.969087 9.5107951,8.959764 24.201178,22.489205 21.968597,24.587831 Z"
+       transform="translate(791.5,170)"
+       id="path4980"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#a6a61d;stroke:#a6a61d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 21.968597,8.959764 24.201178,10.969087 9.5107951,24.587831 7.3228657,22.489205 Z"
+       transform="translate(791.5,170)"
+       id="path4982"
+       inkscape:connector-curvature="0" />
+  </g>
+  <polyline
+     id="b2f59e75-ea8d-4289-958c-109ce153a008"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,0 99,0 "
+     transform="translate(798.5,118.5)" />
+  <text
+     x="848"
+     y="116.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text4987" />
+  <polyline
+     id="9c954b60-88dc-4af0-b094-00bef02a8e7a"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,0 88,0 "
+     transform="translate(476.5,118.5)" />
+  <text
+     x="520.5"
+     y="116.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text4990" />
+  <polyline
+     id="3db4dda5-a999-4742-8e6c-8030a4e4a617"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="132,0 132,102 131.9999,108 131.9999,111.3137 129.3137,114 126,114 0,114 "
+     transform="translate(646.5,138.5)" />
+  <text
+     x="778.5"
+     y="250.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text4993" />
+  <polyline
+     id="d4c86aff-e01c-4e1b-99a6-7a62612d8ef4"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,0 107,0 "
+     transform="translate(148.5,118.5)" />
+  <text
+     x="202"
+     y="116.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text4996" />
+  <polyline
+     id="4a71997c-4c93-4377-adc6-d9795e945414"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,69 0,0 "
+     transform="translate(626.5,163.5)" />
+  <text
+     x="626.5"
+     y="196"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text4999" />
+  <polyline
+     id="ed9e88e8-57a5-4898-b16d-dabf9292a28b"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="288,97 12,97 6,96.99997 2.686279,97 0,94.31369 0,91 0,0 "
+     transform="translate(318.5,155.5)" />
+  <text
+     x="318.5"
+     y="250.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text5002" />
+  <polyline
+     id="c553ea08-d84e-42a3-8b40-2f4a6969ad8c"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,0 54,0 "
+     transform="translate(382.5,118.5)" />
+  <text
+     x="409.5"
+     y="116.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text5005" />
+  <polyline
+     id="3a1da90f-ccfe-4dcb-bce0-ea22bf35de06"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="138,54.00001 138,12.00001 138,6 138,2.686295 135.3137,0 132,0 132,0 132,7.629395E-06 132,7.629395E-06 12.00003,7.629395E-06 6,0 2.68631,7.629395E-06 0,2.686302 0,6.000008 3.051758E-05,37.00001 "
+     transform="translate(318.5,44.5)" />
+  <text
+     x="387.5"
+     y="42.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text5008" />
+  <polyline
+     id="37b89e25-8d90-4a00-92a8-065d8907c49a"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,0 70,0 "
+     transform="translate(688.5,118.5)" />
+  <text
+     x="723.5"
+     y="116.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text5011" />
+</svg>

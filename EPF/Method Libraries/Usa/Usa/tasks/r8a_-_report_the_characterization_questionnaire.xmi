@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-_izRZbB11Z5FP7r09E3M0w" name="r8a_-_report_the_characterization_questionnaire,_bunHkEZVEemUh_IZAUpcPQ" guid="-_izRZbB11Z5FP7r09E3M0w" changeDate="2020-03-29T22:39:09.436-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-350eddb6-7fff-c512-559e-e21ded461f0c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task is performed when the Process Executor needs report the questionnaires.&lt;/span>&lt;/b></mainDescription>
+  <mainDescription>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-b793f5bb-7fff-f0b8-0d69-ad1e40f1c5ad&quot;>&lt;span>This task is performed when the Process&#xD;
+    Executor needs to report the questionnaires.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
   <sections xmi:id="_S4mUIHInEeqX7elkF4GZ8w" name="1. Attach the questionnaires in used protocol." guid="_S4mUIHInEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-4846bc25-7fff-8b23-da82-d8cc890b6a85&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The Questionnaires used in the evaluation should be attached in the document used to present the study.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-7cf58aaa-7fff-a7af-f45b-1c7479efc83e&quot;>&lt;span>The Questionnaires used in the evaluation&#xD;
+    should be attached in the document used to present the study&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

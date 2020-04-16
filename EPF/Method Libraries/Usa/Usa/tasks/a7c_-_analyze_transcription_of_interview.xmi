@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-MCAMHuUVBwxImx-bdZUxaw" name="a7c_-_analyze_transcription_of_interview,_vzrKoEZQEemUh_IZAUpcPQ" guid="-MCAMHuUVBwxImx-bdZUxaw" changeDate="2020-03-29T20:30:57.791-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-a1e14de0-7fff-725f-2444-e16f5df0d462&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed when the Process Executor needs analyze the transcription of interview.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-bfb82e5d-7fff-94a7-89aa-f03be472092c&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-It is indicated that more than one Process Executor realigns and analyzes the transcripts generated from the recordings of&#xD;
-the interviews or observations.&lt;/span>&lt;/b></keyConsiderations>
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-17a983ef-7fff-7be2-1775-21de9aecf610&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs analyze the transcription of interview and observations of the evaluations.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-f695d16b-7fff-afaa-39e0-1fc1d640bda3&quot;>&lt;span>It is indicated that more than one Process&#xD;
+    Executor analyse the transcripts generated from the recordings of the interviews or observations.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_bKKm4HIVEeqX7elkF4GZ8w" name="1. Analyze the transcription." guid="_bKKm4HIVEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-322db5e6-7fff-40f2-d3ee-cfa0e4a12a4b&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The transcription of interview must be analyzed in detail to avoid inconsistencies.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-6b1fb30d-7fff-2f3f-ca54-526540d21699&quot;>&lt;span>The transcription of the interview must be&#xD;
+    analyzed in detail to avoid inconsistencies.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

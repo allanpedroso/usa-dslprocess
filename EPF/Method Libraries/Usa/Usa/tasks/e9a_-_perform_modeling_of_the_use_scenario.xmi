@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-CAoVKOzlgjk79leaW3o9YQ" name="e9a_-_perform_modeling_of_the_use_scenario,_nbe4sEBSEem9iaQSvThyxA" guid="-CAoVKOzlgjk79leaW3o9YQ" changeDate="2020-03-29T20:08:29.044-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-65e14c34-7fff-ea96-2b28-f5c792165080&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed by the evaluation participants when it is necessary to apply the Use Scenario in the context of&#xD;
-the DSL to be evaluated.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-c08b1b93-7fff-ccc6-37b0-e30a267e22c5&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The Participants should perform the Use Scenario modeling to test the DSL&lt;/span>&lt;/b></keyConsiderations>
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-f260a582-7fff-8420-dab2-919c49b5d920&quot;>&lt;span>This task will be performed by the evaluation&#xD;
+    participants when it is necessary to apply the Use Scenario in the context of the DSL to be evaluated.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-b4157891-7fff-d040-b8eb-b3fd3743133d&quot;>&lt;span>The Participants should apply the Use Scenario&#xD;
+    to test the DSL&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_QnxtkHISEeqX7elkF4GZ8w" name="1. Apply of the Use Scenario in the context of DSL " guid="_QnxtkHISEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-0ac0fffd-7fff-b1d3-85cf-fdf5a73fceb1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-After delivered to evaluation participants the Use Scenario must be followed to be as faithful as possible to the real&#xD;
-context of using DSL&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-185a2384-7fff-3e0b-48d8-64cb9691a9f9&quot;>&lt;span>After delivered to evaluation participants the&#xD;
+    Use Scenario must be followed to be as faithful as possible to the real context of using DSL.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

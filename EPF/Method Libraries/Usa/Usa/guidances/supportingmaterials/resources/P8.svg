@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="701"
+   height="351"
+   version="1.1"
+   id="svg1798"
+   sodipodi:docname="P8.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata1802">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     id="namedview1800"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.6592292"
+     inkscape:cx="345.5"
+     inkscape:cy="206.32274"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1798" />
+  <style
+     type="text/css"
+     id="style1693"><![CDATA[
+	.style1{fill:#F0F0F0;stroke:#666666;stroke-width:1;}
+	.style2{fill:#E6FF97;stroke:#62A716;stroke-width:2;}
+	.style3{fill:#ECEFFF;stroke:#03689A;stroke-width:2;}
+	.style4{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def10);}
+	.style5{fill:#EEAAAA;stroke:#990000;stroke-width:3;}
+	.style6{fill:#FFFFFF;}
+	.style7{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def15);}
+	.style8{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def17);}
+	.style9{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def19);}]]></style>
+  <defs
+     id="defs1738">
+    <path
+       id="105c35cc-be5a-4803-b9d1-10a6ec74bbbbHeaderPath"
+       d="m 30,380 h 350 v 50 H 30 Z"
+       inkscape:connector-curvature="0"
+       style="fill-rule:evenodd" />
+    <clipPath
+       id="c2204df2-bd22-4ac3-aee6-968c024c6f9aHeaderClipPath">
+      <use
+         xlink:href="#105c35cc-be5a-4803-b9d1-10a6ec74bbbbHeaderPath"
+         id="use1696"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <polygon
+       id="def3"
+       points="0,0 0,50 40,50 40,10 30,0 30,10 40,10 30,0 " />
+    <clipPath
+       id="def4">
+      <use
+         xlink:href="#def3"
+         id="use1700"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="def5">
+      <use
+         xlink:href="#def3"
+         id="use1703"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="def6">
+      <use
+         xlink:href="#def3"
+         id="use1706"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <circle
+       id="def7"
+       cx="15"
+       cy="15"
+       r="15" />
+    <clipPath
+       id="def8">
+      <use
+         xlink:href="#def7"
+         id="use1710"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       id="def9"
+       d="m 7,0 h 123 v 0 c 3.87,0 7,3.13 7,7 0,0 0,0 0,0 v 0 46 0 c 0,3.87 -3.13,7 -7,7 v 0 H 7 v 0 C 3.13,60 0,56.87 0,53 V 53 7 7 C 0,3.13 3.13,0 7,0 Z"
+       inkscape:connector-curvature="0"
+       style="fill-rule:evenodd" />
+    <clipPath
+       id="def10">
+      <use
+         xlink:href="#def9"
+         id="use1714"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="def11">
+      <use
+         xlink:href="#def7"
+         id="use1717"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <marker
+       id="defMarkerShadow"
+       viewbox="0 0 10 8"
+       refX="10"
+       refY="4"
+       markerUnits="strokeWidth"
+       markerWidth="10"
+       markerHeight="8"
+       orient="auto"
+       style="fill:#000000;fill-opacity:0.1">
+      <path
+         d="M 9,4 1,9 3,4 1,-1 Z"
+         id="path1720"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd" />
+    </marker>
+    <marker
+       id="defMarker"
+       viewbox="0 0 10 8"
+       refX="10"
+       refY="4"
+       markerUnits="strokeWidth"
+       markerWidth="10"
+       markerHeight="8"
+       orient="auto"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         d="M 9,4 1,9 3,4 1,-1 Z"
+         id="path1723"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd" />
+    </marker>
+    <rect
+       id="def14"
+       width="68"
+       height="30"
+       x="0"
+       y="0" />
+    <clipPath
+       id="def15">
+      <use
+         xlink:href="#def14"
+         id="use1727"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <rect
+       id="def16"
+       width="78"
+       height="45"
+       x="0"
+       y="0" />
+    <clipPath
+       id="def17">
+      <use
+         xlink:href="#def16"
+         id="use1731"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <rect
+       id="def18"
+       width="84"
+       height="30"
+       x="0"
+       y="0" />
+    <clipPath
+       id="def19">
+      <use
+         xlink:href="#def18"
+         id="use1735"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+  </defs>
+  <g
+     id="g1748"
+     transform="translate(-29.5,-29.5)">
+    <rect
+       x="30"
+       y="30"
+       width="700"
+       height="350"
+       rx="0"
+       ry="0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect1740" />
+    <line
+       x1="80"
+       y1="30"
+       x2="80"
+       y2="380"
+       style="stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="line1742" />
+    <text
+       style="font-weight:bold;font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+       transform="rotate(-90,30,380)"
+       clip-path="url(#c2204df2-bd22-4ac3-aee6-968c024c6f9aHeaderClipPath)"
+       id="text1746">
+      <tspan
+         x="72.042557"
+         y="409"
+         id="tspan1744">P8 - Define Instruments of Instructions and Training</tspan>
+    </text>
+  </g>
+  <use
+     id="f79b87bb-74be-47f1-bf2d-32aa9a1b87aa"
+     xlink:href="#def3"
+     class="style1"
+     x="207"
+     y="65"
+     style="fill:#f0f0f0;stroke:#666666;stroke-width:1"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-29.5)" />
+  <g
+     id="f79b87bb-74be-47f1-bf2d-32aa9a1b87aaContainer"
+     transform="translate(177.5,35.5)" />
+  <use
+     id="27dab27d-4697-4d2d-8fbd-e9b66037c57b"
+     xlink:href="#def3"
+     class="style1"
+     x="531"
+     y="65"
+     style="fill:#f0f0f0;stroke:#666666;stroke-width:1"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-29.5)" />
+  <g
+     id="27dab27d-4697-4d2d-8fbd-e9b66037c57bContainer"
+     transform="translate(501.5,35.5)" />
+  <use
+     id="0ed6094b-77b0-43fb-b818-0d3e6b094632"
+     xlink:href="#def3"
+     class="style1"
+     x="381"
+     y="65"
+     style="fill:#f0f0f0;stroke:#666666;stroke-width:1"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-29.5)" />
+  <g
+     id="0ed6094b-77b0-43fb-b818-0d3e6b094632Container"
+     transform="translate(351.5,35.5)" />
+  <use
+     id="90dbcb35-4a91-4709-b804-fcefeb17b494"
+     xlink:href="#def7"
+     class="style2"
+     x="159"
+     y="197"
+     style="fill:#e6ff97;stroke:#62a716;stroke-width:2"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-29.5)" />
+  <g
+     id="90dbcb35-4a91-4709-b804-fcefeb17b494Container"
+     transform="translate(129.5,167.5)" />
+  <use
+     id="909d9ab1-90ab-42f8-9edb-05b627588430"
+     xlink:href="#def9"
+     class="style3"
+     x="324"
+     y="182"
+     style="fill:#ecefff;stroke:#03689a;stroke-width:2"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-29.5)" />
+  <g
+     id="909d9ab1-90ab-42f8-9edb-05b627588430Container"
+     transform="translate(294.5,152.5)">
+    <text
+       id="909d9ab1-90ab-42f8-9edb-05b627588430Text"
+       class="style4"
+       clip-path="url(#def10)"
+       style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000;text-rendering:auto">
+      <tspan
+         x="29"
+         y="25"
+         id="tspan1759">P8a - Select the</tspan>
+      <tspan
+         x="20"
+         y="39"
+         id="tspan1761">Instruments Training</tspan>
+    </text>
+  </g>
+  <use
+     id="31a6a909-54ae-4008-8b28-a0e62685a192"
+     xlink:href="#def7"
+     class="style5"
+     x="585"
+     y="197"
+     style="fill:#eeaaaa;stroke:#990000;stroke-width:3"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-29.5)" />
+  <g
+     id="31a6a909-54ae-4008-8b28-a0e62685a192Container"
+     transform="translate(555.5,167.5)" />
+  <polyline
+     id="b36e35c3-1029-47c7-ba93-7ba2d7fd5726"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,0 135,0 "
+     transform="translate(159.5,182.5)" />
+  <text
+     x="227"
+     y="180.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text1768" />
+  <polyline
+     id="16819658-3a67-47bd-b06c-f97d2e83bc33"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,0 124,0 "
+     transform="translate(431.5,182.5)" />
+  <text
+     x="493.5"
+     y="180.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text1771" />
+  <polyline
+     id="578d2855-8ee4-4a94-b33d-8fcd05691161"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:1, 8;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,7.629395E-06 29,7.629395E-06 34.99997,7.629395E-06 38.31369,0 40.99997,2.686287 40.99997,6 40.99997,6 40.99997,6.000008 40.99997,6.000008 41,86.00001 41,92.00001 41,95.31371 43.68628,98.00001 47,97.99999 77,98.00001 "
+     transform="translate(217.5,60.5)" />
+  <text
+     x="258.5"
+     y="107.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text1774" />
+  <polyline
+     id="9f166d80-1400-447f-978f-dde5ba339775"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:1, 8;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="70,7.629395E-06 41.5,7.629395E-06 35.49997,0 32.18628,7.629395E-06 29.49997,2.686302 29.49997,6.000008 29.5,86.00001 29.49997,91.99999 29.49997,95.31371 26.81369,97.99999 23.5,97.99999 0,98.00001 "
+     transform="translate(431.5,60.5)" />
+  <text
+     x="461"
+     y="107.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text1777" />
+  <polyline
+     id="36dd6ccf-b80d-48c6-ab82-e413afaf2b23"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:1, 8;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="15.00003,7.629395E-06 12.00003,7.629395E-06 6,0 2.68631,7.629395E-06 0,2.686302 0,6.000008 3.051758E-05,92.00001 "
+     transform="translate(336.5,60.5)" />
+  <text
+     x="336.5"
+     y="58.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text1780" />
+  <g
+     id="Text_0ed6094b-77b0-43fb-b818-0d3e6b094632Container"
+     transform="translate(337.5,91.5)">
+    <text
+       id="Text_0ed6094b-77b0-43fb-b818-0d3e6b094632Text"
+       class="style7"
+       clip-path="url(#def15)"
+       style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000;text-rendering:auto">
+      <tspan
+         x="7"
+         y="14"
+         id="tspan1782">Guide DSL</tspan>
+    </text>
+  </g>
+  <g
+     id="Text_27dab27d-4697-4d2d-8fbd-e9b66037c57bContainer"
+     transform="translate(482.5,91.5)">
+    <text
+       id="Text_27dab27d-4697-4d2d-8fbd-e9b66037c57bText"
+       class="style8"
+       clip-path="url(#def17)"
+       style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000;text-rendering:auto">
+      <tspan
+         x="13"
+         y="14"
+         id="tspan1786">Language</tspan>
+      <tspan
+         x="6"
+         y="29"
+         id="tspan1788">Presentation</tspan>
+    </text>
+  </g>
+  <g
+     id="Text_f79b87bb-74be-47f1-bf2d-32aa9a1b87aaContainer"
+     transform="translate(155.5,91.5)">
+    <text
+       id="Text_f79b87bb-74be-47f1-bf2d-32aa9a1b87aaText"
+       class="style9"
+       clip-path="url(#def19)"
+       style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000;text-rendering:auto">
+      <tspan
+         x="7"
+         y="14"
+         id="tspan1792">User Scenario</tspan>
+    </text>
+  </g>
+</svg>

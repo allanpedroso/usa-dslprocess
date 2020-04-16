@@ -1,37 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qrHythe4IcgXcX6BeYWDpw" name="a1a_-_analysis_of_the_profile_subjects,_0d6AkJkPEemQRPuA_hcMlw" guid="-qrHythe4IcgXcX6BeYWDpw" changeDate="2020-03-29T20:21:01.470-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-db5cc046-7fff-47b0-edc5-95b5b716c399&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed when the Process Executor needs to be classify the profile of evaluation&#xD;
-participants.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-433078bd-7fff-5c88-6360-22306432951f&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The Process Executor must analyze the data related to the Profile Subjects in order to be able to make inferences about the&#xD;
-results of the research.&lt;/span>&lt;/b></keyConsiderations>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-qrHythe4IcgXcX6BeYWDpw" name="a1a_-_analysis_of_the_profile_subjects,_0d6AkJkPEemQRPuA_hcMlw" guid="-qrHythe4IcgXcX6BeYWDpw" changeDate="2020-04-15T21:20:49.422-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-3cf01070-7fff-658e-38c5-97cfc7da8b91&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs to classify the profile of participants.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-4ad196d4-7fff-b9ef-440f-8c9d1339e9f0&quot;>&lt;span>The Process Executor must analyze the data&#xD;
+    related to the Profile Subjects in order to be able to make inferences about the results of the research.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_MVMMIHIUEeqX7elkF4GZ8w" name="1. See the information raised" guid="_MVMMIHIUEeqX7elkF4GZ8w"/>
   <sections xmi:id="_Mqg74HIUEeqX7elkF4GZ8w" name="2. Analyze the compiled data" guid="_Mqg74HIUEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-7834ec4d-7fff-2c9b-2ff1-33ddb9da2370&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-7834ec4d-7fff-2c9b-2ff1-33ddb9da2370&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    The analysis of the profiles must be performed to classified the level of knowledge and experience participants. These&#xD;
-    profiles can be classified into&lt;/span>&lt;/b> &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
-    :&amp;nbsp;&lt;/span> &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
-    &lt;strong>Beginner&lt;/strong> - one who does not have solid knowledge of the domain or about DSL.&lt;/span>&#xD;
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>The analysis of the profiles must be performed to classify the level of knowledge and experience&#xD;
+    participants.&amp;nbsp;&lt;/span>&#xD;
 &lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>These profiles can be classified into:&amp;nbsp;&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br dir=&quot;ltr&quot; />&#xD;
 &lt;br />&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
-    &lt;strong>Intermediate&lt;/strong> - one who has some knowledge about the domain and / or about DSL&lt;/span>&#xD;
-&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span>&lt;strong>Beginner&lt;/strong> - one who does not have solid knowledge of the domain or about DSL.&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br dir=&quot;ltr&quot; />&#xD;
 &lt;br />&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
-    &lt;strong>Advanced&lt;/strong> - one who has solid knowledge of the domain and about DSL.&lt;/span>&#xD;
-&lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></purpose>
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span>&lt;strong>Intermediate&lt;/strong> - one who has some knowledge about the domain and / or about DSL&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br dir=&quot;ltr&quot; />&#xD;
+&lt;br />&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span>&lt;strong>Advanced&lt;/strong> - one who has solid knowledge of the domain and about DSL.&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
 </org.eclipse.epf.uma:TaskDescription>

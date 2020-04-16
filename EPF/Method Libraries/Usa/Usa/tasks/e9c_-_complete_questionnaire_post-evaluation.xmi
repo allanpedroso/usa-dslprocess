@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Qmb_ABbTBlc4wKN9vLR39w" name="e9c_-_complete_questionnaire_post-evaluation,_418kcEBSEem9iaQSvThyxA" guid="-Qmb_ABbTBlc4wKN9vLR39w" changeDate="2020-03-29T20:10:15.853-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-87fc1d92-7fff-7298-a60d-c262f82447c3&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed by the evaluation participants after the evaluation of DSL.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-050e1f66-7fff-8d95-37fa-6354cf6ddc7a&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-Participants should completed the Questionnaire Post-Evaluation to get your perception of the DSL evaluated.&lt;/span>&lt;/b></keyConsiderations>
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-5b61c06b-7fff-73cd-0e36-72ab280d6b3f&quot;>&lt;span>This task will be performed by the evaluation&#xD;
+    participants after the evaluation of DSL.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-11bb01b0-7fff-cc13-4ad4-e606ed86b774&quot;>&lt;span>Participants should completed the&#xD;
+    Questionnaire Post-Evaluation to get your perception of the DSL evaluated.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_o-NF4HISEeqX7elkF4GZ8w" name="1. Access the Questionnaire if it is online" guid="_o-NF4HISEeqX7elkF4GZ8w"/>
   <sections xmi:id="_qsVboHISEeqX7elkF4GZ8w" name="2. Complete Questionnaire Post-Evaluation" guid="_qsVboHISEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-6ab16287-7fff-5086-5b10-9e6b9fd4ff3e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-To obtain the opinion and perceptions about evaluated DSL by the participants, the Questionnaire Post-Evaluation must be&#xD;
-applied.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-143af263-7fff-37d8-8175-c68c47339f31&quot;>&lt;span>To obtain the opinion and perceptions about&#xD;
+    evaluated DSL by the participants, the Questionnaire Post-Evaluation must be applied.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

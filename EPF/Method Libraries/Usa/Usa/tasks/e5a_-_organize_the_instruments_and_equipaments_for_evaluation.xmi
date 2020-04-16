@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KTpOobV7nf-howzq9_TLIg" name="e5a_-_organize_the_instruments_and_equipaments_for_evaluation,_xIIrkEBPEem9iaQSvThyxA" guid="-KTpOobV7nf-howzq9_TLIg" changeDate="2020-03-29T19:56:24.909-0300">
-  <mainDescription>&lt;p>&#xD;
-    &lt;b id=&quot;docs-internal-guid-0ed65edb-7fff-d8da-6bd9-41cd1069680f&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    This task will be execute when the Process Executor needs to organize the instruments and equipments will be used in&#xD;
-    the evaluation.&lt;/span>&lt;/b>&#xD;
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-KTpOobV7nf-howzq9_TLIg" name="e5a_-_organize_the_instruments_and_equipaments_for_evaluation,_xIIrkEBPEem9iaQSvThyxA" guid="-KTpOobV7nf-howzq9_TLIg" changeDate="2020-04-15T20:40:39.680-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-abbfaff1-7fff-c86e-1be1-e56703aad019&quot;>&lt;span>This task will be executed when the Process&#xD;
+    Executor needs to organize the instruments and equipment which will be used in the evaluation.&lt;/span>&lt;/span>&#xD;
 &lt;/p></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-619bd965-7fff-0a27-2f41-0b362f0cdc5e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-In this task the Process Executor was organized the questionnaires, presentations, use scenario, introduced term and&#xD;
-e-mails.&lt;/span>&lt;/b></keyConsiderations>
+  <keyConsiderations>&lt;p>&#xD;
+    In this task the Process Executor was organized the questionnaires, presentations, use scenario, introduced term and&#xD;
+    emails.&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_maon0HIQEeqX7elkF4GZ8w" name="1. Organize all the instruments" guid="_maon0HIQEeqX7elkF4GZ8w"/>
   <sections xmi:id="_mzWCwHIQEeqX7elkF4GZ8w" name="2. Check equipments will be used in the evaluation" guid="_mzWCwHIQEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-ee865b72-7fff-a1b3-5f8e-213db79a5aae&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
-The evaluation instruments should be organized, the equipment arranged in the rooms to be used.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-0536259d-7fff-4b5d-f879-79188f19836d&quot;>&lt;span>All instruments and equipment provided for in&#xD;
+    the study protocol must be previously organized by the Process Executor. At the time of the evaluation, everything that&#xD;
+    has been foreseen must be guaranteed that the validity of the study should not occur with threats.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

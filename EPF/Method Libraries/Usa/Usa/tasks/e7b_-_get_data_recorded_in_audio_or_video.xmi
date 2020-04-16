@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-TfkQCHfOGY1QlJuPSy7lFA" name="e7b_-_get_data_recorded_in_audio_or_video,_sutiUEBREem9iaQSvThyxA" guid="-TfkQCHfOGY1QlJuPSy7lFA" changeDate="2020-03-29T20:01:28.130-0300">
-  <mainDescription>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
-&lt;b id=&quot;docs-internal-guid-7342cf37-7fff-9a2c-5bc0-b41f67a39f73&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed by Process Executor when the data of evaluation participants is obtained.&lt;/span>&lt;/b>&lt;/span></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-2d678d33-7fff-c8c1-1418-b3425d38173f&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The Process Executor must save the collected data at the chosen location.&lt;/span>&lt;/b></keyConsiderations>
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-5e83a7b8-7fff-3a2f-da20-0377f7ee41f0&quot;>&lt;span>This task will be performed by the Process&#xD;
+    Executor when the data of evaluation is obtained.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-671405ef-7fff-80ae-1055-e637ad9f981f&quot;>&lt;span>The Process Executor should save the collected&#xD;
+    data at the chosen location.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_WafvkHIREeqX7elkF4GZ8w" name="1. Get Data Audio Recorded or Data Video Recorded or Both" guid="_WafvkHIREeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-1ceff181-7fff-42a7-c61e-1356f09dbd5f&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
-Obtaining the data recorded in audio or video, they must be compiled and stored for later tabulation, transcription and&#xD;
-analysis.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-4a51388c-7fff-0d75-2a6e-e00133f59adc&quot;>&lt;span>After recording the data in audio or video,&#xD;
+    they must be compiled and stored for later tabulation, transcription and analysis.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

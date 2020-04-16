@@ -1,14 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-lsQ1GG1jLIqMht9N_vtp5A" name="r2a_-_report_the_documents_used_in_the_evaluation,_YSWUAMjWEemTVYzzENbI_A" guid="-lsQ1GG1jLIqMht9N_vtp5A" changeDate="2020-03-29T22:10:26.537-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-fa8a60ee-7fff-70e2-77a0-7b0d98edf260&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed when the Process Executor needs to be describe in detail the documentation used in the&#xD;
-evaluation.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-add516eb-7fff-89b2-90bd-f5fe24665c9e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The Process Executor should describe any documents or guideline used in the evaluation&lt;/span>&lt;/b></keyConsiderations>
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-60520195-7fff-e61f-8de7-19382e31fdcf&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs to describe in detail the documentation used in the evaluation.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>The Process Executor should describe any documents or guideline used in the evaluation.</keyConsiderations>
   <sections xmi:id="_SUbM4HIjEeqX7elkF4GZ8w" name="1. Describe all documentation used " guid="_SUbM4HIjEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-662d3434-7fff-57e7-a0d1-7269e7f88fac&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The documents used in the evaluation must be described in detail.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-8dcb96c0-7fff-9d8f-70eb-3da48c9c8d20&quot;>&lt;span>The documents used in the evaluation must be&#xD;
+    described in detail.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

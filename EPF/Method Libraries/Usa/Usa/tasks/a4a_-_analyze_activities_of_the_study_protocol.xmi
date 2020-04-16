@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Dthy-PrvdiqrNbyWDAFKQg" name="a4a_-_analyze_activities_of_the_study_protocol,_yag6kJkREemQRPuA_hcMlw" guid="-Dthy-PrvdiqrNbyWDAFKQg" changeDate="2020-03-29T20:25:00.019-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-3cc2c549-7fff-e9af-4a23-242e7543900e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed when the Process Executor needs to review the developed study protocol.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-6e9e0eb1-7fff-0f0f-9a5c-c5202a21e49b&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-At first the Process executor must to verify possible problems in the evaluation protocol. In a second moment must perform&#xD;
-a pilot test to verify the study protocol efficiency, if there are no missing documents, if the participants (Pilot) have&#xD;
-understood what should be done, if the time is adequate the task that should be accomplished, among other things that it&#xD;
-considers important.&lt;/span>&lt;/b></keyConsiderations>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Dthy-PrvdiqrNbyWDAFKQg" name="a4a_-_analyze_activities_of_the_study_protocol,_yag6kJkREemQRPuA_hcMlw" guid="-Dthy-PrvdiqrNbyWDAFKQg" changeDate="2020-04-15T21:26:17.262-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-8785e752-7fff-f464-a7f0-0a784ced8d61&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs to review the developed study protocol.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-37dc570f-7fff-3391-325d-0dc22e9053a5&quot;>&lt;span>At first the Process executor must verify&#xD;
+    possible problems in the evaluation protocol.&lt;/span>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>&lt;span>In a second moment must perform a pilot test to verify the study protocol efficiency, if there are no&#xD;
+    missing documents, if the participants have understood what should be done, if the time is adequate to finish the task&#xD;
+    that should be accomplished, among other things that it considers important.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_w64WoHIUEeqX7elkF4GZ8w" name="1. Conduct protocol analysis by domain experts." guid="_w64WoHIUEeqX7elkF4GZ8w"/>
   <sections xmi:id="_x5psAHIUEeqX7elkF4GZ8w" name="2. Select a small population to perform the Pilot test" guid="_x5psAHIUEeqX7elkF4GZ8w"/>
   <sections xmi:id="_0cjtoHIUEeqX7elkF4GZ8w" name="3. Performing the same protocol (Pilot Test) will be performed in the main study" guid="_0cjtoHIUEeqX7elkF4GZ8w"/>
-  <sections xmi:id="_06xToHIUEeqX7elkF4GZ8w" name="4. Performing the same protocol (Pilot Test) will be performed in the main study" guid="_06xToHIUEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-aee5bcbf-7fff-ca2c-0604-60d23695b9cc&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The activities of the Study Protocol must be reviewed and how they will be performed.&lt;/span>&lt;/b></purpose>
+  <sections xmi:id="_06xToHIUEeqX7elkF4GZ8w" name="4. Review what was not in accordance with the desired and correct in the final protocol" guid="_06xToHIUEeqX7elkF4GZ8w"/>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-fe480b81-7fff-69ad-dc89-aa7b150dbb05&quot;>&lt;span>The activities of the Study Protocol must be&#xD;
+    reviewed, as well as how these activities will be performed&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

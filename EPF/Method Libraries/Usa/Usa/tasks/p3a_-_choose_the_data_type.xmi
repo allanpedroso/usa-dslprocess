@@ -1,27 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AQ0RYJ8sWoVqm0S5LNZN9g" name="p3a_-_choose_the_data_type,_t48IgEBLEem9iaQSvThyxA" guid="-AQ0RYJ8sWoVqm0S5LNZN9g" changeDate="2020-03-29T17:25:36.159-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-3332fbf7-7fff-9c98-1fb2-2143b60f1fe4&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task is performed to define the type of data to be collected. It will only be performed when the Process Executor&#xD;
-selects the Usability Test, in which it will need to define which data it intends to obtain.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-895febc7-7fff-3b6c-06b3-c17241b2b295&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-895febc7-7fff-3b6c-06b3-c17241b2b295&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Quantitative data is choose for a Controlled Experiment.&lt;/span>&lt;/b> &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Qualitative data is choose for a Case Study.&lt;/span> &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Both can be chosen for any of these methods: Survey or Controlled Experiment or Case Study.&lt;/span>&#xD;
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-AQ0RYJ8sWoVqm0S5LNZN9g" name="p3a_-_choose_the_data_type,_t48IgEBLEem9iaQSvThyxA" guid="-AQ0RYJ8sWoVqm0S5LNZN9g" changeDate="2020-04-15T16:16:05.150-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-50a57190-7fff-6ea5-f12b-b84aaabe5d3a&quot;>&lt;span>This task is performed to define the data type&#xD;
+    to be collected. It will only be performed when the Process Executor selects the Usability Test, in which the Process&#xD;
+    Executor will need to define which data he/she intends to obtain.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Quantitative or&amp;nbsp;&lt;/span>qualitative data can be chosen for any of the following methods: Survey or Controlled&#xD;
+    Experiment or Case Study.&#xD;
 &lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></keyConsiderations>
+&lt;p>&#xD;
+    Quantitative is usually chosen for a Controlled Experiment, while qualitative is usually chosen for Case Study.&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;br />&#xD;
+&lt;br dir=&quot;ltr&quot; />&#xD;
+&lt;br /></keyConsiderations>
   <sections xmi:id="_fbbX0HIBEeqX7elkF4GZ8w" name="1. Choose the qualitative data or quantitative data or both data type" guid="_fbbX0HIBEeqX7elkF4GZ8w"/>
-  <purpose>&lt;h3>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Select the type of data that will be collected during the evaluation.&lt;/span>&amp;nbsp;&amp;nbsp; &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    The data can be quantitative, qualitative or both. Its choice will depend on the type of evaluation method being&#xD;
-    performed.&lt;/span>&#xD;
-&lt;/h3></purpose>
+  <purpose>&lt;p>&#xD;
+    &lt;span id=&quot;docs-internal-guid-debe93cd-7fff-28df-935a-803c1460aa7f&quot;>&lt;span>Select the data type that will be collected&#xD;
+    during the evaluation. The data can be quantitative, qualitative or both. Its choice will depend on the type of&#xD;
+    evaluation method being performed.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

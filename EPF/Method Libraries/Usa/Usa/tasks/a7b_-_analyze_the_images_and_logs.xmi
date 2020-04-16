@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HrvzsrP2-6tc-HRmgds_fw" name="a7b_-_analyze_the_images_and_logs,_iiUCQEZQEemUh_IZAUpcPQ" guid="-HrvzsrP2-6tc-HRmgds_fw" changeDate="2020-03-29T20:30:10.614-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-4e226c8f-7fff-a2c9-4f93-21170c773cc8&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed when the Process Executor needs analyze the images and logs that were generated in the&#xD;
-evaluation.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-1074dfa0-7fff-c3d6-a57f-c659e70f54e3&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-One or more Process Executor must analyze the images or logs recorded during the evaluation.&lt;/span>&lt;/b></keyConsiderations>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-HrvzsrP2-6tc-HRmgds_fw" name="a7b_-_analyze_the_images_and_logs,_iiUCQEZQEemUh_IZAUpcPQ" guid="-HrvzsrP2-6tc-HRmgds_fw" changeDate="2020-04-15T21:30:39.960-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-de87474c-7fff-c1ec-8320-54e8c0e82dc0&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs analyze the images and logs that were generated in the evaluation.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-5923723f-7fff-d596-8245-83a47f71fbf5&quot;>&lt;span>One or more Process Executors must analyze the&#xD;
+    images or the logs recorded during the evaluation.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_ScTe4HIVEeqX7elkF4GZ8w" name="1. Analyze the images and logs" guid="_ScTe4HIVEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-baeea077-7fff-868d-e583-c0e053aca425&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-During the evaluation models or codes are generated, this material must be analyzed later.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-387aee0c-7fff-36e4-1718-eb52e86652eb&quot;>&lt;span>During the evaluation certain models or codes&#xD;
+    will be generated, this material will be used for analysis later and inference of the results of the&#xD;
+    study.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

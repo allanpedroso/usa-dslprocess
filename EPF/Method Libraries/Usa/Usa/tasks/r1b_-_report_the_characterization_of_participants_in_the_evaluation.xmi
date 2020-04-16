@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-LmoK3NFIsES08YmO70vKwg" name="r1b_-_report_the_characterization_of_participantes_in_the_evaluation,_zXVzwEZSEemUh_IZAUpcPQ" guid="-LmoK3NFIsES08YmO70vKwg" changeDate="2020-03-29T22:05:25.877-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-e883dccf-7fff-0299-a44d-1b18a781ea14&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed when the Process Executor needs report characterization of&amp;nbsp; the participants.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-1ba5d3c0-7fff-209d-ccca-f8b150d5503e&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-The Profile Executor should describe the experience of subjects.&lt;/span>&lt;/b></keyConsiderations>
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-e5899719-7fff-3937-07c2-3cb5d68c0adb&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs report characterization of&amp;nbsp; the participants.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-b9c8b705-7fff-752b-cb17-3972b3fbd9be&quot;>&lt;span>The Profile Executor should describe the&#xD;
+    experience of subjects.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_xHAlwHIiEeqX7elkF4GZ8w" name="1. Report the characterization of subjects " guid="_xHAlwHIiEeqX7elkF4GZ8w"/>
-  <purpose>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-&lt;b id=&quot;docs-internal-guid-bcecb9aa-7fff-7476-7f7a-1745380c03a9&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This report classify the types of profiles according area of activity of participants.&lt;/span>&lt;/b>&lt;/span></purpose>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-622f3fe2-7fff-f825-d39c-932452c5b149&quot;>&lt;span>This report classifies the types of profiles&#xD;
+    according to the area of activity of participants.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

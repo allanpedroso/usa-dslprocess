@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="701"
+   height="387"
+   version="1.1"
+   id="svg272"
+   sodipodi:docname="P7.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata276">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     id="namedview274"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.5463138"
+     inkscape:cx="345.5"
+     inkscape:cy="152"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg272" />
+  <style
+     type="text/css"
+     id="style144"><![CDATA[
+	.style1{fill:#F0F0F0;stroke:#666666;stroke-width:1;}
+	.style2{fill:#E6FF97;stroke:#62A716;stroke-width:2;}
+	.style3{fill:#ECEFFF;stroke:#03689A;stroke-width:2;}
+	.style4{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def10);}
+	.style5{fill:#EEAAAA;stroke:#990000;stroke-width:3;}
+	.style6{fill:#FFFFFF;}
+	.style7{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def16);}
+	.style8{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def18);}
+	.style9{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def19);}
+	.style10{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def21);}]]></style>
+  <defs
+     id="defs195">
+    <path
+       id="58d1fb76-202a-4f87-8c9a-025ce250e928HeaderPath"
+       d="m 30,416 h 386 v 50 H 30 Z"
+       inkscape:connector-curvature="0"
+       style="fill-rule:evenodd" />
+    <clipPath
+       id="8b635e97-32aa-4183-a552-68f453f094c7HeaderClipPath">
+      <use
+         xlink:href="#58d1fb76-202a-4f87-8c9a-025ce250e928HeaderPath"
+         id="use147"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <polygon
+       id="def3"
+       points="0,50 40,50 40,10 30,0 30,10 40,10 30,0 0,0 " />
+    <clipPath
+       id="def4">
+      <use
+         xlink:href="#def3"
+         id="use151"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="def5">
+      <use
+         xlink:href="#def3"
+         id="use154"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="def6">
+      <use
+         xlink:href="#def3"
+         id="use157"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <circle
+       id="def7"
+       cx="15"
+       cy="15"
+       r="15" />
+    <clipPath
+       id="def8">
+      <use
+         xlink:href="#def7"
+         id="use161"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       id="def9"
+       d="m 7,0 h 110 v 0 c 3.87,0 7,3.13 7,7 0,0 0,0 0,0 v 0 46 0 c 0,3.87 -3.13,7 -7,7 v 0 H 7 v 0 C 3.13,60 0,56.87 0,53 V 53 7 7 C 0,3.13 3.13,0 7,0 Z"
+       inkscape:connector-curvature="0"
+       style="fill-rule:evenodd" />
+    <clipPath
+       id="def10">
+      <use
+         xlink:href="#def9"
+         id="use165"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="def11">
+      <use
+         xlink:href="#def7"
+         id="use168"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="def12">
+      <use
+         xlink:href="#def3"
+         id="use171"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <marker
+       id="defMarkerShadow"
+       viewbox="0 0 10 8"
+       refX="10"
+       refY="4"
+       markerUnits="strokeWidth"
+       markerWidth="10"
+       markerHeight="8"
+       orient="auto"
+       style="fill:#000000;fill-opacity:0.1">
+      <path
+         d="M 9,4 1,9 3,4 1,-1 Z"
+         id="path174"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd" />
+    </marker>
+    <marker
+       id="defMarker"
+       viewbox="0 0 10 8"
+       refX="10"
+       refY="4"
+       markerUnits="strokeWidth"
+       markerWidth="10"
+       markerHeight="8"
+       orient="auto"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         d="M 9,4 1,9 3,4 1,-1 Z"
+         id="path177"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd" />
+    </marker>
+    <rect
+       id="def15"
+       width="86"
+       height="45"
+       x="0"
+       y="0" />
+    <clipPath
+       id="def16">
+      <use
+         xlink:href="#def15"
+         id="use181"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <rect
+       id="def17"
+       width="89"
+       height="30"
+       x="0"
+       y="0" />
+    <clipPath
+       id="def18">
+      <use
+         xlink:href="#def17"
+         id="use185"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="def19">
+      <use
+         xlink:href="#def15"
+         id="use188"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <rect
+       id="def20"
+       width="100"
+       height="59"
+       x="0"
+       y="0" />
+    <clipPath
+       id="def21">
+      <use
+         xlink:href="#def20"
+         id="use192"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+  </defs>
+  <g
+     id="g205"
+     transform="translate(-29.5,-29.5)">
+    <rect
+       x="30"
+       y="30"
+       width="700"
+       height="386"
+       rx="0"
+       ry="0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect197" />
+    <line
+       x1="80"
+       y1="30"
+       x2="80"
+       y2="416"
+       style="stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="line199" />
+    <text
+       style="font-weight:bold;font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+       transform="rotate(-90,30,416)"
+       clip-path="url(#8b635e97-32aa-4183-a552-68f453f094c7HeaderClipPath)"
+       id="text203">
+      <tspan
+         x="107.0582"
+         y="445"
+         id="tspan201">P7- Define the Instruments of Data Gathering</tspan>
+    </text>
+  </g>
+  <use
+     id="ee250b4c-899b-4fac-9072-b8cf66115989"
+     xlink:href="#def3"
+     class="style1"
+     x="207"
+     y="76"
+     style="fill:#f0f0f0;stroke:#666666;stroke-width:1"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-29.5)" />
+  <g
+     id="ee250b4c-899b-4fac-9072-b8cf66115989Container"
+     transform="translate(177.5,46.5)" />
+  <use
+     id="7909037f-d283-4522-afa9-136a7d80a8f2"
+     xlink:href="#def3"
+     class="style1"
+     x="516"
+     y="76"
+     style="fill:#f0f0f0;stroke:#666666;stroke-width:1"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-29.5)" />
+  <g
+     id="7909037f-d283-4522-afa9-136a7d80a8f2Container"
+     transform="translate(486.5,46.5)" />
+  <use
+     id="653ee434-3501-499b-9b70-d497c8165ee5"
+     xlink:href="#def3"
+     class="style1"
+     x="516"
+     y="303"
+     style="fill:#f0f0f0;stroke:#666666;stroke-width:1"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-29.5)" />
+  <g
+     id="653ee434-3501-499b-9b70-d497c8165ee5Container"
+     transform="translate(486.5,273.5)" />
+  <use
+     id="62161b0c-07de-4b29-a5ce-b3605bcc930b"
+     xlink:href="#def7"
+     class="style2"
+     x="156"
+     y="199"
+     style="fill:#e6ff97;stroke:#62a716;stroke-width:2"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-29.5)" />
+  <g
+     id="62161b0c-07de-4b29-a5ce-b3605bcc930bContainer"
+     transform="translate(126.5,169.5)" />
+  <use
+     id="00007d1a-d345-49f2-9745-72ce68f776d5"
+     xlink:href="#def9"
+     class="style3"
+     x="321"
+     y="184"
+     style="fill:#ecefff;stroke:#03689a;stroke-width:2"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-29.5)" />
+  <g
+     id="00007d1a-d345-49f2-9745-72ce68f776d5Container"
+     transform="translate(291.5,154.5)">
+    <text
+       id="00007d1a-d345-49f2-9745-72ce68f776d5Text"
+       class="style4"
+       clip-path="url(#def10)"
+       style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000;text-rendering:auto">
+      <tspan
+         x="23"
+         y="18"
+         id="tspan216">P7a - Select the</tspan>
+      <tspan
+         x="18"
+         y="32"
+         id="tspan218">Instruments Data</tspan>
+      <tspan
+         x="36"
+         y="46"
+         id="tspan220">Gathering</tspan>
+    </text>
+  </g>
+  <use
+     id="2befdd91-2c02-42cb-b566-4154c04a9060"
+     xlink:href="#def7"
+     class="style5"
+     x="571"
+     y="199"
+     style="fill:#eeaaaa;stroke:#990000;stroke-width:3"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-29.5)" />
+  <g
+     id="2befdd91-2c02-42cb-b566-4154c04a9060Container"
+     transform="translate(541.5,169.5)" />
+  <use
+     id="0e2116a0-3623-4e21-be0f-b9b62e6139d2"
+     xlink:href="#def3"
+     class="style1"
+     x="207"
+     y="303"
+     style="fill:#f0f0f0;stroke:#666666;stroke-width:1"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-29.5)" />
+  <g
+     id="0e2116a0-3623-4e21-be0f-b9b62e6139d2Container"
+     transform="translate(177.5,273.5)" />
+  <polyline
+     id="926ef411-ed27-4f37-ab9f-84eb3dc6adf1"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:1, 8;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,7.629395E-06 76,7.629395E-06 81.99997,7.629395E-06 85.31369,0 87.99997,2.686287 87.99997,6 87.99997,6 87.99997,6.000008 87.99997,6.000008 88,83.00001 "
+     transform="translate(217.5,71.5)" />
+  <text
+     x="305.5"
+     y="69.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text229" />
+  <polyline
+     id="6c22907a-c206-4c90-82e8-aa6cb3632e4a"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,0 135,0 "
+     transform="translate(156.5,184.5)" />
+  <text
+     x="224"
+     y="182.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text232" />
+  <polyline
+     id="adc74723-8ae9-40ef-9614-7f3d0a393225"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:1, 8;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,84 76,84 82,83.99997 85.31369,83.99997 87.99997,81.31369 87.99997,77.99997 88,0 "
+     transform="translate(217.5,214.5)" />
+  <text
+     x="305.5"
+     y="296.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text235" />
+  <polyline
+     id="60e58238-732a-4991-b658-a22d762bdcc1"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,0 126,0 "
+     transform="translate(415.5,184.5)" />
+  <text
+     x="478.5"
+     y="182.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text238" />
+  <polyline
+     id="9db04135-f3ca-438e-b6e4-7e7d438273ea"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:1, 8;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="85.00003,7.629395E-06 12.00003,7.629395E-06 6,0 2.68631,7.629395E-06 0,2.686302 0,6.000008 3.051758E-05,83.00001 "
+     transform="translate(401.5,71.5)" />
+  <text
+     x="401.5"
+     y="69.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text241" />
+  <polyline
+     id="42e90487-44af-415f-becb-42063996626b"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:1, 8;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="85,84 12,84 6,83.99997 2.686279,84 0,81.31369 0,78 0,0 "
+     transform="translate(401.5,214.5)" />
+  <text
+     x="401.5"
+     y="296.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text244" />
+  <g
+     id="Text_653ee434-3501-499b-9b70-d497c8165ee5Container"
+     transform="translate(463.5,329.5)">
+    <text
+       id="Text_653ee434-3501-499b-9b70-d497c8165ee5Text"
+       class="style7"
+       clip-path="url(#def16)"
+       style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000;text-rendering:auto">
+      <tspan
+         x="21"
+         y="14"
+         id="tspan246">Usability</tspan>
+      <tspan
+         x="10"
+         y="29"
+         id="tspan248">Questionnaire</tspan>
+    </text>
+  </g>
+  <g
+     id="Text_0e2116a0-3623-4e21-be0f-b9b62e6139d2Container"
+     transform="translate(152.5,329.5)">
+    <text
+       id="Text_0e2116a0-3623-4e21-be0f-b9b62e6139d2Text"
+       class="style8"
+       clip-path="url(#def18)"
+       style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000;text-rendering:auto">
+      <tspan
+         x="5"
+         y="14"
+         id="tspan252">Script Interview</tspan>
+    </text>
+  </g>
+  <g
+     id="Text_7909037f-d283-4522-afa9-136a7d80a8f2Container"
+     transform="translate(463.5,102.5)">
+    <text
+       id="Text_7909037f-d283-4522-afa9-136a7d80a8f2Text"
+       class="style9"
+       clip-path="url(#def19)"
+       style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000;text-rendering:auto">
+      <tspan
+         x="26"
+         y="14"
+         id="tspan256">Profile</tspan>
+      <tspan
+         x="10"
+         y="29"
+         id="tspan258">Questionnaire</tspan>
+    </text>
+  </g>
+  <g
+     id="Text_ee250b4c-899b-4fac-9072-b8cf66115989Container"
+     transform="translate(147.5,102.5)">
+    <text
+       id="Text_ee250b4c-899b-4fac-9072-b8cf66115989Text"
+       class="style10"
+       clip-path="url(#def21)"
+       style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000;text-rendering:auto">
+      <tspan
+         x="27"
+         y="14"
+         id="tspan262">Heuristic</tspan>
+      <tspan
+         x="23"
+         y="29"
+         id="tspan264">Evaluation</tspan>
+      <tspan
+         x="7"
+         y="43"
+         id="tspan266">Checklist for DSL</tspan>
+    </text>
+  </g>
+</svg>

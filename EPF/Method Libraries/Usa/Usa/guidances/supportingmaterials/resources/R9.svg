@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="701"
+   height="223"
+   version="1.1"
+   id="svg4723"
+   sodipodi:docname="R9.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata4727">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     id="namedview4725"
+     showgrid="false"
+     inkscape:zoom="2.004902"
+     inkscape:cx="345.5"
+     inkscape:cy="91.5"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4723"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <style
+     type="text/css"
+     id="style4645"><![CDATA[
+	.style1{fill:#E6FF97;stroke:#62A716;stroke-width:2;}
+	.style2{fill:#EEAAAA;stroke:#990000;stroke-width:3;}
+	.style3{fill:#FFFFCC;stroke:#A6A61D;stroke-width:2;}
+	.style4{fill:#ECEFFF;stroke:#03689A;stroke-width:2;}
+	.style5{text-rendering:auto;font-family:'Segoe UI';font-size:8pt;fill:#000000;clip-path:url(#def9);}]]></style>
+  <defs
+     id="defs4672">
+    <path
+       id="6d5a18da-c6f2-4f3c-a0c3-814ec7a5800aHeaderPath"
+       d="m 30,295 h 222 v 50 H 30 Z"
+       inkscape:connector-curvature="0"
+       style="fill-rule:evenodd" />
+    <clipPath
+       id="c1849b25-1b5a-4ce9-9801-8aca9424e0d7HeaderClipPath">
+      <use
+         xlink:href="#6d5a18da-c6f2-4f3c-a0c3-814ec7a5800aHeaderPath"
+         id="use4648"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <circle
+       id="def3"
+       cx="15"
+       cy="15"
+       r="15" />
+    <clipPath
+       id="def4">
+      <use
+         xlink:href="#def3"
+         id="use4652"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <clipPath
+       id="def5">
+      <use
+         xlink:href="#def3"
+         id="use4655"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <polygon
+       id="def6"
+       points="20,0 40,20 20,40 0,20 " />
+    <clipPath
+       id="def7">
+      <use
+         xlink:href="#def6"
+         id="use4659"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <path
+       id="def8"
+       d="m 7,0 h 104 v 0 c 3.87,0 7,3.13 7,7 0,0 0,0 0,0 v 0 60 0 c 0,3.87 -3.13,7 -7,7 v 0 H 7 v 0 C 3.13,74 0,70.87 0,67 V 7 7 C 0,3.13 3.13,0 7,0 Z"
+       inkscape:connector-curvature="0"
+       style="fill-rule:evenodd" />
+    <clipPath
+       id="def9">
+      <use
+         xlink:href="#def8"
+         id="use4663"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </clipPath>
+    <marker
+       id="defMarkerShadow"
+       viewbox="0 0 10 8"
+       refX="10"
+       refY="4"
+       markerUnits="strokeWidth"
+       markerWidth="10"
+       markerHeight="8"
+       orient="auto"
+       style="fill:#000000;fill-opacity:0.1">
+      <path
+         d="M 9,4 1,9 3,4 1,-1 Z"
+         id="path4666"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd" />
+    </marker>
+    <marker
+       id="defMarker"
+       viewbox="0 0 10 8"
+       refX="10"
+       refY="4"
+       markerUnits="strokeWidth"
+       markerWidth="10"
+       markerHeight="8"
+       orient="auto"
+       style="fill:#000000;fill-opacity:1">
+      <path
+         d="M 9,4 1,9 3,4 1,-1 Z"
+         id="path4669"
+         inkscape:connector-curvature="0"
+         style="fill-rule:evenodd" />
+    </marker>
+  </defs>
+  <g
+     id="g4682"
+     transform="translate(-29.5,-72.5)">
+    <rect
+       x="30"
+       y="73"
+       width="700"
+       height="222"
+       rx="0"
+       ry="0"
+       style="fill:#ffffff;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="rect4674" />
+    <line
+       x1="80"
+       y1="73"
+       x2="80"
+       y2="295"
+       style="stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="line4676" />
+    <text
+       style="font-weight:bold;font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+       transform="rotate(-90,30,295)"
+       clip-path="url(#c1849b25-1b5a-4ce9-9801-8aca9424e0d7HeaderClipPath)"
+       id="text4680">
+      <tspan
+         x="72.321198"
+         y="324"
+         id="tspan4678">R9 - Report Tasks Analysis</tspan>
+    </text>
+  </g>
+  <use
+     id="2c3d8d06-bbcb-4688-a3c9-6e1e557e041a"
+     xlink:href="#def3"
+     class="style1"
+     x="127"
+     y="185"
+     style="fill:#e6ff97;stroke:#62a716;stroke-width:2"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-72.5)" />
+  <g
+     id="2c3d8d06-bbcb-4688-a3c9-6e1e557e041aContainer"
+     transform="translate(97.5,112.5)" />
+  <use
+     id="f1b3029a-01cc-4c33-8b10-428613528b06"
+     xlink:href="#def3"
+     class="style2"
+     x="624"
+     y="185"
+     style="fill:#eeaaaa;stroke:#990000;stroke-width:3"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-72.5)" />
+  <g
+     id="f1b3029a-01cc-4c33-8b10-428613528b06Container"
+     transform="translate(594.5,112.5)" />
+  <use
+     id="cde92d86-bd69-4ead-9432-1782cbfdef9c"
+     xlink:href="#def6"
+     class="style3"
+     x="483"
+     y="180"
+     style="fill:#ffffcc;stroke:#a6a61d;stroke-width:2"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-72.5)" />
+  <g
+     id="cde92d86-bd69-4ead-9432-1782cbfdef9cContainer"
+     transform="translate(453.5,107.5)" />
+  <g
+     id="g4696"
+     transform="translate(-29.5,-72.5)">
+    <path
+       style="fill:#a6a61d;stroke:#a6a61d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 14.288518,6.459273 h 3.036311 v 8.930324 h 8.037291 v 3.214917 h -8.037291 v 7.947988 H 14.288518 V 18.604514 H 5.2688912 v -3.214917 h 9.0196268 z"
+       transform="translate(487.5,184)"
+       id="path4690"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#a6a61d;stroke:#a6a61d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 7.3228657,10.969087 9.5107951,8.959764 24.201178,22.489205 21.968597,24.587831 Z"
+       transform="translate(487.5,184)"
+       id="path4692"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#a6a61d;stroke:#a6a61d;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 21.968597,8.959764 24.201178,10.969087 9.5107951,24.587831 7.3228657,22.489205 Z"
+       transform="translate(487.5,184)"
+       id="path4694"
+       inkscape:connector-curvature="0" />
+  </g>
+  <use
+     id="4c2ba340-2426-49f7-82ac-2604511ee3a0"
+     xlink:href="#def8"
+     class="style4"
+     x="279"
+     y="163"
+     style="fill:#ecefff;stroke:#03689a;stroke-width:2"
+     width="100%"
+     height="100%"
+     transform="translate(-29.5,-72.5)" />
+  <g
+     id="4c2ba340-2426-49f7-82ac-2604511ee3a0Container"
+     transform="translate(249.5,90.5)">
+    <text
+       id="4c2ba340-2426-49f7-82ac-2604511ee3a0Text"
+       class="style5"
+       clip-path="url(#def9)"
+       style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000;text-rendering:auto">
+      <tspan
+         x="59"
+         y="17"
+         id="tspan4699" />
+      <tspan
+         x="12"
+         y="32"
+         id="tspan4701">R9a - Describe the</tspan>
+      <tspan
+         x="11"
+         y="46"
+         id="tspan4703">evaluation following</tspan>
+      <tspan
+         x="11"
+         y="60"
+         id="tspan4705">the chosen methods</tspan>
+    </text>
+  </g>
+  <polyline
+     id="0f35b2f0-01d7-4016-bfce-33cdb410b92c"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,0 86,0 "
+     transform="translate(367.5,127.5)" />
+  <text
+     x="410.5"
+     y="125.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text4710" />
+  <polyline
+     id="ce74e99b-c7c5-4244-8618-c0cd78e08f0c"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,0 101,0 "
+     transform="translate(493.5,127.5)" />
+  <text
+     x="544"
+     y="125.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text4713" />
+  <polyline
+     id="8d2fa331-e0da-4014-90b5-963e70d4c7cb"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="0,0 122,0 "
+     transform="translate(127.5,127.5)" />
+  <text
+     x="188.5"
+     y="125.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text4716" />
+  <polyline
+     id="d7cfaee6-0550-4e28-a5ee-cd8711b842d7"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-opacity:1;marker-end:url(#defMarker)"
+     points="165,64.00001 165,12.00001 165,6 165,2.686295 162.3137,0 159,0 159,0 159,7.629395E-06 159,7.629395E-06 12.00003,7.629395E-06 6,0 2.68631,7.629395E-06 0,2.686302 0,6.000008 3.051758E-05,47.00001 "
+     transform="translate(308.5,43.5)" />
+  <text
+     x="391"
+     y="41.5"
+     style="font-size:10.66666698px;font-family:'Segoe UI';fill:#000000"
+     id="text4719" />
+</svg>

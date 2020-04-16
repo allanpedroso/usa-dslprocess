@@ -1,28 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BZpeiBvGwZcn1KdHDXNp2g" name="e10a_-_stored_in_a_online_database,_Y9mdYEBTEem9iaQSvThyxA" guid="-BZpeiBvGwZcn1KdHDXNp2g" changeDate="2020-03-29T20:13:33.415-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-b9e824fe-7fff-735c-4eed-2f32cec21239&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed when the Process Executor needs to store data in online database&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-513829e8-7fff-9cd0-a317-4084d3642fb7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-513829e8-7fff-9cd0-a317-4084d3642fb7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    When the data are quantitative, the Process Executor can use spreadsheets to store the data and then analyze&#xD;
-    them.&lt;/span>&lt;/b>&#xD;
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-BZpeiBvGwZcn1KdHDXNp2g" name="e10a_-_stored_in_a_online_database,_Y9mdYEBTEem9iaQSvThyxA" guid="-BZpeiBvGwZcn1KdHDXNp2g" changeDate="2020-04-15T21:14:28.466-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-e893d750-7fff-323e-2221-b1f985be0efc&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs to store data in online database.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>When the data are quantitative, the Process Executor can use spreadsheets to store the data and then analyze&#xD;
+    them.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    When the data are qualitative the Process Executor needs to transcribe the interviews, these being in audio or video.&#xD;
-    In the case of questionnaires and annotations, a spreadsheet should be used to organise this information and&#xD;
-    subsequently obtain the results of these analyses.&lt;/span>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>When the data are qualitative the Process Executor needs to transcribe the interviews, these being recorded in&#xD;
+    audio or video. In the case of questionnaires and annotations, a spreadsheet should be used to organise this&#xD;
+    information and subsequently obtain the results of these analyses.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></keyConsiderations>
+&lt;br />&#xD;
+&lt;br /></keyConsiderations>
   <sections xmi:id="_CYYaMHITEeqX7elkF4GZ8w" name="1. Access the informations" guid="_CYYaMHITEeqX7elkF4GZ8w"/>
   <sections xmi:id="_Ctsi4HITEeqX7elkF4GZ8w" name="2. Select the informations " guid="_Ctsi4HITEeqX7elkF4GZ8w"/>
   <sections xmi:id="_D3pNgHITEeqX7elkF4GZ8w" name="3. Store the information as suggested" guid="_D3pNgHITEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-6a53b581-7fff-5242-a5fa-14e88c2ed433&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
-After performing the evaluation, the collected data should be collected and stored in a database or other location in order&#xD;
-to compile the data later.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-6f1cc45e-7fff-de76-0ffb-bd33ba684eee&quot;>&lt;span>After performing the evaluation, the collected&#xD;
+    data should be collected and stored in a database or other location in order to compile the data later.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

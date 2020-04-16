@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-r8HdWKSxfJrTAlhtOUXPCg" name="r11b_-_present_the_evaluation_according_to_the_scientific_paper_template,_bjqmYEZWEemUh_IZAUpcPQ" guid="-r8HdWKSxfJrTAlhtOUXPCg" changeDate="2020-03-29T22:44:34.215-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-de597416-7fff-ac16-d7a4-ae578d8becce&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task is performed when the Process Executor needs describe the scientific paper.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-2c6578df-7fff-bf08-d5d4-9e1bd9fff229&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-Describe the template used as presented in the Usa-DSL Process templates database (Controlled Experiment, Survey or Case&#xD;
-Study)&lt;/span>&lt;/b></keyConsiderations>
+  <mainDescription>This task is performed when the Process Executor needs to describe the scientific paper.</mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-cd064552-7fff-6a83-b1fd-6f1a80ecf832&quot;>&lt;span>Describe the template used as presented in the&#xD;
+    Usa-DSL Process templates database (Controlled Experiment, Survey or Case Study)&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_C52jAHIoEeqX7elkF4GZ8w" name="1. Describe the Scientific Paper " guid="_C52jAHIoEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-79dc2a32-7fff-90ab-0a7f-4346443f0fd7&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-At the end of the evaluation the data should be fully described in a Scientific Paper format, containing all the documents&#xD;
-attached to the report.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-0c307f0f-7fff-d826-8193-16fb3757df70&quot;>&lt;span>At the end of the evaluation the data should&#xD;
+    be fully described in a Scientific Paper format, containing all the documents attached to the report.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

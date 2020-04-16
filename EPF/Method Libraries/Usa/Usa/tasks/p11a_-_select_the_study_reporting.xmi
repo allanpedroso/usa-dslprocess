@@ -1,50 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-tqxSeRQLTfNwT4FQqs7cZQ" name="p11a_-_select_the_study_reporting,_2-_4oEBMEem9iaQSvThyxA" guid="-tqxSeRQLTfNwT4FQqs7cZQ" changeDate="2020-03-29T19:28:48.001-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-4a59a800-7fff-ba60-e272-9f42b2e60665&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-4a59a800-7fff-ba60-e272-9f42b2e60665&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    This task will be execute when the Process Executor write all information generated during the protocol, execution and&#xD;
-    collection of data generated during the evaluate.&lt;/span>&lt;/b>&#xD;
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    This task will be executed when the Process Executor writes all information generated during the protocol, execution&#xD;
+    and collection of data generated during the evaluation.&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>If the Process Executor wants to report the evaluation in the academic context, they should write a Scientific&#xD;
+    Publication.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-c78dac14-7fff-1676-4130-6402e4c93436&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-c78dac14-7fff-1676-4130-6402e4c93436&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    If the Process Executor want to report the evaluation in the academic context, they should write a Scientific&#xD;
-    Publication.&lt;/span>&lt;/b>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>So if&amp;nbsp; the Process Executor wants to report the evaluation in the industry context or research project, they&#xD;
+    should write a Tehcnical Report.&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_13hwcHIMEeqX7elkF4GZ8w" name="1. Choose Scientific Publication or Report" guid="_13hwcHIMEeqX7elkF4GZ8w">
+    <sectionDescription>Choose one of this study report types.</sectionDescription>
+  </sections>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    Data reporting can be done through:&#xD;
 &lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Scientific Publications&lt;/strong> - Article published in proceedings of conferences, articles published in&#xD;
+        newspapers or magazines or books or chapters.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
 &lt;br />&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    So if If the Process Executor want to report the evaluation in the industry context or research project, they should&#xD;
-    write a Report.&lt;/span>&#xD;
-&lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></keyConsiderations>
-  <sections xmi:id="_13hwcHIMEeqX7elkF4GZ8w" name="1. Choose Scientific Publication or Report" guid="_13hwcHIMEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-bdc7d132-7fff-460b-a229-0f77ec019223&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
-&lt;p&#xD;
-style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-BOTTOM: 12pt; PADDING-TOP: 0pt; PADDING-LEFT: 0pt; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0pt; BACKGROUND-COLOR: #ffffff&quot;&#xD;
- dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-bdc7d132-7fff-460b-a229-0f77ec019223&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #24292e; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Data reporting can be done through:&lt;/span>&lt;/b>&#xD;
-&lt;/p>&#xD;
-&lt;p&#xD;
-style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-BOTTOM: 12pt; PADDING-TOP: 0pt; PADDING-LEFT: 0pt; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0pt; BACKGROUND-COLOR: #ffffff&quot;&#xD;
- dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #24292e; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    &lt;strong>Scientific Publications&lt;/strong> - Article published in proceedings of conferences, articles published in&#xD;
-    newspapers or magazines and books and chapters.&lt;/span>&#xD;
-&lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 12pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2; BACKGROUND-COLOR: #ffffff&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #24292e; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    &lt;strong>Report&lt;/strong> - A formal document intended to report evaluation data and language that has been evaluated for&#xD;
-    industry or research project.&lt;/span>&#xD;
-&lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></purpose>
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Technical Report&lt;/strong> - A formal document intended to report evaluation data and language that has been&#xD;
+        evaluated for industry or research projects.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
 </org.eclipse.epf.uma:TaskDescription>

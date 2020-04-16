@@ -1,63 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-60ubywAYNJqyQTl_RGYYSA" name="p6a_-_choose_the_metrics,_J8M-8EBMEem9iaQSvThyxA" guid="-60ubywAYNJqyQTl_RGYYSA" changeDate="2020-03-29T18:58:05.541-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-2763b173-7fff-d41f-6104-b892deeecf68&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed when the Usability Test is selected, and the Process Executor has to choose the metrics that&#xD;
-compose the Usability Questionnaire that will be used to evaluate the DSL.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-de0c0891-7fff-2be5-01a8-74adc1621242&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-Only when the Usability Testing is selected, the Profile Executor needs to choose the metrics that&amp;nbsp; compose the&#xD;
-Usability Questionnaire used to evaluate the DSL.&lt;/span>&lt;/b></keyConsiderations>
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>This task will be performed when the Usability Testing is selected, and the Process Executor has to choose the&#xD;
+    metrics that compose the Usability Questionnaire which will be used to evaluate the DSL.&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Only when the Usability Testing is selected, the Profile Executor needs to choose the metrics that&amp;nbsp; compose&#xD;
+    the Usability Questionnaire which will be used to evaluate the DSL.&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_i478UHIIEeqX7elkF4GZ8w" name="1. Choose Metrics that will compose the Usability Questionnaire " guid="_i478UHIIEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-edef82d0-7fff-2618-d939-26bfb8c44e5a&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 12pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-edef82d0-7fff-2618-d939-26bfb8c44e5a&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    The metrics suggested in this Process serve to guide the development of issues to be undertaken during the study and&#xD;
-    from them to collect data to obtain conclusions about the applied evaluation. Some of these metrics consist&#xD;
-    of:&lt;/span>&lt;/b>&#xD;
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>The metrics suggested in this Process serve to guide the development of issues to be undertaken during the&#xD;
+    Usability testing. These questions will be used to collect data and obtain conclusions about the applied evaluation.&#xD;
+    Some of these metrics consist of:&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 12pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Understanding / Learning - shows whether the participant learned by using and / or understands what language models&#xD;
-    represent.&lt;/span>&#xD;
+&lt;p style=&quot;PADDING-LEFT: 30px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Understanding / Learning - shows whether the participant learned by using and / or understands what language&#xD;
+    models represent.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 12pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Ease of use - shows the difficulty experienced by the participant to perform the task.&lt;/span>&#xD;
+&lt;p style=&quot;PADDING-LEFT: 30px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Ease of use - shows the difficulty experienced by the participant to perform the task.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 12pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Effort / Completion time - time used to complete the task.&lt;/span>&#xD;
+&lt;p style=&quot;PADDING-LEFT: 30px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Effort / Completion time - time used to complete the task.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 12pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Perceived Complexity - identifies whether the language can be easily used for the purpose it proposes.&lt;/span>&#xD;
+&lt;p style=&quot;PADDING-LEFT: 30px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Perceived Complexity - identifies whether the language can be easily used for the purpose it proposes.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 12pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Completion Rate - number of tasks performed.&lt;/span>&#xD;
+&lt;p style=&quot;PADDING-LEFT: 30px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Completion Rate - number of tasks performed.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 12pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Task Error Rate - number of errors made while performing the task&lt;/span>&#xD;
+&lt;p style=&quot;PADDING-LEFT: 30px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Task Error Rate - number of errors made while performing the task&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 12pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Efficiency - can be measured by the number of tasks performed divided by the time used to perform them.&lt;/span>&#xD;
+&lt;p style=&quot;PADDING-LEFT: 30px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Efficiency - can be measured by the number of tasks performed divided by the time used to perform them.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 12pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Efficacy - subjective measure serves to identify if language actually represents the domain to which it was&#xD;
+&lt;p style=&quot;PADDING-LEFT: 30px&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Efficacy - subjective measure serves to identify if language actually represents the domain to which it was&#xD;
     proposed.&lt;/span>&#xD;
-&lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></purpose>
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

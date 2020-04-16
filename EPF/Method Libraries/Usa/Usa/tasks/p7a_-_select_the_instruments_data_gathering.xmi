@@ -1,27 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-53J2d8IU_HImxNAIuFqTLA" name="p7a_-_select_the_instruments_data_gathering,_FwKR4JkYEemQRPuA_hcMlw" guid="-53J2d8IU_HImxNAIuFqTLA" changeDate="2020-03-29T18:59:51.789-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-609b2af1-7fff-c189-4e87-fb774210ff7d&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task must be performed when the Process Executor is selecting the instrument that is used to collect the participant’s&#xD;
-opinion regarding the DSL that it will be evaluating.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-6cfd7ad4-7fff-f30e-fcda-de4129c54984&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-6cfd7ad4-7fff-f30e-fcda-de4129c54984&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    The Heuristic Evaluation Checklist will be selected if the Heuristic Evaluation is executed.&lt;/span>&lt;/b>&#xD;
-&lt;/p>&#xD;
-&lt;br />&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    The Usability Questionnaire will be selected if the Usability Testing is performed.&lt;/span>&#xD;
-&lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></keyConsiderations>
-  <sections xmi:id="_CX2aQHIJEeqX7elkF4GZ8w" name="1. Choose the Heuristic Evaluation Checklist or Usability Questionnaire" guid="_CX2aQHIJEeqX7elkF4GZ8w"/>
-  <purpose>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-&lt;b id=&quot;docs-internal-guid-33ea1ad2-7fff-8055-8e75-a213e4d764d4&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-These instruments will be selected from the chosen Usability Evaluation. They are artifacts of this task: Heuristic&#xD;
-Evaluation Checklist and Usability Questionnaire.&lt;/span>&lt;/b>&lt;/span></purpose>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-53J2d8IU_HImxNAIuFqTLA" name="p7a_-_select_the_instruments_data_gathering,_FwKR4JkYEemQRPuA_hcMlw" guid="-53J2d8IU_HImxNAIuFqTLA" changeDate="2020-04-15T16:55:42.229-0300">
+  <mainDescription>This task must be performed when the Process Executor is selecting the instrument that is used to collect the participant’s&#xD;
+opinion regarding the DSL that it will be evaluating.</mainDescription>
+  <keyConsiderations>The Heuristic Evaluation Checklist will be selected if the Heuristic Evaluation is executed. The Usability Questionnaire&#xD;
+will be selected if the Usability Testing is performed.</keyConsiderations>
+  <sections xmi:id="_CX2aQHIJEeqX7elkF4GZ8w" name="1. Choose the Heuristic Evaluation Checklist or Usability Questionnaire" guid="_CX2aQHIJEeqX7elkF4GZ8w">
+    <sectionDescription>Choose one of this instrument types.</sectionDescription>
+  </sections>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-b2ec54c3-7fff-c413-abf9-0aca1c94ba24&quot;>&lt;span>These instruments will be selected from the&#xD;
+    chosen Usability Evaluation.&lt;/span>&lt;/span> &lt;span>&lt;span>They are artifacts of this task: Heuristic Evaluation Checklist&#xD;
+    and Usability Questionnaire.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

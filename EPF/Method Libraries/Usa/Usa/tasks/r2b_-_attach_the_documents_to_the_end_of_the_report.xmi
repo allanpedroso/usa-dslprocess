@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3TNZPBPGELBMBzjXlHfLHQ" name="r2b_-_attach_the_documents_to_the_end_of_the_report,_JXElAEZUEemUh_IZAUpcPQ" guid="-3TNZPBPGELBMBzjXlHfLHQ" changeDate="2020-03-29T22:11:13.841-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-779dfe43-7fff-2b71-6e65-0c49ce6b1a00&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be performed when the Process Executor needs to attach the documents to the end of the report.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-57ab497b-7fff-3f3b-52c8-78505719df20&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-At the end of the report or on a online platform it is suggested to add all instruments used during the&#xD;
-assessment.&lt;/span>&lt;/b></keyConsiderations>
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-a4292510-7fff-ca7a-c7ef-a870b0bde918&quot;>&lt;span>This task will be performed when the Process&#xD;
+    Executor needs to attach the documents to the end of the report.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-2243938d-7fff-3799-90ca-10a5b518c58b&quot;>&lt;span>At the end of the report or on an online&#xD;
+    platform it is suggested to add all instruments used during the assessment.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_ZMep0HIjEeqX7elkF4GZ8w" name="1. Attach Documentation in the final of the report" guid="_ZMep0HIjEeqX7elkF4GZ8w"/>
   <sections xmi:id="_Zgnt0HIjEeqX7elkF4GZ8w" name="2. Up the documentation on a online platform" guid="_Zgnt0HIjEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-fc038132-7fff-1341-9811-8af52e6d806b&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-After described the documentation used in the evaluation needs to be compile and attached at the end of the&#xD;
-report.&lt;/span>&lt;/b></purpose>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-0468f961-7fff-7299-8e76-c8e195c6c277&quot;>&lt;span>After describing the documentation used in the&#xD;
+    evaluation needs to be compiled and attached at the end of the report.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

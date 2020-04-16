@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3BmAjZ8B7AhMnvKd3Muw-g" name="e2b_-_introduce_data_acces_agreement,_wLB_kEBOEem9iaQSvThyxA" guid="-3BmAjZ8B7AhMnvKd3Muw-g" changeDate="2020-03-29T19:46:06.305-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-116361be-7fff-7b18-b09c-eb071d62d237&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-116361be-7fff-7b18-b09c-eb071d62d237&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    This task is always execute before starting an evaluation. The Process Executor introduce the Data Access Agreement to&#xD;
-    the person responsible for the data.&lt;/span>&lt;/b>&#xD;
-&lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-631fd46d-7fff-c00c-6be1-16107ac5c295&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This task will be run on all the evaluation&lt;/span>&lt;/b></keyConsiderations>
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-10cee774-7fff-0335-d0cb-efa82c388742&quot;>&lt;span>This task is always executed before starting&#xD;
+    an evaluation. The Process Executor introduces the Data Access Agreement to the person responsible for the&#xD;
+    data.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-aca963ee-7fff-4a50-535b-490d05f4a8f8&quot;>&lt;span>This task will be run on all the&#xD;
+    evaluation.&lt;/span>&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
   <sections xmi:id="_oXytgHIPEeqX7elkF4GZ8w" name="1. Present the Data Access Agreement for the person responsible for the data" guid="_oXytgHIPEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-ff3a79e7-7fff-0530-c25f-b35b13823ec6&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
-    Usa-DSL follows the best practices of ethical and legal issues to protect the user data, dignity, anonymity and&#xD;
-    well-being. The Data Access Agreement is an important document to specify terms under which participants of the&#xD;
-    evaluation provided access to specified data, and obtain acceptance or not of those terms to access this data.&lt;/span>&#xD;
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Usa-DSL follows the best practices of ethical and legal issues to protect the&amp;nbsp; data from companies and keep&#xD;
+    the anonymity.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></purpose>
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-2db2caa5-7fff-5214-57a7-41b0984a5e9d&quot;>&lt;span&#xD;
+    id=&quot;docs-internal-guid-2db2caa5-7fff-5214-57a7-41b0984a5e9d&quot;>The Data Access Agreement is an important document to&#xD;
+    specify the terms on which the evaluation participants provided access to company-specific data.&lt;/span>&lt;span&#xD;
+    id=&quot;docs-internal-guid-2db2caa5-7fff-5214-57a7-41b0984a5e9d&quot;>At this time the person responsible may accept the&#xD;
+    availability of the data by signing the printed document or by setting the field of online acceptance, otherwise of&#xD;
+    non-acceptance of the terms the person responsible will be free to give up the release of the data without any&#xD;
+    prejudice.&lt;/span>&lt;/span>&#xD;
+&lt;/p></purpose>
 </org.eclipse.epf.uma:TaskDescription>

@@ -1,59 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GBu8owL6t67GUbfRkonNpQ" name="p10a_-_choose_the_data_storage,_s-PlYEBMEem9iaQSvThyxA" guid="-GBu8owL6t67GUbfRkonNpQ" changeDate="2020-03-29T19:18:39.784-0300">
-  <mainDescription>&lt;b id=&quot;docs-internal-guid-2e39f12a-7fff-beb6-31a4-f48ceada1992&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-This tasks will be executed when the protocol was developed.&lt;/span>&lt;/b></mainDescription>
-  <keyConsiderations>&lt;b id=&quot;docs-internal-guid-3457c5f3-7fff-4663-6379-7230a86608f1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-3457c5f3-7fff-4663-6379-7230a86608f1&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    the data collected in spreadsheet for analysis and inference of results.&lt;/span>&lt;/b>&#xD;
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-GBu8owL6t67GUbfRkonNpQ" name="p10a_-_choose_the_data_storage,_s-PlYEBMEem9iaQSvThyxA" guid="-GBu8owL6t67GUbfRkonNpQ" changeDate="2020-04-15T17:18:09.277-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-247fb46c-7fff-488d-375e-7dc90520f315&quot;>&lt;span>This task will be executed when the protocol&#xD;
+    is developed.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>If only printed questionnaires were used it is necessary to keep the data collected in a spreadsheet for analysis&#xD;
+    and inference of results.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
-    If data is collected through online instruments it will be necessary to store in a physical location or in the&#xD;
-    cloud.&lt;/span>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>If data is collected through online instruments it will be necessary to store in a physical location or cloud,&#xD;
+    for after, these data will be consulted and analyzed.&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: #ffffff&quot;>&#xD;
-    If the data is collected through video or audio recording it will be necessary to plan a physical space first and then&#xD;
-    you can send to a location in the cloud or online platform.&lt;/span>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>If the data is collected through video or audio recording it will be necessary to plan a physical space first and&#xD;
+    then you can send to a location in the cloud or online platform.&lt;/span>&#xD;
+&lt;/p></keyConsiderations>
+  <sections xmi:id="_PxGL8HIMEeqX7elkF4GZ8w" name="1. Choose the data packaging is important to be saved." guid="_PxGL8HIMEeqX7elkF4GZ8w"/>
+  <sections xmi:id="_QdmsoHIMEeqX7elkF4GZ8w" name="2. Choose the repository which will be used for storing the data or Choose the documents which will be printed." guid="_QdmsoHIMEeqX7elkF4GZ8w"/>
+  <purpose>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span data-mce-mark=&quot;1&quot;>Data packaging is an important activity,&amp;nbsp;because storing the information and documents&#xD;
+    used in the evaluation will make the replication the evaluation possible in the future.&amp;nbsp;&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></keyConsiderations>
-  <sections xmi:id="_PxGL8HIMEeqX7elkF4GZ8w" name="1. Choose the data packaging is an important to save." guid="_PxGL8HIMEeqX7elkF4GZ8w"/>
-  <sections xmi:id="_QdmsoHIMEeqX7elkF4GZ8w" name="2. Choose the repository will be use for storage data or Choose the documents will be printed." guid="_QdmsoHIMEeqX7elkF4GZ8w"/>
-  <purpose>&lt;b id=&quot;docs-internal-guid-a702e13e-7fff-ef51-daa3-9ff251e65c65&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
-&lt;p&#xD;
-style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-BOTTOM: 12pt; PADDING-TOP: 0pt; PADDING-LEFT: 0pt; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0pt; BACKGROUND-COLOR: #ffffff&quot;&#xD;
- dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-a702e13e-7fff-ef51-daa3-9ff251e65c65&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    Data packaging is an important activity because storing the information and documents used in the evaluation will make&#xD;
-    the replication the evaluation possible in the future. Information about the evaluation can be stored in:&lt;/span>&lt;/b>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span data-mce-mark=&quot;1&quot;>Information about the evaluation can be stored in:&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p&#xD;
-style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-BOTTOM: 12pt; PADDING-TOP: 0pt; PADDING-LEFT: 0pt; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0pt; BACKGROUND-COLOR: #ffffff&quot;&#xD;
- dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    &lt;strong>Data Repository&lt;/strong> - storage in a database that is easily accessible by evaluators, which can be in the&#xD;
-    cloud or in a physical environment within a research lab or company.&lt;/span>&#xD;
-&lt;/p>&#xD;
-&lt;p&#xD;
-style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; PADDING-BOTTOM: 12pt; PADDING-TOP: 0pt; PADDING-LEFT: 0pt; LINE-HEIGHT: 1.2; PADDING-RIGHT: 0pt; BACKGROUND-COLOR: #ffffff&quot;&#xD;
- dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    &lt;strong>Recording Actions&lt;/strong> - recordings can be through logs, stored in the appraiser's own machine, in video or&#xD;
-    audio and can be available on a USB stick or DVD.&lt;/span>&#xD;
-&lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 12pt; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2; BACKGROUND-COLOR: #ffffff&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 12pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    &lt;strong>Printed Documents&lt;/strong> - documents used to assist in training, task descriptions and questionnaires must be&#xD;
-    archived by the researcher in order to be consulted if needed.&lt;/span>&#xD;
-&lt;/p>&#xD;
-&lt;br class=&quot;Apple-interchange-newline&quot; /></purpose>
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span data-mce-mark=&quot;1&quot;>&amp;nbsp;&lt;strong>Data Repository&lt;/strong>: storage in a database that is easily accessible by&#xD;
+        evaluators, which can be in the cloud or in a physical environment within a research lab or company.&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br />&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span data-mce-mark=&quot;1&quot;>&lt;strong>Recording Actions&lt;/strong> - recordings can be through system logs, stored in the&#xD;
+        appraiser's own machine, in video or audio, and can be available on a USB stick or DVD.&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br />&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;strong>Printed Document&lt;/strong>: documents used to assist in training, task descriptions and questionnaires must&#xD;
+        be archived by the researcher in order to be consulted when needed.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></purpose>
 </org.eclipse.epf.uma:TaskDescription>
