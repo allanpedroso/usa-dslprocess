@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kHHP1tKpQnJIp59aJdX8Rw" name="new_term_definition,_ycEmkIUuEeq2CYVNNkAusQ" guid="-kHHP1tKpQnJIp59aJdX8Rw">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Controlled Experiment -&lt;/span> &lt;span>A formal, rigorous and controlled investigation&lt;/span> &lt;span>that&lt;/span>&#xD;
+    &lt;span>must be performed in laboratories&lt;/span>&lt;span>, where you can manipulate behaviors and at the same time isolate&#xD;
+    the sample from the interferences of the external world. In order to carry out an experiment process, several steps are&#xD;
+    required, such as definition, planning, operation, analysis and interpretation and presentation of results (WOHLIN et&#xD;
+    al., 2012).&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+&lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Survey -&lt;/span> &lt;span>An observational research method&lt;/span> &lt;span>that&lt;/span> &lt;span>aims to describe and&#xD;
+    explore variables&lt;/span> &lt;span>of a population&lt;/span> &lt;span>by means of a statistical sample&lt;/span> &lt;span>gathered on&#xD;
+    the studied universe (WOHLIN et al., 2012). The collection of data in a Survey can be done by two means: questionnaires&#xD;
+    and / or interviews.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+&lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Case study - It can be defined as a technique for&lt;/span> &lt;span>exploratory investigations&lt;/span> &lt;span>with&#xD;
+    the&lt;/span> &lt;span>purpose of understanding and explaining a phenomenon or testing theories&lt;/span> &lt;span>(WOHLIN et al.,&#xD;
+    2012). Applied as a comparative research strategy, in which it compares the results of using a method, monitoring&#xD;
+    projects, activities and assignments, to the results of another approach. It is considered the appropriate method for&#xD;
+    the “in vivo” evaluation of monitored activities within the industry.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

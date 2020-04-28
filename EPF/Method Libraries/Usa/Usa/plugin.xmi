@@ -145,9 +145,13 @@
     <resourceDescriptors xmi:id="_E5CH8HRWEeqX7elkF4GZ8w" id="-L1tD2XlmuPcpoT_47gMcyQ" uri="workproducts/survey_protocol.xmi"/>
     <resourceDescriptors xmi:id="_RzLNYHgrEeqYJ7wXCcJGSA" id="-iiqqSLXjorLECvqPZq0yzA" uri="workproducts/case_study_protocol.xmi"/>
     <resourceDescriptors xmi:id="_8TB7oHlcEeqYJ7wXCcJGSA" id="-6HlmIenUz-GNYekI7m94Kw" uri="workproducts/controlled_experiment_protocol.xmi"/>
-    <resourceDescriptors xmi:id="_rvQ60Hm-EeqzVu_WcjYBCg" id="-aHPtk2WBaVONUXmK0A0SHg" uri="customcategories/usa-dsl_process_roadmap.xmi"/>
     <resourceDescriptors xmi:id="_LmY9EHnCEeqzVu_WcjYBCg" id="-Z6D0ge93WAKXtrp2NwS85w" uri="customcategories/getting_started.xmi"/>
     <resourceDescriptors xmi:id="_6IktAH9AEeqCLqklk7niQg" id="-rR_Ek2hTBO8jXQSk_HcqyA" uri="guidances/checklists/usability_questionnaire.xmi"/>
+    <resourceDescriptors xmi:id="_Gy2ZoIAlEeqlbeFVGHsM2g" id="-CZzDoNjqGyfLLf_ZisjNNQ" uri="guidances/roadmaps/usa-dsl_process_roadmap.xmi"/>
+    <resourceDescriptors xmi:id="_dQ5i8IUmEeq2CYVNNkAusQ" id="-o3WuZTOmsr6ADeR00WQ49A" uri="guidances/supportingmaterials/usa-dsl_framework.xmi"/>
+    <resourceDescriptors xmi:id="_YNYFEIUuEeq2CYVNNkAusQ" id="-uLIqK6IFUzI9OsZPP5BYwA" uri="guidances/termdefinitions/dsl_-_domain_specific_language.xmi"/>
+    <resourceDescriptors xmi:id="_wN7UAIUuEeq2CYVNNkAusQ" id="-xmN4RNy0kp9yd048Wy1Q3Q" uri="guidances/termdefinitions/hci_-_human_computer_interaction.xmi"/>
+    <resourceDescriptors xmi:id="_5nqqkIUuEeq2CYVNNkAusQ" id="-kHHP1tKpQnJIp59aJdX8Rw" uri="guidances/termdefinitions/ese_-_experimental_software_engineering.xmi"/>
   </org.eclipse.epf.uma.resourcemanager:ResourceManager>
   <org.eclipse.epf.uma:MethodPlugin xmi:id="_EJQ_4D3vEem07NBMeZObjA" name="Usa" guid="_EJQ_4D3vEem07NBMeZObjA">
     <ownedRules xmi:id="_treisLlJEemt5oQZSu_gkA" name="wpState" guid="_treisLlJEemt5oQZSu_gkA" body="Template"/>
@@ -226,7 +230,7 @@
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EJQ_6D3vEem07NBMeZObjA" name="StandardCategories" guid="_EJQ_6D3vEem07NBMeZObjA"/>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EJQ_6T3vEem07NBMeZObjA" name="CustomCategories" guid="_EJQ_6T3vEem07NBMeZObjA">
           <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_EJQ_6j3vEem07NBMeZObjA" name="Hidden" guid="_EJQ_6j3vEem07NBMeZObjA">
-            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_EJQ_6z3vEem07NBMeZObjA" name="Custom Categories" guid="_EJQ_6z3vEem07NBMeZObjA" categorizedElements="_hZWDoEm0EemSM7ZgC4tU6Q _LJvM0EqDEemHNIr5HrcLHA _L4IWIEp-EemHNIr5HrcLHA"/>
+            <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_EJQ_6z3vEem07NBMeZObjA" name="Custom Categories" guid="_EJQ_6z3vEem07NBMeZObjA" categorizedElements="_hZWDoEm0EemSM7ZgC4tU6Q _2dg5MIUiEeq2CYVNNkAusQ"/>
           </childPackages>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_hZWDoEm0EemSM7ZgC4tU6Q" name="usa-dsl_views" guid="_hZWDoEm0EemSM7ZgC4tU6Q" presentationName="Usa-DSL">
             <methodElementProperty xmi:id="_jNPDIEm0EemSM7ZgC4tU6Q" name="PUBLISH_CATEGORY" value="true"/>
@@ -236,6 +240,8 @@
             <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_L4IWIEp-EemHNIr5HrcLHA"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_JgyHAHm4EeqzVu_WcjYBCg"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DisciplineGrouping" href="#_Ky-eMEp5EemHNIr5HrcLHA"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_mvfI0IUcEeq2CYVNNkAusQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_l9K-QIUgEeq2CYVNNkAusQ"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_BjRH8O69EemR0K2er3Z5oQ"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:CustomCategory" href="#_B9XxMHm-EeqzVu_WcjYBCg"/>
             <categorizedElements xsi:type="org.eclipse.epf.uma:DeliveryProcess" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_uFqh8UZWEemUh_IZAUpcPQ"/>
@@ -253,18 +259,59 @@
             <methodElementProperty xmi:id="_WHasAO6-EemR0K2er3Z5oQ" name="me_edited" value="true"/>
             <methodElementProperty xmi:id="_WCPrAHI6EeqX7elkF4GZ8w" name="PUBLISH_CATEGORY" value="true"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_JgyHAHm4EeqzVu_WcjYBCg" name="getting_started" guid="_JgyHAHm4EeqzVu_WcjYBCg" presentationName="Getting Started" shapeicon="customcategories/resources/mic.gif" nodeicon="customcategories/resources/mic.gif" categorizedElements="_y4qb4Hm9EeqzVu_WcjYBCg">
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_JgyHAHm4EeqzVu_WcjYBCg" name="getting_started" guid="_JgyHAHm4EeqzVu_WcjYBCg" presentationName="Getting Started" shapeicon="customcategories/resources/mic.gif" nodeicon="customcategories/resources/mic.gif" categorizedElements="_CFFqAIAlEeqlbeFVGHsM2g _kIQ40IUlEeq2CYVNNkAusQ">
             <methodElementProperty xmi:id="_Xk0iIHm7EeqzVu_WcjYBCg" name="me_edited" value="true"/>
             <methodElementProperty xmi:id="_-EdekHnAEeqzVu_WcjYBCg" name="PUBLISH_CATEGORY" value="true"/>
             <presentation xmi:id="-Z6D0ge93WAKXtrp2NwS85w" href="uma://-Z6D0ge93WAKXtrp2NwS85w#-Z6D0ge93WAKXtrp2NwS85w"/>
           </contentElements>
-          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_y4qb4Hm9EeqzVu_WcjYBCg" name="usa-dsl_process_roadmap" guid="_y4qb4Hm9EeqzVu_WcjYBCg" presentationName="Usa-DSL Process RoadMap" shapeicon="customcategories/resources/Roadmap.gif" nodeicon="customcategories/resources/Roadmap.gif">
-            <methodElementProperty xmi:id="_6HVpEHm9EeqzVu_WcjYBCg" name="me_edited" value="true"/>
-            <methodElementProperty xmi:id="_hbVskHnBEeqzVu_WcjYBCg" name="PUBLISH_CATEGORY" value="true"/>
-            <presentation xmi:id="-aHPtk2WBaVONUXmK0A0SHg" href="uma://-aHPtk2WBaVONUXmK0A0SHg#-aHPtk2WBaVONUXmK0A0SHg"/>
-          </contentElements>
           <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_B9XxMHm-EeqzVu_WcjYBCg" name="work_products" guid="_B9XxMHm-EeqzVu_WcjYBCg" presentationName="Work Products" shapeicon="customcategories/resources/WorkProducts_48.gif" nodeicon="customcategories/resources/WorkProducts_48.gif" categorizedElements="_L3hesL0oEem59LbFCI02WA _nVp7AM9AEemzZO9mUfbClQ _CTdHcL0oEem59LbFCI02WA _CuwKEL0tEem59LbFCI02WA _3HNt8L0mEem59LbFCI02WA _WehZ8L0lEem59LbFCI02WA _7Z7msL0uEem59LbFCI02WA _qChTIL0nEem59LbFCI02WA _i746MEBNEem9iaQSvThyxA _lYBJcPFJEemkP5wVG5Y5gQ _xJAEMPFJEemkP5wVG5Y5gQ _rzbtsPFJEemkP5wVG5Y5gQ _lxJyUL0sEem59LbFCI02WA _o_9QoL0sEem59LbFCI02WA _xC-6oL0mEem59LbFCI02WA _R2WNkL0oEem59LbFCI02WA _268B8L0lEem59LbFCI02WA _bSZGsL0nEem59LbFCI02WA">
             <methodElementProperty xmi:id="_KimhoHm-EeqzVu_WcjYBCg" name="me_edited" value="true"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_mvfI0IUcEeq2CYVNNkAusQ" name="phases" guid="_mvfI0IUcEeq2CYVNNkAusQ" presentationName="Phases" shapeicon="customcategories/resources/phase.gif" nodeicon="customcategories/resources/phase16.png">
+            <methodElementProperty xmi:id="_qYz_8IUcEeq2CYVNNkAusQ" name="me_edited" value="true"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Phase" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_yGghMUZWEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Phase" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_clFVMUZYEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Phase" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_brqkcUZZEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Phase" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_HQbZ4UZaEemUh_IZAUpcPQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_l9K-QIUgEeq2CYVNNkAusQ" name="activities" guid="_l9K-QIUgEeq2CYVNNkAusQ" presentationName="Activities" shapeicon="customcategories/resources/activity_medium.gif" nodeicon="customcategories/resources/activity.png">
+            <methodElementProperty xmi:id="_yePSIIUgEeq2CYVNNkAusQ" name="me_edited" value="true"/>
+            <methodElementProperty xmi:id="_sl_cAIWGEeqvYoZGrJBrtQ" name="include" value="Task"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_1mhEQUZWEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_A58gUUZXEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_YAeXAUZXEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_gUDWwUZXEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_mQF3YUZXEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_tpjYQUZXEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_z69E4UZXEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_-y-XUUZXEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_Ghb30UZYEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_OEW2sUZYEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_T9f0UUZYEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_eU5tAUZYEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_lLntMUZYEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_tkEl4UZYEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_znJioUZYEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_56phAUZYEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_FPsGoUZZEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_OX5BQUZZEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_V2ruEUZZEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_dumskUZZEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_i9WCUUZZEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_x1wBAUZZEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_6zXcQUZZEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_CFBE8UZaEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_IwdpQUZaEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_NDVMoUZaEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_STZ_IUZaEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_YH6UYUZaEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_c6i88UZaEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_SeuB0UZbEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_X0vrUUZbEemUh_IZAUpcPQ"/>
+            <categorizedElements xsi:type="org.eclipse.epf.uma:Activity" href="uma://_uFqh8EZWEemUh_IZAUpcPQ#_fBjQQUZbEemUh_IZAUpcPQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:CustomCategory" xmi:id="_2dg5MIUiEeq2CYVNNkAusQ" name="principles" guid="_2dg5MIUiEeq2CYVNNkAusQ" presentationName="principles" categorizedElements="_ytcPUEp9EemHNIr5HrcLHA _yzf3MEqBEemHNIr5HrcLHA _631hEEqBEemHNIr5HrcLHA _0dJ8oEqBEemHNIr5HrcLHA">
+            <methodElementProperty xmi:id="_4UsdQIUiEeq2CYVNNkAusQ" name="me_edited" value="true"/>
           </contentElements>
         </childPackages>
       </childPackages>
@@ -713,6 +760,18 @@
           <contentElements xsi:type="org.eclipse.epf.uma:Artifact" xmi:id="_w95GIH9AEeqCLqklk7niQg" name="post-evaluation_questionnaire" guid="_w95GIH9AEeqCLqklk7niQg" presentationName="Post-Evaluation Questionnaire">
             <methodElementProperty xmi:id="_6IZG0H9AEeqCLqklk7niQg" name="me_edited" value="true"/>
           </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_JZYsUIUuEeq2CYVNNkAusQ" name="dsl_-_domain_specific_language" guid="_JZYsUIUuEeq2CYVNNkAusQ" presentationName="DSL - Domain Specific Language">
+            <methodElementProperty xmi:id="_YNNF8IUuEeq2CYVNNkAusQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-uLIqK6IFUzI9OsZPP5BYwA" href="uma://-uLIqK6IFUzI9OsZPP5BYwA#-uLIqK6IFUzI9OsZPP5BYwA"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_qlnnsIUuEeq2CYVNNkAusQ" name="hci_-_human_computer_interaction" guid="_qlnnsIUuEeq2CYVNNkAusQ" presentationName="HCI - Human Computer Interaction">
+            <methodElementProperty xmi:id="_wNwU4IUuEeq2CYVNNkAusQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-xmN4RNy0kp9yd048Wy1Q3Q" href="uma://-xmN4RNy0kp9yd048Wy1Q3Q#-xmN4RNy0kp9yd048Wy1Q3Q"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:TermDefinition" xmi:id="_ycEmkIUuEeq2CYVNNkAusQ" name="ese_-_experimental_software_engineering" guid="_ycEmkIUuEeq2CYVNNkAusQ" presentationName="ESE - Experimental Software Engineering">
+            <methodElementProperty xmi:id="_5niHsIUuEeq2CYVNNkAusQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-kHHP1tKpQnJIp59aJdX8Rw" href="uma://-kHHP1tKpQnJIp59aJdX8Rw#-kHHP1tKpQnJIp59aJdX8Rw"/>
+          </contentElements>
         </childPackages>
         <childPackages xsi:type="org.eclipse.epf.uma:ContentPackage" xmi:id="_tT8bEEp9EemHNIr5HrcLHA" name="usa-dsl_principles" guid="_tT8bEEp9EemHNIr5HrcLHA" presentationName="Usa-DSL Principles">
           <methodElementProperty xmi:id="_tT8bEUp9EemHNIr5HrcLHA" name="pkg_loadCheck" value="true"/>
@@ -889,6 +948,14 @@
           <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_bLj0AHREEeqX7elkF4GZ8w" name="e8" guid="_bLj0AHREEeqX7elkF4GZ8w" presentationName="E8">
             <methodElementProperty xmi:id="_eyv9IHREEeqX7elkF4GZ8w" name="me_edited" value="true"/>
             <presentation xmi:id="-D89xyMh4vMD9snLyYCyVgQ" href="uma://-D89xyMh4vMD9snLyYCyVgQ#-D89xyMh4vMD9snLyYCyVgQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:Roadmap" xmi:id="_CFFqAIAlEeqlbeFVGHsM2g" name="usa-dsl_process_roadmap" guid="_CFFqAIAlEeqlbeFVGHsM2g" presentationName="Usa-DSL Process Roadmap" briefDescription="This roadmap presents an overview of Usa-DSL Process, its purpose and lifecycle.&#xD;&#xA;">
+            <methodElementProperty xmi:id="_GyRK0IAlEeqlbeFVGHsM2g" name="me_edited" value="true"/>
+            <presentation xmi:id="-CZzDoNjqGyfLLf_ZisjNNQ" href="uma://-CZzDoNjqGyfLLf_ZisjNNQ#-CZzDoNjqGyfLLf_ZisjNNQ"/>
+          </contentElements>
+          <contentElements xsi:type="org.eclipse.epf.uma:SupportingMaterial" xmi:id="_kIQ40IUlEeq2CYVNNkAusQ" name="usa-dsl_framework" guid="_kIQ40IUlEeq2CYVNNkAusQ" presentationName="Usa-DSL Framework" briefDescription="Usa-DSL Process is an iterative Usability Evaluation Process that is developed based on the concepts of the Usa-DSL Framework. ">
+            <methodElementProperty xmi:id="_1nqu8IUlEeq2CYVNNkAusQ" name="me_edited" value="true"/>
+            <presentation xmi:id="-o3WuZTOmsr6ADeR00WQ49A" href="uma://-o3WuZTOmsr6ADeR00WQ49A#-o3WuZTOmsr6ADeR00WQ49A"/>
           </contentElements>
         </childPackages>
       </childPackages>

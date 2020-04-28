@@ -1,18 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nexLl4nql-Er5_czoPShPQ" name="new_custom_category_1,_LJvM0EqDEemHNIr5HrcLHA" guid="-nexLl4nql-Er5_czoPShPQ" changeDate="2019-03-19T17:14:47.198-0300">
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-nexLl4nql-Er5_czoPShPQ" name="new_custom_category_1,_LJvM0EqDEemHNIr5HrcLHA" guid="-nexLl4nql-Er5_czoPShPQ" changeDate="2020-04-23T02:49:07.932-0300">
   <mainDescription>&lt;p>&#xD;
-    The Usa-DSL Process was designed based on the following principles:&#xD;
+    &lt;span id=&quot;docs-internal-guid-2e889138-7fff-5054-acc2-29f753ef8cf7&quot;>&lt;span&#xD;
+    id=&quot;docs-internal-guid-2e889138-7fff-5054-acc2-29f753ef8cf7&quot;>The Usa-DSL Process was designed based on the following&#xD;
+    principles:&lt;/span>&lt;/span>&#xD;
 &lt;/p>&#xD;
-&lt;p>&#xD;
-    Assist in the construction of the usability evaluation in a pratical and efficient way.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    Assist in the DSL developement through continuos feedback, promoting to continuos improvement of the language.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    Focus on the user-centered evaluation through all the construction phses, minimizing the DSL's rework and disuse.&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    Make DSLs evaluation easier and productive, aiming to reach usability criteria and usage satisfaction&#xD;
-&lt;/p></mainDescription>
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span style=&quot;COLOR: #ff0000&quot;>&lt;span style=&quot;COLOR: #ff0000&quot;>Supporting: Assist in the construction of the usability&#xD;
+        evaluation in a practical and efficient way.&lt;/span>&lt;/span>&amp;nbsp;&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br />&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span style=&quot;COLOR: #ff0000&quot;>Continuous Feedback: Assist in the DSL development through continuous feedback,&#xD;
+        promoting to continuous improvement of the language.&lt;/span>&lt;br />&#xD;
+        &lt;br />&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span style=&quot;COLOR: #ff0000&quot;>&lt;span style=&quot;COLOR: #ff0000&quot;>User-centered Evaluation&lt;/span>&lt;span&#xD;
+        style=&quot;COLOR: #ff0000&quot;>: Focus on the user-centered evaluation through all the construction phases, minimizing the&#xD;
+        DSL's rework and disuse.&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;br />&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span style=&quot;COLOR: #ff0000&quot;>&lt;span style=&quot;COLOR: #ff0000&quot;>Productive: Make DSLs evaluation easier and productive,&#xD;
+        aiming to reach usability criteria and usage satisfaction&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
 </org.eclipse.epf.uma:ContentDescription>

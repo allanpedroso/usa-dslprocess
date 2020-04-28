@@ -32,17 +32,10 @@ Phase 4 - Reporting: in this phase, the evaluator will register the used protoco
 data.&lt;/span></mainDescription>
   </org.eclipse.epf.uma:ActivityDescription>
   <org.eclipse.epf.uma:ActivityDescription xmi:id="-2-EJsNjEc7HJWLSsESUHaw" name="P1 - Define Evaluators Profile,_1mhEQUZWEemUh_IZAUpcPQ" guid="-2-EJsNjEc7HJWLSsESUHaw">
-    <mainDescription>&lt;b id=&quot;docs-internal-guid-d984aab5-7fff-ef9c-fa59-6851e12ff775&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    P1 - Define Evaluators Profiles &lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    : the goal of this activity is to define the evaluators profiles, which will be related to the evaluation method that&#xD;
-    will be used. The evaluation can be performed by, for example, an HCI expert, a domain analyst, a domain developer or a&#xD;
-    Domain Tester.&amp;nbsp;&lt;/span>&lt;/span>&#xD;
-&lt;/p>&#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
+    <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>&lt;strong>P1 - Define Evaluators Profiles&lt;/strong>&lt;span>: the goal of this activity is to define the evaluators&#xD;
+    profiles, which will be related to the evaluation method that will be used. The evaluation can be performed by, for&#xD;
+    example, an HCI expert, a domain analyst, a domain developer or a Domain Tester.&amp;nbsp;&lt;/span>&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;h5 style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
     Composed by this tasks:&#xD;
@@ -53,15 +46,11 @@ data.&lt;/span></mainDescription>
 &lt;/p></mainDescription>
   </org.eclipse.epf.uma:ActivityDescription>
   <org.eclipse.epf.uma:ActivityDescription xmi:id="-99l1pihwsg0iZ65ATRQ6UQ" name="P2 - Define Informed Consent Term,_A58gUUZXEemUh_IZAUpcPQ" guid="-99l1pihwsg0iZ65ATRQ6UQ">
-    <mainDescription>&lt;b id=&quot;docs-internal-guid-5bd4fda6-7fff-2f44-93a8-3167b64088e6&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-5bd4fda6-7fff-2f44-93a8-3167b64088e6&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    P2 - Define Informed Consent Term&lt;/span> &lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    : it is a formal document that describes the evaluation goal, how the evaluation will take place, how the data will be&#xD;
-    collected, how the data will be protected, and so on. Usually, it is recommended the use of ethical codes from&#xD;
-    organizations like, for example, The Association for Computing Machinery (ACM).&amp;nbsp;&lt;/span>&lt;/b>&#xD;
+    <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-5bd4fda6-7fff-2f44-93a8-3167b64088e6&quot;>&lt;strong>P2 - Define Informed Consent&#xD;
+    Term&lt;/strong>&lt;span>: it is a formal document that describes the evaluation goal, how the evaluation will take place,&#xD;
+    how the data will be collected, how the data will be protected, and so on. Usually, it is recommended the use of&#xD;
+    ethical codes from organizations like, for example, The Association for Computing Machinery (ACM).&amp;nbsp;&lt;/span>&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;h5>&#xD;
     &lt;br />&#xD;
@@ -74,16 +63,13 @@ data.&lt;/span></mainDescription>
   </org.eclipse.epf.uma:ActivityDescription>
   <org.eclipse.epf.uma:ActivityDescription xmi:id="-66g1ovt4_0j5sR3QUhtoWQ" name="P3 - Define Data Type,_YAeXAUZXEemUh_IZAUpcPQ" guid="-66g1ovt4_0j5sR3QUhtoWQ">
     <mainDescription>&lt;p>&#xD;
-    &lt;b id=&quot;docs-internal-guid-6566038b-7fff-65c8-2f87-af047c2a3527&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    P3 - Define Data Type&lt;/span> &lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    : the collected data type from the evaluation can be quantitative and/or qualitative. The quantitative data are numeric&#xD;
+    &lt;span id=&quot;docs-internal-guid-6566038b-7fff-65c8-2f87-af047c2a3527&quot;>&lt;strong>P3 - Define Data Type&lt;/strong>&lt;span>: the&#xD;
+    collected data type from the evaluation can be quantitative and/or qualitative. The quantitative data are numeric&#xD;
     results that predict the quantity of answers attributed to determined item of a question. The qualitative data is&#xD;
     composed of subjective information related to the participant’s opinion about studied object. These data aim to predict&#xD;
     what kind of information the evaluator intends to obtain. Albuquerque et al. suggest the use of two data types, in&#xD;
     order to obtain a wider and more complete view about the participant opinions. Barisic et al., on the other hand, use&#xD;
-    quantitative data and consider that to be sufficient for the goal of their research.&lt;/span>&lt;/b>&#xD;
+    quantitative data and consider that to be sufficient for the goal of their research.&lt;/span>&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;h5>&#xD;
     &lt;span&#xD;
@@ -98,16 +84,11 @@ data.&lt;/span></mainDescription>
 &lt;/h5></mainDescription>
   </org.eclipse.epf.uma:ActivityDescription>
   <org.eclipse.epf.uma:ActivityDescription xmi:id="-pAf_Mxoz4j0yWC5I2h0dlw" name="P4 - Define Empirical Study Method,_gUDWwUZXEemUh_IZAUpcPQ" guid="-pAf_Mxoz4j0yWC5I2h0dlw">
-    <mainDescription>&lt;b id=&quot;docs-internal-guid-2d0a1494-7fff-92bb-96b4-64546ca3d621&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
-&lt;h5 style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    P4 - Define Empirical Study Method&lt;/span> &lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    : there are different empirical evaluation methods that can be used to evaluate usability. These methods have to&#xD;
-    involve users during data collection. This activity is closely related to activity P2. Examples of empirical methods&#xD;
-    are: Controlled Experiment, Survey or Case Study.&amp;nbsp;&lt;/span>&#xD;
-&lt;/h5>&#xD;
+    <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;strong>P4 - Define Empirical Study Method&lt;/strong>&lt;span>: there are different empirical evaluation methods that can be&#xD;
+    used to evaluate usability. These methods have to involve users during data collection. This activity is closely&#xD;
+    related to activity P2. Examples of empirical methods are: Controlled Experiment, Survey or Case Study.&amp;nbsp;&lt;/span>&#xD;
+&lt;/p>&#xD;
 &lt;h5>&#xD;
     &lt;br class=&quot;Apple-interchange-newline&quot; />&#xD;
     Composed by this tasks:&#xD;
@@ -118,14 +99,10 @@ data.&lt;/span></mainDescription>
 &lt;/p></mainDescription>
   </org.eclipse.epf.uma:ActivityDescription>
   <org.eclipse.epf.uma:ActivityDescription xmi:id="-qzxfu9jeabUPugpcZJHBZw" name="P5 - Define Evaluation Usability Type,_mQF3YUZXEemUh_IZAUpcPQ" guid="-qzxfu9jeabUPugpcZJHBZw">
-    <mainDescription>&lt;b id=&quot;docs-internal-guid-1496fedb-7fff-b9a9-bba3-45af6e83d377&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b> &#xD;
-&lt;p style=&quot;MARGIN-BOTTOM: 0pt; MARGIN-TOP: 0pt; TEXT-ALIGN: justify; LINE-HEIGHT: 1.38&quot; dir=&quot;ltr&quot;>&#xD;
-    &lt;b id=&quot;docs-internal-guid-1496fedb-7fff-b9a9-bba3-45af6e83d377&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    P5 - Define Evaluation Usability Type&lt;/span> &lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    : as mentioned in the description of step 5 - Evaluation Method, evaluation can be through end users, HCI or DSL&#xD;
-    experts. This activity is related to activities P1, P3 and P4.&amp;nbsp;&lt;/span>&lt;/b>&#xD;
+    <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-1496fedb-7fff-b9a9-bba3-45af6e83d377&quot;>&lt;strong>P5 - Define Evaluation Usability&#xD;
+    Type&lt;/strong>&lt;span>: as mentioned in the description of step 5 - Evaluation Method, evaluation can be through end&#xD;
+    users, HCI or DSL experts. This activity is related to activities P1, P3 and P4.&amp;nbsp;&lt;/span>&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;h5>&#xD;
     Composed by this tasks:&#xD;
@@ -138,16 +115,11 @@ data.&lt;/span></mainDescription>
   </org.eclipse.epf.uma:ActivityDescription>
   <org.eclipse.epf.uma:ActivityDescription xmi:id="-eGCzPQeMwu5phKuA-_CQsg" name="P6 - Define Metrics for Language Validation,_tpjYQUZXEemUh_IZAUpcPQ" guid="-eGCzPQeMwu5phKuA-_CQsg">
     <mainDescription>&lt;p>&#xD;
-    &lt;b id=&quot;docs-internal-guid-c190c951-7fff-1941-369e-f5ffb2416bab&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    P6 - Define Metrics for Language Validation&lt;/span> &lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    : the metrics depend on the evaluation goal and usability criteria that someone wants to evaluate. Examples of criteria&#xD;
-    that may be evaluated are: easy to learn, easy to remember, easy to use, effort/conclusion time, perceived complexity,&#xD;
-    utility, satisfaction, conclusion rate, task error rate, efficiency or effectiveness.&lt;/span>&lt;/b>&#xD;
-&lt;/p>&#xD;
-&lt;p>&#xD;
-    &amp;nbsp;&#xD;
+    &lt;span id=&quot;docs-internal-guid-c190c951-7fff-1941-369e-f5ffb2416bab&quot;>&lt;strong>P6 - Define Metrics for Language&#xD;
+    Validation&lt;/strong>&lt;span>: the metrics depend on the evaluation goal and usability criteria that someone wants to&#xD;
+    evaluate. Examples of criteria that may be evaluated are: easy to learn, easy to remember, easy to use,&#xD;
+    effort/conclusion time, perceived complexity, utility, satisfaction, conclusion rate, task error rate, efficiency or&#xD;
+    effectiveness.&lt;/span>&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     &lt;span&#xD;
@@ -163,12 +135,9 @@ data.&lt;/span></mainDescription>
   </org.eclipse.epf.uma:ActivityDescription>
   <org.eclipse.epf.uma:ActivityDescription xmi:id="-2U3Q_CZmaD34eBlNP_zPeA" name="P7 - Define the Instruments of Data Gathering,_z69E4UZXEemUh_IZAUpcPQ" guid="-2U3Q_CZmaD34eBlNP_zPeA">
     <mainDescription>&lt;p>&#xD;
-    &lt;b id=&quot;docs-internal-guid-135f72f9-7fff-4f4a-401d-3f2ae348c7d8&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    P7 - Define the Instruments of Data Gathering&lt;/span> &lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    : some of the instruments that can be used to collect data can be heuristic checklist, log capture, use observation,&#xD;
-    interview or questionnaire.&lt;/span>&lt;/b>&#xD;
+    &lt;span id=&quot;docs-internal-guid-135f72f9-7fff-4f4a-401d-3f2ae348c7d8&quot;>&lt;strong>P7 - Define the Instruments of Data&#xD;
+    Gathering&lt;/strong>&lt;span>: some of the instruments that can be used to collect data can be heuristic checklist, log&#xD;
+    capture, use observation, interview or questionnaire.&lt;/span>&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     &lt;span&#xD;
@@ -184,15 +153,11 @@ data.&lt;/span></mainDescription>
   </org.eclipse.epf.uma:ActivityDescription>
   <org.eclipse.epf.uma:ActivityDescription xmi:id="-kaBVfSLAO1bJC-WvPJQmNg" name="P8 - Define the Instruments of Instruction and Training,_-y-XUUZXEemUh_IZAUpcPQ" guid="-kaBVfSLAO1bJC-WvPJQmNg">
     <mainDescription>&lt;p>&#xD;
-    &lt;b id=&quot;docs-internal-guid-80a7b454-7fff-786c-344d-071f3fe3ca06&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 700; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    P8 - Define the Instruments of Instruction and Training&lt;/span> &lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    : the UsaDSL framework use the following instruments: DSL guide, user scenario and language presentation. This activity&#xD;
-    also defines the&lt;/span> &lt;span&#xD;
-    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
-    conduct tasks that will be executed by the user, when an empirical method is chosen. In that case, this activity has a&#xD;
-    close relation to P3, P4 and P5.&lt;/span>&lt;/b>&#xD;
+    &lt;span id=&quot;docs-internal-guid-80a7b454-7fff-786c-344d-071f3fe3ca06&quot;>&lt;strong>P8 - Define the Instruments of Instruction&#xD;
+    and Training&lt;/strong>&lt;span>&lt;strong>:&lt;/strong> the Usa-DSL framework use the following instruments: DSL guide, user&#xD;
+    scenario and language presentation. This activity also defines the&lt;/span> &lt;span>conduct tasks that will be executed by&#xD;
+    the user, when an empirical method is chosen. In that case, this activity has a close relation to P3, P4 and&#xD;
+    P5.&lt;/span>&lt;/span>&#xD;
 &lt;/p>&#xD;
 &lt;p>&#xD;
     &lt;span&#xD;

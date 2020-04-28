@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-uLIqK6IFUzI9OsZPP5BYwA" name="new_term_definition,_JZYsUIUuEeq2CYVNNkAusQ" guid="-uLIqK6IFUzI9OsZPP5BYwA" changeDate="2020-04-23T03:48:02.683-0300">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>is a type of programming language&lt;/span> &lt;span>o&lt;/span>&lt;span>r specification in software development&lt;/span>&#xD;
+    &lt;span>and domain engineering. This language&lt;/span> &lt;span>has the purpose of developing custom-made notations for a&#xD;
+    particular domain.&lt;/span> &lt;span>A DSL is developed&lt;/span> &lt;span>from the problem domain and not from the solution&#xD;
+    domain&lt;/span>&lt;span>. A DSL&lt;/span> &lt;span>has its own syntax and semantics&lt;/span>&lt;span>. One of its characteristics is&#xD;
+    the form of&lt;/span> &lt;span>representation adopted&lt;/span>&lt;span>, since it&lt;/span> &lt;span>must be in accordance with the&#xD;
+    concepts of the domain that is being modeled&lt;/span>&lt;span>, that is,&lt;/span> &lt;span>it must have a representation that is&#xD;
+    faithful to its meaning&lt;/span>&lt;span>.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Example: UML, SQL, Canopus&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

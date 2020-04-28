@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-Z6D0ge93WAKXtrp2NwS85w" name="new_custom_category,_JgyHAHm4EeqzVu_WcjYBCg" guid="-Z6D0ge93WAKXtrp2NwS85w" changeDate="2020-04-16T03:37:12.897-0300">
-  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+  <mainDescription>&lt;h4 dir=&quot;ltr&quot;>&#xD;
     &lt;span>What is Usa-DSL Process?&amp;nbsp;&lt;/span>&#xD;
-&lt;/p>&#xD;
+&lt;/h4>&#xD;
 &lt;p dir=&quot;ltr&quot;>&#xD;
     &lt;span>Usa-DSL Process is a Usability Evaluation Process for Specific Domain Language that, over time, is expected to&#xD;
     cover a broad set of needs of DSL developers with regard to evaluation of DSLs. Usa-DSL Process Usa-DSL Process&#xD;
@@ -38,9 +38,8 @@
         &lt;/p>&#xD;
     &lt;/li>&#xD;
 &lt;/ul>&#xD;
-&lt;p dir=&quot;ltr&quot;>&#xD;
-    &amp;nbsp;&#xD;
-&lt;/p>&#xD;
+&lt;br dir=&quot;ltr&quot; />&#xD;
+&lt;br />&#xD;
 &lt;p style=&quot;MARGIN-RIGHT: 0px&quot; dir=&quot;ltr&quot;>&#xD;
     &lt;span>The main purpose of the Usa-DSL Process is to guide the questions &quot;Who will do what, when and how?&quot; [Pre10],&#xD;
     always iteratively [SJWM05] and guided to the development of formal usability evaluations with ease and&#xD;

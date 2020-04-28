@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-xmN4RNy0kp9yd048Wy1Q3Q" name="new_term_definition,_qlnnsIUuEeq2CYVNNkAusQ" guid="-xmN4RNy0kp9yd048Wy1Q3Q">
+  <mainDescription>&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span>Usability Test - performed with the&lt;/span> &lt;span>participation of end users that know the domain of the&#xD;
+    application&lt;/span>&lt;span>. Usually, tasks are performed in the system and after, a report of the system’s use can be&#xD;
+    registered in questionnaires, interviews, focus groups, controlled experiment, etc.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p dir=&quot;ltr&quot;>&#xD;
+    &lt;span id=&quot;docs-internal-guid-e808809c-7fff-332b-d56c-eaf6d80f8f7e&quot;>&lt;br />&#xD;
+    &lt;span>Heuristic Evaluation - is an&lt;/span> &lt;span>inspection evaluation&lt;/span> &lt;span>method in which&lt;/span> &lt;span>HCI&#xD;
+    specialists&lt;/span> &lt;span>inspect the system interface to identify usage problems that are recorded in a&#xD;
+    checklist.&lt;/span>&lt;/span>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
