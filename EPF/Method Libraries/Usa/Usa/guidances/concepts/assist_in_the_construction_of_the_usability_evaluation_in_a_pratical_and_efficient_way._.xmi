@@ -1,2 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dn08dzMEr6XxXwQDVDCCFg" name="assist_in_the_construction_of_the_usability_evaluation_in_a_pratical_and_efficient_way._,_ytcPUEp9EemHNIr5HrcLHA" guid="-dn08dzMEr6XxXwQDVDCCFg" changeDate="2019-03-19T16:56:25.767-0300"/>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-dn08dzMEr6XxXwQDVDCCFg" name="assist_in_the_construction_of_the_usability_evaluation_in_a_pratical_and_efficient_way._,_ytcPUEp9EemHNIr5HrcLHA" guid="-dn08dzMEr6XxXwQDVDCCFg" changeDate="2020-04-29T11:02:33.991-0300">
+  <copyrightStatement href="uma://_EJQ_4D3vEem07NBMeZObjA#_3BBWYIrqEeqhTuMF0-6GVQ"/>
+  <mainDescription>&lt;b id=&quot;docs-internal-guid-bb53655b-7fff-a818-80f7-f23fecc2138f&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;/b>&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;b id=&quot;docs-internal-guid-bb53655b-7fff-a818-80f7-f23fecc2138f&quot; style=&quot;FONT-WEIGHT: normal&quot;>&lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Supporting Analyst, Developers, and Testers, when it comes to evaluating the usability of DSLs, is essential for them&#xD;
+    to be increasingly accepted by end users.&lt;/span>&lt;/b>&#xD;
+&lt;/p>&#xD;
+&lt;br />&#xD;
+&lt;p style=&quot;MARGIN-BOTTOM: 0pt; TEXT-ALIGN: justify; MARGIN-TOP: 0pt; LINE-HEIGHT: 1.2&quot; dir=&quot;ltr&quot;>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 11pt; TEXT-DECORATION: none; FONT-FAMILY: Arial; FONT-VARIANT: normal; VERTICAL-ALIGN: baseline; WHITE-SPACE: pre-wrap; FONT-WEIGHT: 400; COLOR: #000000; FONT-STYLE: normal; BACKGROUND-COLOR: transparent&quot;>&#xD;
+    Therefore, the construction a process that assists in the development of these usability evaluations and brings a&#xD;
+    language closer to the field of Software Engineering approximated to the knowledge of usability testing and heuristic&#xD;
+    evaluation, are fundamental to the success of the developed DSL. Thus, an effective evaluation should aligns the&#xD;
+    interests of the project participants and the understanding of such evaluations.&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;br class=&quot;Apple-interchange-newline&quot; /></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>
